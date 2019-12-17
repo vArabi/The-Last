@@ -758,3 +758,43 @@ please set the "Use T0 as ref pose" option or add them to the bind pose and reim
 [2019.12.17-14.38.20:959][691]LogSkeletalMesh: Building Skeletal Mesh Slash...
 [2019.12.17-14.38.21:039][691]LogSkeletalMesh: Built Skeletal Mesh [0.08s] /Game/MCO_Mocap_Basics/Animation/Slash.Slash
 [2019.12.17-14.38.21:526][691]LogUObjectHash: Compacting FUObjectHashTables data took   2.85ms
+[2019.12.17-14.43.23:538][378]LogAssetEditorManager: Opening Asset editor for Font /Game/Fuente/Fuente_Menu.Fuente_Menu
+[2019.12.17-14.43.34:281][145]LogSlate: Last resort fallback font was requested. Font: '', Character: '� (U+fffd)'
+[2019.12.17-14.43.34:298][145]LogSlate: Took 0.014781 seconds to synchronously load lazily loaded font '../../../Engine/Content/SlateDebug/Fonts/LastResort.ttf' (5269K)
+[2019.12.17-14.43.47:706][316]LogSlate: Window 'Save Font Face' being destroyed
+[2019.12.17-14.43.47:736][316]LogAssetEditorManager: Opening Asset editor for FontFace /Game/Fuente/Knight2.Knight2
+[2019.12.17-14.43.52:672][883]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Fuente/Knight2" FILE="../../../../../../Users/v.arabi/Documents/GitHub/The-Last/The Last/GameAlpha/TheLast/Content/Fuente/Knight2.uasset" SILENT=true
+[2019.12.17-14.43.52:677][883]LogSavePackage: Moving '../../../../../../Users/v.arabi/Documents/GitHub/The-Last/The Last/GameAlpha/TheLast/Saved/Knight2C9C58980455377FCFACCE8B7304402C3.tmp' to '../../../../../../Users/v.arabi/Documents/GitHub/The-Last/The Last/GameAlpha/TheLast/Content/Fuente/Knight2.uasset'
+[2019.12.17-14.43.58:064][514]LogSlate: Window 'Fuente_Menu' being destroyed
+[2019.12.17-14.44.03:588][168]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Fuente/Knight2" FILE="../../../../../../Users/v.arabi/Documents/GitHub/The-Last/The Last/GameAlpha/TheLast/Content/Fuente/Knight2.uasset" SILENT=true
+[2019.12.17-14.44.03:597][168]LogSavePackage: Moving '../../../../../../Users/v.arabi/Documents/GitHub/The-Last/The Last/GameAlpha/TheLast/Saved/Knight206ADFB7B4200862C85BEAC970EE01CFE.tmp' to '../../../../../../Users/v.arabi/Documents/GitHub/The-Last/The Last/GameAlpha/TheLast/Content/Fuente/Knight2.uasset'
+[2019.12.17-14.44.04:501][271]LogAssetEditorManager: Opening Asset editor for Font /Game/Fuente/Fuente_Menu.Fuente_Menu
+[2019.12.17-14.44.06:492][499]LogSlate: Window 'Fuente_Menu' being destroyed
+[2019.12.17-14.44.21:904][250]LogTexture: Display: Building textures: THE_LAST (AutoDXT, 3840X2160)
+[2019.12.17-14.44.21:927][250]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/ThirdPersonBP/Menu/MenuPrincipal.MenuPrincipal
+[2019.12.17-14.44.22:252][250]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0021 seconds. Added 121 classes and 0 folders.
+[2019.12.17-14.44.24:772][348]LogSlate: Took 0.010669 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf' (3848K)
+[2019.12.17-14.44.40:029][482]Cmd: TRANSACTION UNDO
+[2019.12.17-14.44.40:029][482]LogEditorTransaction: Undo Editar Typeface
+[2019.12.17-14.44.40:863][533]Cmd: TRANSACTION UNDO
+[2019.12.17-14.44.40:863][533]LogEditorTransaction: Undo Editar Font Family
+[2019.12.17-14.44.41:293][560]Cmd: TRANSACTION UNDO
+[2019.12.17-14.44.41:293][560]LogEditorTransaction: Undo Set Font Face Asset
+[2019.12.17-14.44.43:668][740]LogSlate: Window 'MenuPrincipal' being destroyed
+[2019.12.17-14.44.43:674][740]LogSlate: Window 'MenuPrincipal' being destroyed
+[2019.12.17-14.44.43:680][740]LogWorld: UWorld::CleanupWorld for World_12, bSessionEnded=true, bCleanupResources=true
+[2019.12.17-14.44.43:697][740]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2019.12.17-14.44.47:584][190]LogAssetEditorManager: Opening Asset editor for Font /Game/Fuente/Fuente_Menu.Fuente_Menu
+[2019.12.17-14.44.51:826][673]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Fuente/Fuente_Menu" FILE="../../../../../../Users/v.arabi/Documents/GitHub/The-Last/The Last/GameAlpha/TheLast/Content/Fuente/Fuente_Menu.uasset" SILENT=true
+[2019.12.17-14.44.51:833][673]LogSavePackage: Moving '../../../../../../Users/v.arabi/Documents/GitHub/The-Last/The Last/GameAlpha/TheLast/Saved/Fuente_MenuABC53A5C49C0F8AD27AE34839B401ECE.tmp' to '../../../../../../Users/v.arabi/Documents/GitHub/The-Last/The Last/GameAlpha/TheLast/Content/Fuente/Fuente_Menu.uasset'
+[2019.12.17-14.44.52:812][784]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Fuente/Fuente_Menu" FILE="../../../../../../Users/v.arabi/Documents/GitHub/The-Last/The Last/GameAlpha/TheLast/Content/Fuente/Fuente_Menu.uasset" SILENT=true
+[2019.12.17-14.44.52:821][784]LogSavePackage: Moving '../../../../../../Users/v.arabi/Documents/GitHub/The-Last/The Last/GameAlpha/TheLast/Saved/Fuente_MenuB014431D4DB91C5BE9F8828C2E3C125F.tmp' to '../../../../../../Users/v.arabi/Documents/GitHub/The-Last/The Last/GameAlpha/TheLast/Content/Fuente/Fuente_Menu.uasset'
+[2019.12.17-14.44.52:953][795]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Fuente/Fuente_Menu" FILE="../../../../../../Users/v.arabi/Documents/GitHub/The-Last/The Last/GameAlpha/TheLast/Content/Fuente/Fuente_Menu.uasset" SILENT=true
+[2019.12.17-14.44.52:962][795]LogSavePackage: Moving '../../../../../../Users/v.arabi/Documents/GitHub/The-Last/The Last/GameAlpha/TheLast/Saved/Fuente_Menu31058CB3466BB63BA5EA51B7344F9AD4.tmp' to '../../../../../../Users/v.arabi/Documents/GitHub/The-Last/The Last/GameAlpha/TheLast/Content/Fuente/Fuente_Menu.uasset'
+[2019.12.17-14.44.54:117][926]LogSlate: Window 'Fuente_Menu' being destroyed
+[2019.12.17-14.44.56:351][176]LogUObjectHash: Compacting FUObjectHashTables data took   5.80ms
+[2019.12.17-14.44.56:569][176]LogSavePackage: Moving '../../../../../../Users/v.arabi/Documents/GitHub/The-Last/The Last/GameAlpha/TheLast/Saved/ThirdPersonExampleMap79B5C5CA4F3C486F4C1432AD27C54107.tmp' to '../../../../../../Users/v.arabi/Documents/GitHub/The-Last/The Last/GameAlpha/TheLast/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2019.12.17-14.45.07:241][670]LogUObjectHash: Compacting FUObjectHashTables data took   4.30ms
+[2019.12.17-14.45.07:426][670]LogSavePackage: Moving '../../../../../../Users/v.arabi/Documents/GitHub/The-Last/The Last/GameAlpha/TheLast/Saved/ThirdPersonExampleMap5CC8B40F41CDB9EF0437C3A0E67B15AD.tmp' to '../../../../../../Users/v.arabi/Documents/GitHub/The-Last/The Last/GameAlpha/TheLast/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2019.12.17-14.45.07:910][718]LogUObjectHash: Compacting FUObjectHashTables data took   3.16ms
+[2019.12.17-14.45.08:097][718]LogSavePackage: Moving '../../../../../../Users/v.arabi/Documents/GitHub/The-Last/The Last/GameAlpha/TheLast/Saved/ThirdPersonExampleMapF4EFEF1D41C4E318A42E679BAAEFDAEF.tmp' to '../../../../../../Users/v.arabi/Documents/GitHub/The-Last/The Last/GameAlpha/TheLast/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
