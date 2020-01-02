@@ -1,0 +1,654 @@
+﻿Log file open, 12/29/19 13:32:31
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: TheLast
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.091466
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +1:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin ScreenshotTools
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogHMD: Failed initializing OVRPlugin 1.37.0
+LogInit: Build: ++UE4+Release-4.23-CL-9631420
+LogInit: Engine Version: 4.23.1-9631420+++UE4+Release-4.23
+LogInit: Compatible Engine Version: 4.23.0-8386587+++UE4+Release-4.23
+LogInit: Net CL: 8386587
+LogInit: OS: Windows 10 (Release 1903) (), CPU: Intel(R) Core(TM) i7-7700HQ CPU @ 2.80GHz, GPU: NVIDIA GeForce GTX 1070
+LogInit: Compiled (64-bit): Oct 18 2019 02:07:44
+LogInit: Compiled with Visual C++: 19.16.27030.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.23
+LogInit: Command Line: 
+LogInit: Base Directory: D:/Epic Games/UE_4.23/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 23
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 3
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 34
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 35
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 31
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 11
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 27
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 6
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 9
+LogInit: Presizing for max 16777216 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2019.12.29-12.32.32:685][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2019.12.29-12.32.32:685][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2019.12.29-12.32.32:685][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/victo/OneDrive/Documents/GitHub/The-Last/The Last/GameAlpha/TheLast/Saved/Config/Windows/Engine.ini]
+[2019.12.29-12.32.32:685][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2019.12.29-12.32.32:685][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/victo/OneDrive/Documents/GitHub/The-Last/The Last/GameAlpha/TheLast/Saved/Config/Windows/Engine.ini]
+[2019.12.29-12.32.32:685][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/victo/OneDrive/Documents/GitHub/The-Last/The Last/GameAlpha/TheLast/Saved/Config/Windows/Engine.ini]
+[2019.12.29-12.32.32:685][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2019.12.29-12.32.32:685][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2019.12.29-12.32.32:685][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2019.12.29-12.32.32:685][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2019.12.29-12.32.32:685][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2019.12.29-12.32.32:685][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2019.12.29-12.32.32:685][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2019.12.29-12.32.32:685][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2019.12.29-12.32.32:685][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2019.12.29-12.32.32:685][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2019.12.29-12.32.32:685][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2019.12.29-12.32.32:685][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2019.12.29-12.32.32:685][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2019.12.29-12.32.32:686][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/victo/OneDrive/Documents/GitHub/The-Last/The Last/GameAlpha/TheLast/Saved/Config/Windows/Engine.ini]
+[2019.12.29-12.32.32:686][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2019.12.29-12.32.32:686][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2019.12.29-12.32.32:686][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2019.12.29-12.32.32:686][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2019.12.29-12.32.32:686][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2019.12.29-12.32.32:686][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2019.12.29-12.32.32:686][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:16777216]]
+[2019.12.29-12.32.32:686][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2019.12.29-12.32.32:686][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2019.12.29-12.32.32:686][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2019.12.29-12.32.32:686][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2019.12.29-12.32.32:686][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2019.12.29-12.32.32:686][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2019.12.29-12.32.32:686][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/victo/OneDrive/Documents/GitHub/The-Last/The Last/GameAlpha/TheLast/Saved/Config/Windows/Engine.ini]
+[2019.12.29-12.32.32:686][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/victo/OneDrive/Documents/GitHub/The-Last/The Last/GameAlpha/TheLast/Saved/Config/Windows/Engine.ini]
+[2019.12.29-12.32.32:692][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/victo/OneDrive/Documents/GitHub/The-Last/The Last/GameAlpha/TheLast/Saved/Config/Windows/Scalability.ini]
+[2019.12.29-12.32.32:692][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.12.29-12.32.32:692][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.12.29-12.32.32:692][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/victo/OneDrive/Documents/GitHub/The-Last/The Last/GameAlpha/TheLast/Saved/Config/Windows/Scalability.ini]
+[2019.12.29-12.32.32:692][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.12.29-12.32.32:692][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/victo/OneDrive/Documents/GitHub/The-Last/The Last/GameAlpha/TheLast/Saved/Config/Windows/Scalability.ini]
+[2019.12.29-12.32.32:692][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.12.29-12.32.32:692][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.12.29-12.32.32:692][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.12.29-12.32.32:692][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.12.29-12.32.32:692][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.12.29-12.32.32:692][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.12.29-12.32.32:692][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.12.29-12.32.32:692][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.12.29-12.32.32:692][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.12.29-12.32.32:693][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.12.29-12.32.32:693][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.12.29-12.32.32:693][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.12.29-12.32.32:693][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.12.29-12.32.32:693][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.12.29-12.32.32:693][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.12.29-12.32.32:693][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.12.29-12.32.32:693][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.12.29-12.32.32:693][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.12.29-12.32.32:693][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/victo/OneDrive/Documents/GitHub/The-Last/The Last/GameAlpha/TheLast/Saved/Config/Windows/Scalability.ini]
+[2019.12.29-12.32.32:693][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.12.29-12.32.32:693][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.12.29-12.32.32:693][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.12.29-12.32.32:693][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.12.29-12.32.32:693][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.12.29-12.32.32:693][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.12.29-12.32.32:693][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.12.29-12.32.32:693][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.12.29-12.32.32:693][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.12.29-12.32.32:693][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.12.29-12.32.32:693][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.12.29-12.32.32:693][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.12.29-12.32.32:693][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.12.29-12.32.32:693][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.12.29-12.32.32:693][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.12.29-12.32.32:693][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.12.29-12.32.32:693][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.12.29-12.32.32:693][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.12.29-12.32.32:693][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.12.29-12.32.32:693][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.12.29-12.32.32:693][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.12.29-12.32.32:693][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.12.29-12.32.32:693][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.12.29-12.32.32:693][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.12.29-12.32.32:693][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.12.29-12.32.32:693][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.12.29-12.32.32:693][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.12.29-12.32.32:693][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.12.29-12.32.32:693][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.12.29-12.32.32:693][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.12.29-12.32.32:693][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/victo/OneDrive/Documents/GitHub/The-Last/The Last/GameAlpha/TheLast/Saved/Config/Windows/Scalability.ini]
+[2019.12.29-12.32.32:693][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.12.29-12.32.32:693][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.12.29-12.32.32:693][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.12.29-12.32.32:693][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.12.29-12.32.32:693][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.12.29-12.32.32:693][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.12.29-12.32.32:693][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.12.29-12.32.32:693][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.12.29-12.32.32:693][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/victo/OneDrive/Documents/GitHub/The-Last/The Last/GameAlpha/TheLast/Saved/Config/Windows/Scalability.ini]
+[2019.12.29-12.32.32:693][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.12.29-12.32.32:693][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.12.29-12.32.32:693][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.12.29-12.32.32:693][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.12.29-12.32.32:693][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.12.29-12.32.32:693][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.12.29-12.32.32:693][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.12.29-12.32.32:693][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.12.29-12.32.32:693][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.12.29-12.32.32:693][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.12.29-12.32.32:693][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.12.29-12.32.32:694][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.12.29-12.32.32:694][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.12.29-12.32.32:694][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/victo/OneDrive/Documents/GitHub/The-Last/The Last/GameAlpha/TheLast/Saved/Config/Windows/Scalability.ini]
+[2019.12.29-12.32.32:694][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.12.29-12.32.32:694][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.12.29-12.32.32:694][  0]LogInit: Selected Device Profile: [Windows]
+[2019.12.29-12.32.32:694][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2019.12.29-12.32.32:697][  0]LogHAL: Display: Platform has ~ 16 GB [17136562176 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2019.12.29-12.32.32:697][  0]LogInit: Going up to parent DeviceProfile []
+[2019.12.29-12.32.32:697][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/victo/OneDrive/Documents/GitHub/The-Last/The Last/GameAlpha/TheLast/Saved/Config/Windows/Scalability.ini]
+[2019.12.29-12.32.32:697][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.12.29-12.32.32:697][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.12.29-12.32.32:697][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/victo/OneDrive/Documents/GitHub/The-Last/The Last/GameAlpha/TheLast/Saved/Config/Windows/Scalability.ini]
+[2019.12.29-12.32.32:697][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.12.29-12.32.32:697][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/victo/OneDrive/Documents/GitHub/The-Last/The Last/GameAlpha/TheLast/Saved/Config/Windows/Scalability.ini]
+[2019.12.29-12.32.32:697][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.12.29-12.32.32:697][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.12.29-12.32.32:697][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.12.29-12.32.32:697][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.12.29-12.32.32:697][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.12.29-12.32.32:697][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.12.29-12.32.32:697][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.12.29-12.32.32:697][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.12.29-12.32.32:697][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.12.29-12.32.32:698][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.12.29-12.32.32:698][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.12.29-12.32.32:698][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.12.29-12.32.32:698][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.12.29-12.32.32:698][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.12.29-12.32.32:698][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.12.29-12.32.32:698][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.12.29-12.32.32:698][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.12.29-12.32.32:698][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.12.29-12.32.32:698][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/victo/OneDrive/Documents/GitHub/The-Last/The Last/GameAlpha/TheLast/Saved/Config/Windows/Scalability.ini]
+[2019.12.29-12.32.32:698][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.12.29-12.32.32:698][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.12.29-12.32.32:698][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.12.29-12.32.32:698][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.12.29-12.32.32:698][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.12.29-12.32.32:698][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.12.29-12.32.32:698][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.12.29-12.32.32:698][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.12.29-12.32.32:698][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.12.29-12.32.32:698][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.12.29-12.32.32:698][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.12.29-12.32.32:698][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.12.29-12.32.32:698][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.12.29-12.32.32:698][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.12.29-12.32.32:698][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.12.29-12.32.32:698][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.12.29-12.32.32:698][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.12.29-12.32.32:698][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.12.29-12.32.32:698][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.12.29-12.32.32:698][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.12.29-12.32.32:698][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.12.29-12.32.32:698][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.12.29-12.32.32:698][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.12.29-12.32.32:698][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.12.29-12.32.32:698][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.12.29-12.32.32:698][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.12.29-12.32.32:698][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.12.29-12.32.32:698][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.12.29-12.32.32:698][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.12.29-12.32.32:698][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.12.29-12.32.32:698][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/victo/OneDrive/Documents/GitHub/The-Last/The Last/GameAlpha/TheLast/Saved/Config/Windows/Scalability.ini]
+[2019.12.29-12.32.32:698][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.12.29-12.32.32:698][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.12.29-12.32.32:698][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.12.29-12.32.32:698][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.12.29-12.32.32:698][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.12.29-12.32.32:698][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.12.29-12.32.32:698][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.12.29-12.32.32:698][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.12.29-12.32.32:699][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/victo/OneDrive/Documents/GitHub/The-Last/The Last/GameAlpha/TheLast/Saved/Config/Windows/Scalability.ini]
+[2019.12.29-12.32.32:699][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.12.29-12.32.32:699][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.12.29-12.32.32:699][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.12.29-12.32.32:699][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.12.29-12.32.32:699][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.12.29-12.32.32:699][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.12.29-12.32.32:699][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.12.29-12.32.32:699][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.12.29-12.32.32:699][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.12.29-12.32.32:699][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.12.29-12.32.32:699][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.12.29-12.32.32:699][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.12.29-12.32.32:699][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.12.29-12.32.32:699][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/victo/OneDrive/Documents/GitHub/The-Last/The Last/GameAlpha/TheLast/Saved/Config/Windows/Scalability.ini]
+[2019.12.29-12.32.32:699][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.12.29-12.32.32:699][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.12.29-12.32.32:699][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2019.12.29-12.32.32:699][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2019.12.29-12.32.32:699][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2019.12.29-12.32.32:699][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/victo/OneDrive/Documents/GitHub/The-Last/The Last/GameAlpha/TheLast/Saved/Config/Windows/Engine.ini]
+[2019.12.29-12.32.32:699][  0]LogInit: Computer: LAPTOP-BOFI2E2T
+[2019.12.29-12.32.32:699][  0]LogInit: User: victo
+[2019.12.29-12.32.32:699][  0]LogInit: CPU Page size=4096, Cores=4
+[2019.12.29-12.32.32:699][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2019.12.29-12.32.32:699][  0]LogMemory: Memory total: Physical=16.0GB (16GB approx)
+[2019.12.29-12.32.32:699][  0]LogMemory: Platform Memory Stats for Windows
+[2019.12.29-12.32.32:699][  0]LogMemory: Process Physical Memory: 106.18 MB used, 106.18 MB peak
+[2019.12.29-12.32.32:699][  0]LogMemory: Process Virtual Memory: 105.02 MB used, 105.02 MB peak
+[2019.12.29-12.32.32:699][  0]LogMemory: Physical Memory: 7935.73 MB used,  8406.97 MB free, 16342.70 MB total
+[2019.12.29-12.32.32:699][  0]LogMemory: Virtual Memory: 4679.97 MB used,  134213048.00 MB free, 134217728.00 MB total
+[2019.12.29-12.32.32:705][  0]LogWindows: WindowsPlatformFeatures enabled
+[2019.12.29-12.32.32:738][  0]LogInit: Overriding language with editor language configuration option (en).
+[2019.12.29-12.32.32:738][  0]LogInit: Overriding locale with editor locale configuration option (en).
+[2019.12.29-12.32.32:956][  0]LogInit: Setting process to per monitor DPI aware
+[2019.12.29-12.32.32:988][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2019.12.29-12.32.32:988][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2019.12.29-12.32.33:254][  0]LogHMD: Failed to initialize OpenVR with code 126
+[2019.12.29-12.32.33:254][  0]LogD3D11RHI: D3D11 adapters:
+[2019.12.29-12.32.33:331][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1070' (Feature Level 11_0)
+[2019.12.29-12.32.33:331][  0]LogD3D11RHI:       8081/0/8171 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2019.12.29-12.32.33:336][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2019.12.29-12.32.33:336][  0]LogD3D11RHI:       0/0/8171 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2019.12.29-12.32.33:336][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2019.12.29-12.32.33:351][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2019.12.29-12.32.33:351][  0]LogD3D11RHI:     GPU DeviceId: 0x1be1 (for the marketing name, search the web for "GPU Device Id")
+[2019.12.29-12.32.33:351][  0]LogWindows: EnumDisplayDevices:
+[2019.12.29-12.32.33:352][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1070' (P:0 D:1)
+[2019.12.29-12.32.33:352][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1070' (P:1 D:1)
+[2019.12.29-12.32.33:353][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1070' (P:0 D:0)
+[2019.12.29-12.32.33:354][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1070' (P:0 D:0)
+[2019.12.29-12.32.33:355][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2019.12.29-12.32.33:355][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1070
+[2019.12.29-12.32.33:355][  0]LogD3D11RHI:   Driver Version: 430.39 (internal:26.21.14.3039, unified:430.39)
+[2019.12.29-12.32.33:355][  0]LogD3D11RHI:      Driver Date: 4-17-2019
+[2019.12.29-12.32.33:355][  0]LogRHI: Texture pool is 5656 MB (70% of 8081 MB)
+[2019.12.29-12.32.33:427][  0]LogD3D11RHI: Async texture creation enabled
+[2019.12.29-12.32.33:461][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2019.12.29-12.32.34:035][  0]LogTemp: Display: Module 'AllDesktopTargetPlatform' loaded TargetPlatform 'AllDesktop'
+[2019.12.29-12.32.34:046][  0]LogTemp: Display: Module 'MacClientTargetPlatform' loaded TargetPlatform 'MacClient'
+[2019.12.29-12.32.34:059][  0]LogTemp: Display: Module 'MacNoEditorTargetPlatform' loaded TargetPlatform 'MacNoEditor'
+[2019.12.29-12.32.34:073][  0]LogTemp: Display: Module 'MacServerTargetPlatform' loaded TargetPlatform 'MacServer'
+[2019.12.29-12.32.34:086][  0]LogTemp: Display: Module 'MacTargetPlatform' loaded TargetPlatform 'Mac'
+[2019.12.29-12.32.34:100][  0]LogTemp: Display: Module 'WindowsClientTargetPlatform' loaded TargetPlatform 'WindowsClient'
+[2019.12.29-12.32.34:113][  0]LogTemp: Display: Module 'WindowsNoEditorTargetPlatform' loaded TargetPlatform 'WindowsNoEditor'
+[2019.12.29-12.32.34:129][  0]LogTemp: Display: Module 'WindowsServerTargetPlatform' loaded TargetPlatform 'WindowsServer'
+[2019.12.29-12.32.34:135][  0]LogTemp: Display: Module 'WindowsTargetPlatform' loaded TargetPlatform 'Windows'
+[2019.12.29-12.32.34:187][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android'
+[2019.12.29-12.32.34:187][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTC'
+[2019.12.29-12.32.34:187][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATC'
+[2019.12.29-12.32.34:187][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXT'
+[2019.12.29-12.32.34:187][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1'
+[2019.12.29-12.32.34:187][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1a'
+[2019.12.29-12.32.34:187][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2'
+[2019.12.29-12.32.34:187][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTC'
+[2019.12.29-12.32.34:187][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'AndroidClient'
+[2019.12.29-12.32.34:187][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTCClient'
+[2019.12.29-12.32.34:187][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATCClient'
+[2019.12.29-12.32.34:187][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXTClient'
+[2019.12.29-12.32.34:187][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1Client'
+[2019.12.29-12.32.34:187][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1aClient'
+[2019.12.29-12.32.34:187][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2Client'
+[2019.12.29-12.32.34:187][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTCClient'
+[2019.12.29-12.32.34:187][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_Multi'
+[2019.12.29-12.32.34:187][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_MultiClient'
+[2019.12.29-12.32.34:190][  0]LogTemp: Display: Module 'HTML5TargetPlatform' loaded TargetPlatform 'HTML5'
+[2019.12.29-12.32.34:218][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOSClient'
+[2019.12.29-12.32.34:218][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOS'
+[2019.12.29-12.32.34:241][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOSClient'
+[2019.12.29-12.32.34:241][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOS'
+[2019.12.29-12.32.34:256][  0]LogTemp: Display: Module 'LinuxClientTargetPlatform' loaded TargetPlatform 'LinuxClient'
+[2019.12.29-12.32.34:269][  0]LogTemp: Display: Module 'LinuxNoEditorTargetPlatform' loaded TargetPlatform 'LinuxNoEditor'
+[2019.12.29-12.32.34:282][  0]LogTemp: Display: Module 'LinuxServerTargetPlatform' loaded TargetPlatform 'LinuxServer'
+[2019.12.29-12.32.34:295][  0]LogTemp: Display: Module 'LinuxTargetPlatform' loaded TargetPlatform 'Linux'
+[2019.12.29-12.32.34:346][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'Lumin'
+[2019.12.29-12.32.34:347][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'LuminClient'
+[2019.12.29-12.32.34:347][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2019.12.29-12.32.34:367][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2019.12.29-12.32.34:458][  0]LogShaderCompilers: Guid format shader working directory is -31 characters bigger than the processId version (C:/Users/victo/OneDrive/Documents/GitHub/The-Last/The Last/GameAlpha/TheLast/Intermediate/Shaders/WorkingDirectory/24712/).
+[2019.12.29-12.32.34:458][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/victo/AppData/Local/Temp/UnrealShaderWorkingDir/81DB153E4B8ACCA8BDCA82BD0C57F99F/'.
+[2019.12.29-12.32.34:463][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2019.12.29-12.32.34:463][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2019.12.29-12.32.34:463][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2019.12.29-12.32.35:495][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2019.12.29-12.32.35:554][  0]LogDerivedDataCache: Loaded boot cache 0.06s 76MB C:/Users/victo/AppData/Local/UnrealEngine/4.23/DerivedDataCache/Boot.ddc.
+[2019.12.29-12.32.35:554][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/victo/AppData/Local/UnrealEngine/4.23/DerivedDataCache/Boot.ddc
+[2019.12.29-12.32.35:555][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file C:/Users/victo/OneDrive/Documents/GitHub/The-Last/The Last/GameAlpha/TheLast/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2019.12.29-12.32.35:555][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2019.12.29-12.32.35:555][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file C:/Users/victo/OneDrive/Documents/GitHub/The-Last/The Last/GameAlpha/TheLast/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.12.29-12.32.35:555][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2019.12.29-12.32.35:570][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2019.12.29-12.32.35:570][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.12.29-12.32.35:570][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2019.12.29-12.32.35:572][  0]LogDerivedDataCache: Using Local data cache path C:/Users/victo/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2019.12.29-12.32.35:572][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2019.12.29-12.32.35:572][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2019.12.29-12.32.35:599][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2019.12.29-12.32.35:604][  0]LogSlate: Using FreeType 2.6.0
+[2019.12.29-12.32.35:604][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2019.12.29-12.32.35:675][  0]LogAssetRegistry: FAssetRegistry took 0.0025 seconds to start up
+[2019.12.29-12.32.36:033][  0]LogInit: Selected Device Profile: [Windows]
+[2019.12.29-12.32.36:216][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2019.12.29-12.32.36:216][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2019.12.29-12.32.36:216][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2019.12.29-12.32.36:216][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2019.12.29-12.32.36:216][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2019.12.29-12.32.36:228][  0]LogNetVersion: TheLast 1.0.0, NetCL: 8386587, EngineNetVer: 11, GameNetVer: 0 (Checksum: 2690468633)
+[2019.12.29-12.32.36:765][  0]LogPackageLocalizationCache: Processed 12 localized package path(s) for 1 prioritized culture(s) in 0.061854 seconds
+[2019.12.29-12.32.36:774][  0]LogUObjectArray: 43444 objects as part of root set at end of initial load.
+[2019.12.29-12.32.36:775][  0]LogUObjectAllocator: 7548648 out of 0 bytes used by permanent object pool.
+[2019.12.29-12.32.36:775][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2019.12.29-12.32.38:177][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2019.12.29-12.32.38:181][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2019.12.29-12.32.38:251][  0]SourceControl: Source control is disabled
+[2019.12.29-12.32.38:251][  0]SourceControl: Source control is disabled
+[2019.12.29-12.32.38:253][  0]SourceControl: Source control is disabled
+[2019.12.29-12.32.38:255][  0]SourceControl: Source control is disabled
+[2019.12.29-12.32.38:388][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2019.12.29-12.32.38:592][  0]LogOcInput: OculusInput pre-init called
+[2019.12.29-12.32.39:522][  0]LogEngine: Initializing Engine...
+[2019.12.29-12.32.39:572][  0]LogHMD: Failed to initialize OpenVR with code 126
+[2019.12.29-12.32.39:574][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2019.12.29-12.32.39:833][  0]LogInit: Initializing FReadOnlyCVARCache
+[2019.12.29-12.32.39:851][  0]LogAIModule: Creating AISystem for world Untitled
+[2019.12.29-12.32.39:881][  0]LogInit: XAudio2 using 'Audífono de los auriculares con micrófono (4- CORSAIR VOID RGB Wireless Gaming Headset)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.12.29-12.32.40:137][  0]LogInit: FAudioDevice initialized.
+[2019.12.29-12.32.40:137][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2019.12.29-12.32.40:188][  0]LogDerivedDataCache: Saved boot cache 0.05s 76MB C:/Users/victo/AppData/Local/UnrealEngine/4.23/DerivedDataCache/Boot.ddc.
+[2019.12.29-12.32.40:189][  0]LogInit: Texture streaming: Enabled
+[2019.12.29-12.32.40:212][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2019.12.29-12.32.40:212][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2019.12.29-12.32.40:218][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2019.12.29-12.32.40:276][  0]LogInit: Transaction tracking system initialized
+[2019.12.29-12.32.40:328][  0]BlueprintLog: New page: Editor Load
+[2019.12.29-12.32.40:486][  0]LocalizationService: Localization service is disabled
+[2019.12.29-12.32.40:882][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2019.12.29-12.32.40:882][  0]LogCook: Display: Mobile HDR setting 1
+[2019.12.29-12.32.41:086][  0]LogFileCache: Scanning file cache for directory 'C:/Users/victo/OneDrive/Documents/GitHub/The-Last/The Last/GameAlpha/TheLast/Content/' took 0.01s
+[2019.12.29-12.32.41:086][  0]SourceControl: Source control is disabled
+[2019.12.29-12.32.41:086][  0]Cmd: MAP LOAD FILE="C:/Users/victo/OneDrive/Documents/GitHub/The-Last/The Last/GameAlpha/TheLast/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.12.29-12.32.41:087][  0]LightingResults: New page: Lighting Build
+[2019.12.29-12.32.41:089][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2019.12.29-12.32.41:089][  0]MapCheck: New page: Map Check
+[2019.12.29-12.32.41:089][  0]LightingResults: New page: Lighting Build
+[2019.12.29-12.32.41:118][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.73ms
+[2019.12.29-12.32.41:583][  0]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2019.12.29-12.32.41:632][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.12.29-12.32.41:660][  0]LogUObjectHash: Compacting FUObjectHashTables data took   2.25ms
+[2019.12.29-12.32.41:660][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.12.29-12.32.41:660][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.179ms to complete.
+[2019.12.29-12.32.41:660][  0]LogFileHelpers: Loading map 'ThirdPersonExampleMap' took 0.574
+[2019.12.29-12.32.41:981][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.29-12.32.41:996][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.29-12.32.42:008][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.29-12.32.42:022][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.29-12.32.42:075][  0]LogCollectionManager: Loaded 0 collections in 0.003042 seconds
+[2019.12.29-12.32.42:137][  0]LogFileCache: Scanning file cache for directory 'C:/Users/victo/OneDrive/Documents/GitHub/The-Last/The Last/GameAlpha/TheLast/Saved/Collections/' took 0.01s
+[2019.12.29-12.32.42:137][  0]LogFileCache: Scanning file cache for directory 'C:/Users/victo/OneDrive/Documents/GitHub/The-Last/The Last/GameAlpha/TheLast/Content/Developers/victo/Collections/' took 0.00s
+[2019.12.29-12.32.42:137][  0]LogFileCache: Scanning file cache for directory 'C:/Users/victo/OneDrive/Documents/GitHub/The-Last/The Last/GameAlpha/TheLast/Content/Collections/' took 0.00s
+[2019.12.29-12.32.42:137][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000002 seconds
+[2019.12.29-12.32.42:154][  0]LogContentBrowser: Native class hierarchy populated in 0.0130 seconds. Added 2863 classes and 680 folders.
+[2019.12.29-12.32.42:246][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0028 seconds. Added 0 classes and 0 folders.
+[2019.12.29-12.32.43:529][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0028 seconds. Added 0 classes and 0 folders.
+[2019.12.29-12.32.43:584][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0027 seconds. Added 1 classes and 2 folders.
+[2019.12.29-12.32.43:942][  0]LogSlate: Took 0.000233 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2019.12.29-12.32.43:945][  0]LogSlate: Took 0.000218 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2019.12.29-12.32.43:980][  0]LogSlate: Took 0.013375 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2019.12.29-12.32.44:277][  0]LogRenderer: Reallocating scene render targets to support 1188x668 Format 10 NumSamples 1 (Frame:1).
+[2019.12.29-12.32.44:444][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0040 seconds. Added 0 classes and 0 folders.
+[2019.12.29-12.32.44:445][  0]LogLoad: (Engine Initialization) Total time: 14.16 seconds
+[2019.12.29-12.32.44:445][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2019.12.29-12.32.44:520][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2019.12.29-12.32.44:602][  1]LogAssetRegistry: Asset discovery search completed in 8.9282 seconds
+[2019.12.29-12.32.44:607][  1]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000004 seconds (found 0 objects)
+[2019.12.29-12.32.44:607][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000067 seconds (updated 0 objects)
+[2019.12.29-12.32.48:711][ 13]LogSlate: Took 0.028945 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.12.29-12.33.44:694][181]LogEditorSessionSummary: EditorSessionSummary sent report. Type=Shutdown, SessionId={397A383B-4FE5-44DD-ED92-5A8EEE2D0B74}
+[2019.12.29-12.38.31:979][236]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.29-12.38.40:412][694]LogSlate: Took 0.000262 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.12.29-12.38.40:422][694]LogAssetEditorManager: Opening Asset editor for Texture2D /Game/ThirdPersonBP/Menu/THE_LAST.THE_LAST
+[2019.12.29-12.38.40:471][694]LogContentBrowser: Native class hierarchy updated for 'TextureEditor' in 0.0034 seconds. Added 1 classes and 2 folders.
+[2019.12.29-12.38.41:395][724]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/ThirdPersonBP/Menu/OPciones.Opciones
+[2019.12.29-12.38.41:943][724]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0033 seconds. Added 121 classes and 0 folders.
+[2019.12.29-12.38.43:811][724]LogSlate: Took 0.011291 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2019.12.29-12.38.44:384][755]LogSlate: Window 'Opciones' being destroyed
+[2019.12.29-12.38.44:393][755]LogSlate: Window 'Opciones' being destroyed
+[2019.12.29-12.38.44:451][755]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2019.12.29-12.38.44:457][755]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2019.12.29-12.38.46:909][892]LogAIModule: Creating AISystem for world Menu
+[2019.12.29-12.38.46:913][892]LogAssetEditorManager: Opening Asset editor for World /Game/ThirdPersonBP/Menu/Menu.Menu
+[2019.12.29-12.38.46:993][892]LogUObjectHash: Compacting FUObjectHashTables data took   5.07ms
+[2019.12.29-12.38.46:994][892]Cmd: MAP LOAD FILE="C:/Users/victo/OneDrive/Documents/GitHub/The-Last/The Last/GameAlpha/TheLast/Content/ThirdPersonBP/Menu/Menu.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.12.29-12.38.46:994][892]LightingResults: New page: Lighting Build
+[2019.12.29-12.38.46:994][892]LoadErrors: New page: Loading map: Menu.umap
+[2019.12.29-12.38.46:995][892]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2019.12.29-12.38.46:995][892]MapCheck: New page: Map Check
+[2019.12.29-12.38.46:995][892]LightingResults: New page: Lighting Build
+[2019.12.29-12.38.47:042][892]LogUObjectHash: Compacting FUObjectHashTables data took   3.00ms
+[2019.12.29-12.38.47:045][892]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.12.29-12.38.47:076][892]LogUObjectHash: Compacting FUObjectHashTables data took   2.28ms
+[2019.12.29-12.38.47:092][892]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.12.29-12.38.47:093][892]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.206ms to complete.
+[2019.12.29-12.38.47:093][892]LogFileHelpers: Loading map 'Menu' took 0.099
+[2019.12.29-12.38.47:885][929]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/ThirdPersonBP/Menu/OPciones.Opciones
+[2019.12.29-12.42.45:650][766]LogEditorSessionSummary: EditorSessionSummary sent report. Type=Shutdown, SessionId={CC13EDE7-45AF-A392-9945-7B89107400AA}
+[2019.12.29-12.49.46:858][975]LogUObjectHash: Compacting FUObjectHashTables data took   4.61ms
+[2019.12.29-12.49.46:858][975]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonBP/Menu/Menu' took 0.040
+[2019.12.29-12.49.46:862][975]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ThirdPersonBP/Menu/OPciones] ([1] browsable assets)...
+[2019.12.29-12.49.46:862][975]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Menu/OPciones]
+[2019.12.29-12.49.47:223][975]LogSavePackage: Moving 'C:/Users/victo/OneDrive/Documents/GitHub/The-Last/The Last/GameAlpha/TheLast/Saved/OPciones_Auto12C281BBD4A5D3BC6B0905D981BB3CB2A.tmp' to 'C:/Users/victo/OneDrive/Documents/GitHub/The-Last/The Last/GameAlpha/TheLast/Saved/Autosaves/Game/ThirdPersonBP/Menu/OPciones_Auto1.uasset'
+[2019.12.29-12.49.47:234][975]LogFileHelpers: Auto-saving content packages took 0.373
+[2019.12.29-12.50.31:035][506]LogEditorTransaction: Undo Set Vector Property
+[2019.12.29-12.50.42:224][169]LogEditorTransaction: Undo Edit Right
+[2019.12.29-12.50.44:377][295]Cmd: TRANSACTION UNDO
+[2019.12.29-12.50.44:378][295]LogEditorTransaction: Undo Changed Anchors
+[2019.12.29-12.50.44:650][309]Cmd: TRANSACTION UNDO
+[2019.12.29-12.50.44:650][309]LogEditorTransaction: Undo Edit Bottom
+[2019.12.29-12.50.44:866][320]Cmd: TRANSACTION UNDO
+[2019.12.29-12.50.44:866][320]LogEditorTransaction: Undo Edit Right
+[2019.12.29-12.50.57:391][ 62]LogEditorTransaction: Undo Move Anchor
+[2019.12.29-12.51.06:938][602]LogEditorTransaction: Undo Edit Left
+[2019.12.29-12.52.07:149][591]LogEditorTransaction: Undo Resize Widget
+[2019.12.29-12.52.14:981][ 57]LogEditorTransaction: Undo Resize Widget
+[2019.12.29-12.54.18:853][726]LogEditorTransaction: Undo Edit Left
+[2019.12.29-12.54.41:123][ 50]LogEditorTransaction: Undo Edit Left
+[2019.12.29-12.55.14:975][ 39]LogSlate: Took 0.038429 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf' (3848K)
+[2019.12.29-12.55.32:983][108]LogEditorTransaction: Undo Edit Text
+[2019.12.29-12.55.33:306][108]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2019.12.29-12.55.34:141][108]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.835 s
+[2019.12.29-12.55.34:141][108]LogOutputDevice: Error: === Handled ensure: ===
+[2019.12.29-12.55.34:141][108]LogOutputDevice: Error: 
+[2019.12.29-12.55.34:141][108]LogOutputDevice: Error: Ensure condition failed: !GIsTransacting [File:D:\Build\++UE4\Sync\Engine\Source\Editor\UnrealEd\Classes\Editor/TransBuffer.h] [Line: 72]
+[2019.12.29-12.55.34:141][108]LogOutputDevice: Error: 
+[2019.12.29-12.55.34:141][108]LogOutputDevice: Error: Stack: 
+[2019.12.29-12.55.34:141][108]LogOutputDevice: Error: [Callstack] 0x00007ffb17a39688 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.12.29-12.55.34:141][108]LogOutputDevice: Error: [Callstack] 0x00007ffb16f0dce0 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.12.29-12.55.34:141][108]LogOutputDevice: Error: [Callstack] 0x00007ffb16ec3c9a UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.12.29-12.55.34:141][108]LogOutputDevice: Error: [Callstack] 0x00007ffb030b0e75 UE4Editor-PropertyEditor.dll!UnknownFunction []
+[2019.12.29-12.55.34:141][108]LogOutputDevice: Error: [Callstack] 0x00007ffb02fe1828 UE4Editor-PropertyEditor.dll!UnknownFunction []
+[2019.12.29-12.55.34:141][108]LogOutputDevice: Error: [Callstack] 0x00007ffb0306bff3 UE4Editor-PropertyEditor.dll!UnknownFunction []
+[2019.12.29-12.55.34:141][108]LogOutputDevice: Error: [Callstack] 0x00007ffb030fe1b9 UE4Editor-PropertyEditor.dll!UnknownFunction []
+[2019.12.29-12.55.34:141][108]LogOutputDevice: Error: [Callstack] 0x00007ffafac58c33 UE4Editor-DetailCustomizations.dll!UnknownFunction []
+[2019.12.29-12.55.34:142][108]LogOutputDevice: Error: [Callstack] 0x00007ffb00f3c37a UE4Editor-EditorWidgets.dll!UnknownFunction []
+[2019.12.29-12.55.34:142][108]LogOutputDevice: Error: [Callstack] 0x00007ffb00f21139 UE4Editor-EditorWidgets.dll!UnknownFunction []
+[2019.12.29-12.55.34:142][108]LogOutputDevice: Error: [Callstack] 0x00007ffb3394c430 UE4Editor-Slate.dll!UnknownFunction []
+[2019.12.29-12.55.34:142][108]LogOutputDevice: Error: [Callstack] 0x00007ffb3375170e UE4Editor-Slate.dll!UnknownFunction []
+[2019.12.29-12.55.34:142][108]LogOutputDevice: Error: [Callstack] 0x00007ffb336fa854 UE4Editor-Slate.dll!UnknownFunction []
+[2019.12.29-12.55.34:142][108]LogOutputDevice: Error: [Callstack] 0x00007ffafa49a1bc UE4Editor-UMGEditor.dll!UnknownFunction []
+[2019.12.29-12.55.34:142][108]LogOutputDevice: Error: [Callstack] 0x00007ffafa5638d2 UE4Editor-UMGEditor.dll!UnknownFunction []
+[2019.12.29-12.55.34:142][108]LogOutputDevice: Error: [Callstack] 0x00007ffafa4f6e16 UE4Editor-UMGEditor.dll!UnknownFunction []
+[2019.12.29-12.55.34:142][108]LogOutputDevice: Error: [Callstack] 0x00007ffafa48ea7b UE4Editor-UMGEditor.dll!UnknownFunction []
+[2019.12.29-12.55.34:142][108]LogOutputDevice: Error: [Callstack] 0x00007ffafa593969 UE4Editor-UMGEditor.dll!UnknownFunction []
+[2019.12.29-12.55.34:142][108]LogOutputDevice: Error: [Callstack] 0x00007ffafa55c3ab UE4Editor-UMGEditor.dll!UnknownFunction []
+[2019.12.29-12.55.34:142][108]LogOutputDevice: Error: [Callstack] 0x00007ffb15a65309 UE4Editor-Kismet.dll!UnknownFunction []
+[2019.12.29-12.55.34:142][108]LogOutputDevice: Error: [Callstack] 0x00007ffb04a1156e UE4Editor-Engine.dll!UnknownFunction []
+[2019.12.29-12.55.34:142][108]LogOutputDevice: Error: [Callstack] 0x00007ffb17214d25 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.12.29-12.55.34:142][108]LogOutputDevice: Error: [Callstack] 0x00007ffb15a6a9e0 UE4Editor-Kismet.dll!UnknownFunction []
+[2019.12.29-12.55.34:142][108]LogOutputDevice: Error: [Callstack] 0x00007ffb16ec412d UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.12.29-12.55.34:142][108]LogOutputDevice: Error: [Callstack] 0x00007ffb16ee69e6 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.12.29-12.55.34:142][108]LogOutputDevice: Error: [Callstack] 0x00007ffb16ed24dc UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.12.29-12.55.34:142][108]LogOutputDevice: Error: [Callstack] 0x00007ffb16f2ccd3 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.12.29-12.55.34:142][108]LogOutputDevice: Error: [Callstack] 0x00007ffb16f6db6f UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.12.29-12.55.34:142][108]LogOutputDevice: Error: [Callstack] 0x00007ffb16f0baaf UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.12.29-12.55.34:142][108]LogOutputDevice: Error: [Callstack] 0x00007ffb15a65d78 UE4Editor-Kismet.dll!UnknownFunction []
+[2019.12.29-12.55.34:142][108]LogOutputDevice: Error: [Callstack] 0x00007ffb336fb62a UE4Editor-Slate.dll!UnknownFunction []
+[2019.12.29-12.55.34:142][108]LogOutputDevice: Error: [Callstack] 0x00007ffb3373191e UE4Editor-Slate.dll!UnknownFunction []
+[2019.12.29-12.55.34:142][108]LogOutputDevice: Error: [Callstack] 0x00007ffb176dfe1e UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.12.29-12.55.34:142][108]LogOutputDevice: Error: [Callstack] 0x00007ffb176cf481 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.12.29-12.55.34:142][108]LogOutputDevice: Error: [Callstack] 0x00007ffb336c3076 UE4Editor-Slate.dll!UnknownFunction []
+[2019.12.29-12.55.34:142][108]LogOutputDevice: Error: [Callstack] 0x00007ffb33733413 UE4Editor-Slate.dll!UnknownFunction []
+[2019.12.29-12.55.34:142][108]LogOutputDevice: Error: [Callstack] 0x00007ffb337287fe UE4Editor-Slate.dll!UnknownFunction []
+[2019.12.29-12.55.34:143][108]LogOutputDevice: Error: [Callstack] 0x00007ffb70cc4a7c UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.12.29-12.55.34:143][108]LogOutputDevice: Error: [Callstack] 0x00007ffb70cb26df UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.12.29-12.55.34:143][108]LogOutputDevice: Error: [Callstack] 0x00007ffb70cc7340 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.12.29-12.55.34:143][108]LogOutputDevice: Error: [Callstack] 0x00007ffb70caedd0 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.12.29-12.55.34:143][108]LogOutputDevice: Error: [Callstack] 0x00007ffb8c3363ed USER32.dll!UnknownFunction []
+[2019.12.29-12.55.34:143][108]LogOutputDevice: Error: [Callstack] 0x00007ffb8c335de2 USER32.dll!UnknownFunction []
+[2019.12.29-12.55.34:143][108]LogOutputDevice: Error: [Callstack] 0x00007ffb70cc88e9 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.12.29-12.55.34:143][108]LogOutputDevice: Error: [Callstack] 0x00007ff7cd116980 UE4Editor.exe!UnknownFunction []
+[2019.12.29-12.55.34:143][108]LogOutputDevice: Error: [Callstack] 0x00007ff7cd12a91c UE4Editor.exe!UnknownFunction []
+[2019.12.29-12.55.34:143][108]LogOutputDevice: Error: [Callstack] 0x00007ff7cd12a9fa UE4Editor.exe!UnknownFunction []
+[2019.12.29-12.55.34:143][108]LogOutputDevice: Error: [Callstack] 0x00007ff7cd13b92c UE4Editor.exe!UnknownFunction []
+[2019.12.29-12.55.34:143][108]LogOutputDevice: Error: [Callstack] 0x00007ff7cd13e60e UE4Editor.exe!UnknownFunction []
+[2019.12.29-12.55.34:143][108]LogOutputDevice: Error: [Callstack] 0x00007ffb8c947bd4 KERNEL32.DLL!UnknownFunction []
+[2019.12.29-12.55.34:143][108]LogOutputDevice: Error: [Callstack] 0x00007ffb8d5cced1 ntdll.dll!UnknownFunction []
+[2019.12.29-12.55.34:143][108]LogOutputDevice: Error: 
+[2019.12.29-12.55.34:148][108]LogStats:                SubmitErrorReport -  0.000 s
