@@ -1,0 +1,1493 @@
+﻿Log file open, 01/04/20 17:43:27
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: TheLast
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.106105
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +1:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin ScreenshotTools
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.23-CL-9631420
+LogInit: Engine Version: 4.23.1-9631420+++UE4+Release-4.23
+LogInit: Compatible Engine Version: 4.23.0-8386587+++UE4+Release-4.23
+LogInit: Net CL: 8386587
+LogInit: OS: Windows 10 (Release 1903) (), CPU: Intel(R) Core(TM) i7-7700HQ CPU @ 2.80GHz, GPU: NVIDIA GeForce GTX 1070
+LogInit: Compiled (64-bit): Oct 18 2019 02:07:44
+LogInit: Compiled with Visual C++: 19.16.27030.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.23
+LogInit: Command Line: 
+LogInit: Base Directory: D:/Epic Games/UE_4.23/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 23
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 3
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 34
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 35
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 31
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 11
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 27
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 6
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 9
+LogInit: Presizing for max 16777216 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2020.01.04-16.43.27:962][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2020.01.04-16.43.27:962][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2020.01.04-16.43.27:962][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/victo/OneDrive/Documents/GitHub/The-Last/The Last/GameAlpha/TheLast/Saved/Config/Windows/Engine.ini]
+[2020.01.04-16.43.27:962][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2020.01.04-16.43.27:962][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/victo/OneDrive/Documents/GitHub/The-Last/The Last/GameAlpha/TheLast/Saved/Config/Windows/Engine.ini]
+[2020.01.04-16.43.27:962][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/victo/OneDrive/Documents/GitHub/The-Last/The Last/GameAlpha/TheLast/Saved/Config/Windows/Engine.ini]
+[2020.01.04-16.43.27:962][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2020.01.04-16.43.27:962][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2020.01.04-16.43.27:962][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2020.01.04-16.43.27:962][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2020.01.04-16.43.27:962][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2020.01.04-16.43.27:962][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2020.01.04-16.43.27:962][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2020.01.04-16.43.27:962][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2020.01.04-16.43.27:962][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2020.01.04-16.43.27:962][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2020.01.04-16.43.27:962][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2020.01.04-16.43.27:962][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2020.01.04-16.43.27:962][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2020.01.04-16.43.27:962][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/victo/OneDrive/Documents/GitHub/The-Last/The Last/GameAlpha/TheLast/Saved/Config/Windows/Engine.ini]
+[2020.01.04-16.43.27:962][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2020.01.04-16.43.27:962][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2020.01.04-16.43.27:962][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2020.01.04-16.43.27:962][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2020.01.04-16.43.27:962][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2020.01.04-16.43.27:962][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2020.01.04-16.43.27:962][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:16777216]]
+[2020.01.04-16.43.27:962][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2020.01.04-16.43.27:962][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2020.01.04-16.43.27:962][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2020.01.04-16.43.27:962][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2020.01.04-16.43.27:962][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2020.01.04-16.43.27:962][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2020.01.04-16.43.27:962][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/victo/OneDrive/Documents/GitHub/The-Last/The Last/GameAlpha/TheLast/Saved/Config/Windows/Engine.ini]
+[2020.01.04-16.43.27:963][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/victo/OneDrive/Documents/GitHub/The-Last/The Last/GameAlpha/TheLast/Saved/Config/Windows/Engine.ini]
+[2020.01.04-16.43.27:969][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/victo/OneDrive/Documents/GitHub/The-Last/The Last/GameAlpha/TheLast/Saved/Config/Windows/Scalability.ini]
+[2020.01.04-16.43.27:969][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.01.04-16.43.27:969][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.01.04-16.43.27:969][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/victo/OneDrive/Documents/GitHub/The-Last/The Last/GameAlpha/TheLast/Saved/Config/Windows/Scalability.ini]
+[2020.01.04-16.43.27:969][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.01.04-16.43.27:969][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/victo/OneDrive/Documents/GitHub/The-Last/The Last/GameAlpha/TheLast/Saved/Config/Windows/Scalability.ini]
+[2020.01.04-16.43.27:969][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.01.04-16.43.27:969][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.01.04-16.43.27:969][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.01.04-16.43.27:969][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.01.04-16.43.27:969][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.01.04-16.43.27:969][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.01.04-16.43.27:969][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.01.04-16.43.27:969][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.01.04-16.43.27:969][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.01.04-16.43.27:969][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.01.04-16.43.27:969][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.01.04-16.43.27:969][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.01.04-16.43.27:970][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.01.04-16.43.27:970][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.01.04-16.43.27:970][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.01.04-16.43.27:970][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.01.04-16.43.27:970][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.01.04-16.43.27:970][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.01.04-16.43.27:970][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/victo/OneDrive/Documents/GitHub/The-Last/The Last/GameAlpha/TheLast/Saved/Config/Windows/Scalability.ini]
+[2020.01.04-16.43.27:970][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.01.04-16.43.27:970][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.01.04-16.43.27:970][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.01.04-16.43.27:970][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.01.04-16.43.27:970][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.01.04-16.43.27:970][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.01.04-16.43.27:970][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.01.04-16.43.27:970][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.01.04-16.43.27:970][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.01.04-16.43.27:970][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.01.04-16.43.27:970][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.01.04-16.43.27:970][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.01.04-16.43.27:970][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.01.04-16.43.27:970][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.01.04-16.43.27:970][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.01.04-16.43.27:970][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.01.04-16.43.27:970][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.01.04-16.43.27:970][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.01.04-16.43.27:970][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.01.04-16.43.27:970][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.01.04-16.43.27:970][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.01.04-16.43.27:970][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.01.04-16.43.27:970][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.01.04-16.43.27:970][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.01.04-16.43.27:970][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.01.04-16.43.27:970][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.01.04-16.43.27:970][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.01.04-16.43.27:970][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.01.04-16.43.27:971][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.01.04-16.43.27:971][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.01.04-16.43.27:971][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/victo/OneDrive/Documents/GitHub/The-Last/The Last/GameAlpha/TheLast/Saved/Config/Windows/Scalability.ini]
+[2020.01.04-16.43.27:971][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.01.04-16.43.27:971][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.01.04-16.43.27:971][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.01.04-16.43.27:971][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.01.04-16.43.27:971][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.01.04-16.43.27:971][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.01.04-16.43.27:971][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.01.04-16.43.27:971][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.01.04-16.43.27:971][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/victo/OneDrive/Documents/GitHub/The-Last/The Last/GameAlpha/TheLast/Saved/Config/Windows/Scalability.ini]
+[2020.01.04-16.43.27:971][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.01.04-16.43.27:971][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.01.04-16.43.27:971][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.01.04-16.43.27:971][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.01.04-16.43.27:971][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.01.04-16.43.27:971][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.01.04-16.43.27:971][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.01.04-16.43.27:971][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.01.04-16.43.27:971][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.01.04-16.43.27:971][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.01.04-16.43.27:971][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2020.01.04-16.43.27:971][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.01.04-16.43.27:971][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.01.04-16.43.27:971][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/victo/OneDrive/Documents/GitHub/The-Last/The Last/GameAlpha/TheLast/Saved/Config/Windows/Scalability.ini]
+[2020.01.04-16.43.27:971][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.01.04-16.43.27:971][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.01.04-16.43.27:971][  0]LogInit: Selected Device Profile: [Windows]
+[2020.01.04-16.43.27:971][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2020.01.04-16.43.27:976][  0]LogHAL: Display: Platform has ~ 16 GB [17136562176 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2020.01.04-16.43.27:976][  0]LogInit: Going up to parent DeviceProfile []
+[2020.01.04-16.43.27:976][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/victo/OneDrive/Documents/GitHub/The-Last/The Last/GameAlpha/TheLast/Saved/Config/Windows/Scalability.ini]
+[2020.01.04-16.43.27:976][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.01.04-16.43.27:976][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.01.04-16.43.27:976][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/victo/OneDrive/Documents/GitHub/The-Last/The Last/GameAlpha/TheLast/Saved/Config/Windows/Scalability.ini]
+[2020.01.04-16.43.27:976][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.01.04-16.43.27:976][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/victo/OneDrive/Documents/GitHub/The-Last/The Last/GameAlpha/TheLast/Saved/Config/Windows/Scalability.ini]
+[2020.01.04-16.43.27:976][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.01.04-16.43.27:976][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.01.04-16.43.27:976][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.01.04-16.43.27:976][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.01.04-16.43.27:976][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.01.04-16.43.27:976][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.01.04-16.43.27:976][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.01.04-16.43.27:976][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.01.04-16.43.27:976][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.01.04-16.43.27:976][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.01.04-16.43.27:976][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.01.04-16.43.27:976][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.01.04-16.43.27:976][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.01.04-16.43.27:976][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.01.04-16.43.27:976][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.01.04-16.43.27:976][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.01.04-16.43.27:976][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.01.04-16.43.27:976][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.01.04-16.43.27:977][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/victo/OneDrive/Documents/GitHub/The-Last/The Last/GameAlpha/TheLast/Saved/Config/Windows/Scalability.ini]
+[2020.01.04-16.43.27:977][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.01.04-16.43.27:977][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.01.04-16.43.27:977][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.01.04-16.43.27:977][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.01.04-16.43.27:977][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.01.04-16.43.27:977][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.01.04-16.43.27:977][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.01.04-16.43.27:977][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.01.04-16.43.27:977][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.01.04-16.43.27:977][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.01.04-16.43.27:977][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.01.04-16.43.27:977][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.01.04-16.43.27:977][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.01.04-16.43.27:977][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.01.04-16.43.27:977][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.01.04-16.43.27:977][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.01.04-16.43.27:977][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.01.04-16.43.27:977][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.01.04-16.43.27:977][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.01.04-16.43.27:977][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.01.04-16.43.27:977][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.01.04-16.43.27:977][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.01.04-16.43.27:977][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.01.04-16.43.27:977][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.01.04-16.43.27:977][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.01.04-16.43.27:977][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.01.04-16.43.27:977][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.01.04-16.43.27:977][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.01.04-16.43.27:977][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.01.04-16.43.27:977][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.01.04-16.43.27:977][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/victo/OneDrive/Documents/GitHub/The-Last/The Last/GameAlpha/TheLast/Saved/Config/Windows/Scalability.ini]
+[2020.01.04-16.43.27:977][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.01.04-16.43.27:977][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.01.04-16.43.27:977][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.01.04-16.43.27:977][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.01.04-16.43.27:977][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.01.04-16.43.27:977][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.01.04-16.43.27:977][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.01.04-16.43.27:977][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.01.04-16.43.27:977][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/victo/OneDrive/Documents/GitHub/The-Last/The Last/GameAlpha/TheLast/Saved/Config/Windows/Scalability.ini]
+[2020.01.04-16.43.27:977][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.01.04-16.43.27:978][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.01.04-16.43.27:978][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.01.04-16.43.27:978][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.01.04-16.43.27:978][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.01.04-16.43.27:978][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.01.04-16.43.27:978][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.01.04-16.43.27:978][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.01.04-16.43.27:978][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.01.04-16.43.27:978][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.01.04-16.43.27:978][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2020.01.04-16.43.27:978][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.01.04-16.43.27:978][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.01.04-16.43.27:978][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/victo/OneDrive/Documents/GitHub/The-Last/The Last/GameAlpha/TheLast/Saved/Config/Windows/Scalability.ini]
+[2020.01.04-16.43.27:978][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.01.04-16.43.27:978][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.01.04-16.43.27:978][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2020.01.04-16.43.27:978][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2020.01.04-16.43.27:978][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2020.01.04-16.43.27:978][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/victo/OneDrive/Documents/GitHub/The-Last/The Last/GameAlpha/TheLast/Saved/Config/Windows/Engine.ini]
+[2020.01.04-16.43.27:978][  0]LogInit: Computer: LAPTOP-BOFI2E2T
+[2020.01.04-16.43.27:978][  0]LogInit: User: victo
+[2020.01.04-16.43.27:978][  0]LogInit: CPU Page size=4096, Cores=4
+[2020.01.04-16.43.27:978][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2020.01.04-16.43.27:978][  0]LogMemory: Memory total: Physical=16.0GB (16GB approx)
+[2020.01.04-16.43.27:978][  0]LogMemory: Platform Memory Stats for Windows
+[2020.01.04-16.43.27:978][  0]LogMemory: Process Physical Memory: 101.68 MB used, 101.68 MB peak
+[2020.01.04-16.43.27:978][  0]LogMemory: Process Virtual Memory: 99.12 MB used, 99.12 MB peak
+[2020.01.04-16.43.27:978][  0]LogMemory: Physical Memory: 9557.62 MB used,  6785.08 MB free, 16342.70 MB total
+[2020.01.04-16.43.27:979][  0]LogMemory: Virtual Memory: 4653.57 MB used,  134213072.00 MB free, 134217728.00 MB total
+[2020.01.04-16.43.27:982][  0]LogWindows: WindowsPlatformFeatures enabled
+[2020.01.04-16.43.28:015][  0]LogInit: Overriding language with editor language configuration option (en).
+[2020.01.04-16.43.28:015][  0]LogInit: Overriding locale with editor locale configuration option (en).
+[2020.01.04-16.43.28:224][  0]LogInit: Setting process to per monitor DPI aware
+[2020.01.04-16.43.28:272][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2020.01.04-16.43.28:272][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2020.01.04-16.43.28:717][  0]LogHMD: Failed to initialize OpenVR with code 126
+[2020.01.04-16.43.28:718][  0]LogD3D11RHI: D3D11 adapters:
+[2020.01.04-16.43.28:813][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1070' (Feature Level 11_0)
+[2020.01.04-16.43.28:813][  0]LogD3D11RHI:       8081/0/8171 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2020.01.04-16.43.28:816][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2020.01.04-16.43.28:816][  0]LogD3D11RHI:       0/0/8171 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2020.01.04-16.43.28:816][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2020.01.04-16.43.28:984][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2020.01.04-16.43.28:984][  0]LogD3D11RHI:     GPU DeviceId: 0x1be1 (for the marketing name, search the web for "GPU Device Id")
+[2020.01.04-16.43.28:984][  0]LogWindows: EnumDisplayDevices:
+[2020.01.04-16.43.28:984][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1070' (P:0 D:1)
+[2020.01.04-16.43.28:985][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1070' (P:1 D:1)
+[2020.01.04-16.43.28:985][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1070' (P:0 D:0)
+[2020.01.04-16.43.28:985][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1070' (P:0 D:0)
+[2020.01.04-16.43.28:986][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2020.01.04-16.43.28:986][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1070
+[2020.01.04-16.43.28:986][  0]LogD3D11RHI:   Driver Version: 430.39 (internal:26.21.14.3039, unified:430.39)
+[2020.01.04-16.43.28:986][  0]LogD3D11RHI:      Driver Date: 4-17-2019
+[2020.01.04-16.43.28:986][  0]LogRHI: Texture pool is 5656 MB (70% of 8081 MB)
+[2020.01.04-16.43.29:036][  0]LogD3D11RHI: Async texture creation enabled
+[2020.01.04-16.43.29:057][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2020.01.04-16.43.29:633][  0]LogTemp: Display: Module 'AllDesktopTargetPlatform' loaded TargetPlatform 'AllDesktop'
+[2020.01.04-16.43.29:649][  0]LogTemp: Display: Module 'MacClientTargetPlatform' loaded TargetPlatform 'MacClient'
+[2020.01.04-16.43.29:664][  0]LogTemp: Display: Module 'MacNoEditorTargetPlatform' loaded TargetPlatform 'MacNoEditor'
+[2020.01.04-16.43.29:680][  0]LogTemp: Display: Module 'MacServerTargetPlatform' loaded TargetPlatform 'MacServer'
+[2020.01.04-16.43.29:695][  0]LogTemp: Display: Module 'MacTargetPlatform' loaded TargetPlatform 'Mac'
+[2020.01.04-16.43.29:711][  0]LogTemp: Display: Module 'WindowsClientTargetPlatform' loaded TargetPlatform 'WindowsClient'
+[2020.01.04-16.43.29:726][  0]LogTemp: Display: Module 'WindowsNoEditorTargetPlatform' loaded TargetPlatform 'WindowsNoEditor'
+[2020.01.04-16.43.29:740][  0]LogTemp: Display: Module 'WindowsServerTargetPlatform' loaded TargetPlatform 'WindowsServer'
+[2020.01.04-16.43.29:746][  0]LogTemp: Display: Module 'WindowsTargetPlatform' loaded TargetPlatform 'Windows'
+[2020.01.04-16.43.29:793][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android'
+[2020.01.04-16.43.29:793][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTC'
+[2020.01.04-16.43.29:793][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATC'
+[2020.01.04-16.43.29:793][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXT'
+[2020.01.04-16.43.29:793][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1'
+[2020.01.04-16.43.29:793][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1a'
+[2020.01.04-16.43.29:793][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2'
+[2020.01.04-16.43.29:793][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTC'
+[2020.01.04-16.43.29:793][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'AndroidClient'
+[2020.01.04-16.43.29:793][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTCClient'
+[2020.01.04-16.43.29:793][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATCClient'
+[2020.01.04-16.43.29:793][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXTClient'
+[2020.01.04-16.43.29:793][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1Client'
+[2020.01.04-16.43.29:793][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1aClient'
+[2020.01.04-16.43.29:793][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2Client'
+[2020.01.04-16.43.29:793][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTCClient'
+[2020.01.04-16.43.29:793][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_Multi'
+[2020.01.04-16.43.29:793][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_MultiClient'
+[2020.01.04-16.43.29:795][  0]LogTemp: Display: Module 'HTML5TargetPlatform' loaded TargetPlatform 'HTML5'
+[2020.01.04-16.43.29:824][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOSClient'
+[2020.01.04-16.43.29:824][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOS'
+[2020.01.04-16.43.29:842][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOSClient'
+[2020.01.04-16.43.29:842][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOS'
+[2020.01.04-16.43.29:851][  0]LogTemp: Display: Module 'LinuxClientTargetPlatform' loaded TargetPlatform 'LinuxClient'
+[2020.01.04-16.43.29:861][  0]LogTemp: Display: Module 'LinuxNoEditorTargetPlatform' loaded TargetPlatform 'LinuxNoEditor'
+[2020.01.04-16.43.29:870][  0]LogTemp: Display: Module 'LinuxServerTargetPlatform' loaded TargetPlatform 'LinuxServer'
+[2020.01.04-16.43.29:880][  0]LogTemp: Display: Module 'LinuxTargetPlatform' loaded TargetPlatform 'Linux'
+[2020.01.04-16.43.29:912][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'Lumin'
+[2020.01.04-16.43.29:912][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'LuminClient'
+[2020.01.04-16.43.29:912][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2020.01.04-16.43.29:925][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2020.01.04-16.43.29:987][  0]LogShaderCompilers: Guid format shader working directory is -33 characters bigger than the processId version (C:/Users/victo/OneDrive/Documents/GitHub/The-Last/The Last/GameAlpha/TheLast/Intermediate/Shaders/WorkingDirectory/1838404/).
+[2020.01.04-16.43.29:987][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/victo/AppData/Local/Temp/UnrealShaderWorkingDir/1D54CD2545925C72D2A94AA4589B8797/'.
+[2020.01.04-16.43.29:990][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2020.01.04-16.43.29:990][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2020.01.04-16.43.29:990][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2020.01.04-16.43.30:817][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2020.01.04-16.43.30:872][  0]LogDerivedDataCache: Loaded boot cache 0.05s 73MB C:/Users/victo/AppData/Local/UnrealEngine/4.23/DerivedDataCache/Boot.ddc.
+[2020.01.04-16.43.30:872][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/victo/AppData/Local/UnrealEngine/4.23/DerivedDataCache/Boot.ddc
+[2020.01.04-16.43.30:872][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file C:/Users/victo/OneDrive/Documents/GitHub/The-Last/The Last/GameAlpha/TheLast/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2020.01.04-16.43.30:872][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2020.01.04-16.43.30:872][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file C:/Users/victo/OneDrive/Documents/GitHub/The-Last/The Last/GameAlpha/TheLast/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.01.04-16.43.30:872][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2020.01.04-16.43.30:885][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2020.01.04-16.43.30:885][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.01.04-16.43.30:885][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2020.01.04-16.43.30:886][  0]LogDerivedDataCache: Using Local data cache path C:/Users/victo/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2020.01.04-16.43.30:886][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2020.01.04-16.43.30:886][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2020.01.04-16.43.30:913][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2020.01.04-16.43.30:916][  0]LogSlate: Using FreeType 2.6.0
+[2020.01.04-16.43.30:916][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2020.01.04-16.43.30:993][  0]LogAssetRegistry: FAssetRegistry took 0.0027 seconds to start up
+[2020.01.04-16.43.31:358][  0]LogInit: Selected Device Profile: [Windows]
+[2020.01.04-16.43.31:550][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2020.01.04-16.43.31:550][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2020.01.04-16.43.31:550][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2020.01.04-16.43.31:550][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2020.01.04-16.43.31:550][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2020.01.04-16.43.31:565][  0]LogNetVersion: TheLast 1.0.0, NetCL: 8386587, EngineNetVer: 11, GameNetVer: 0 (Checksum: 2690468633)
+[2020.01.04-16.43.32:167][  0]LogPackageLocalizationCache: Processed 12 localized package path(s) for 1 prioritized culture(s) in 0.061767 seconds
+[2020.01.04-16.43.32:179][  0]LogUObjectArray: 43444 objects as part of root set at end of initial load.
+[2020.01.04-16.43.32:179][  0]LogUObjectAllocator: 7548648 out of 0 bytes used by permanent object pool.
+[2020.01.04-16.43.32:179][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2020.01.04-16.43.33:415][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2020.01.04-16.43.33:419][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2020.01.04-16.43.33:484][  0]SourceControl: Source control is disabled
+[2020.01.04-16.43.33:484][  0]SourceControl: Source control is disabled
+[2020.01.04-16.43.33:486][  0]SourceControl: Source control is disabled
+[2020.01.04-16.43.33:487][  0]SourceControl: Source control is disabled
+[2020.01.04-16.43.33:587][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2020.01.04-16.43.33:788][  0]LogOcInput: OculusInput pre-init called
+[2020.01.04-16.43.33:795][  0]LogWindows: Failed to load 'OVRPlugin.dll' (GetLastError=126)
+[2020.01.04-16.43.33:795][  0]LogWindows: File 'OVRPlugin.dll' does not exist
+[2020.01.04-16.43.33:975][  0]LogEngine: Initializing Engine...
+[2020.01.04-16.43.34:209][  0]LogHMD: Failed to initialize OpenVR with code 126
+[2020.01.04-16.43.34:210][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2020.01.04-16.43.34:659][  0]LogInit: Initializing FReadOnlyCVARCache
+[2020.01.04-16.43.34:677][  0]LogAIModule: Creating AISystem for world Untitled
+[2020.01.04-16.43.34:714][  0]LogInit: XAudio2 using 'Audífono de los auriculares con micrófono (4- CORSAIR VOID RGB Wireless Gaming Headset)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.01.04-16.43.35:008][  0]LogInit: FAudioDevice initialized.
+[2020.01.04-16.43.35:008][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2020.01.04-16.43.35:072][  0]LogDerivedDataCache: Saved boot cache 0.06s 74MB C:/Users/victo/AppData/Local/UnrealEngine/4.23/DerivedDataCache/Boot.ddc.
+[2020.01.04-16.43.35:074][  0]LogInit: Texture streaming: Enabled
+[2020.01.04-16.43.35:103][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2020.01.04-16.43.35:103][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2020.01.04-16.43.35:108][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2020.01.04-16.43.35:361][  0]LogInit: Transaction tracking system initialized
+[2020.01.04-16.43.35:405][  0]BlueprintLog: New page: Editor Load
+[2020.01.04-16.43.35:507][  0]LocalizationService: Localization service is disabled
+[2020.01.04-16.43.35:790][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2020.01.04-16.43.35:790][  0]LogCook: Display: Mobile HDR setting 1
+[2020.01.04-16.43.36:009][  0]LogFileCache: Scanning file cache for directory 'C:/Users/victo/OneDrive/Documents/GitHub/The-Last/The Last/GameAlpha/TheLast/Content/' took 0.01s
+[2020.01.04-16.43.36:009][  0]SourceControl: Source control is disabled
+[2020.01.04-16.43.36:009][  0]Cmd: MAP LOAD FILE="C:/Users/victo/OneDrive/Documents/GitHub/The-Last/The Last/GameAlpha/TheLast/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.01.04-16.43.36:009][  0]LightingResults: New page: Lighting Build
+[2020.01.04-16.43.36:013][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2020.01.04-16.43.36:013][  0]MapCheck: New page: Map Check
+[2020.01.04-16.43.36:013][  0]LightingResults: New page: Lighting Build
+[2020.01.04-16.43.36:040][  0]LogUObjectHash: Compacting FUObjectHashTables data took   2.25ms
+[2020.01.04-16.43.36:381][  0]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2020.01.04-16.43.36:392][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.01.04-16.43.36:424][  0]LogUObjectHash: Compacting FUObjectHashTables data took   2.98ms
+[2020.01.04-16.43.36:424][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.01.04-16.43.36:424][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.225ms to complete.
+[2020.01.04-16.43.36:424][  0]LogFileHelpers: Loading map 'ThirdPersonExampleMap' took 0.416
+[2020.01.04-16.43.36:550][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.04-16.43.36:559][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.04-16.43.36:569][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.04-16.43.36:578][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.04-16.43.36:586][  0]LogCollectionManager: Loaded 0 collections in 0.002596 seconds
+[2020.01.04-16.43.36:594][  0]LogFileCache: Scanning file cache for directory 'C:/Users/victo/OneDrive/Documents/GitHub/The-Last/The Last/GameAlpha/TheLast/Saved/Collections/' took 0.00s
+[2020.01.04-16.43.36:594][  0]LogFileCache: Scanning file cache for directory 'C:/Users/victo/OneDrive/Documents/GitHub/The-Last/The Last/GameAlpha/TheLast/Content/Developers/victo/Collections/' took 0.00s
+[2020.01.04-16.43.36:594][  0]LogFileCache: Scanning file cache for directory 'C:/Users/victo/OneDrive/Documents/GitHub/The-Last/The Last/GameAlpha/TheLast/Content/Collections/' took 0.00s
+[2020.01.04-16.43.36:594][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000002 seconds
+[2020.01.04-16.43.36:609][  0]LogContentBrowser: Native class hierarchy populated in 0.0142 seconds. Added 2863 classes and 680 folders.
+[2020.01.04-16.43.36:618][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0026 seconds. Added 0 classes and 0 folders.
+[2020.01.04-16.43.36:701][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0033 seconds. Added 0 classes and 0 folders.
+[2020.01.04-16.43.36:711][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0029 seconds. Added 1 classes and 2 folders.
+[2020.01.04-16.43.36:735][  0]LogSlate: Took 0.000199 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2020.01.04-16.43.36:737][  0]LogSlate: Took 0.000225 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2020.01.04-16.43.36:744][  0]LogSlate: Took 0.000211 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2020.01.04-16.43.36:821][  0]LogRenderer: Reallocating scene render targets to support 1188x668 Format 10 NumSamples 1 (Frame:1).
+[2020.01.04-16.43.37:313][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0034 seconds. Added 0 classes and 0 folders.
+[2020.01.04-16.43.37:313][  0]LogLoad: (Engine Initialization) Total time: 11.20 seconds
+[2020.01.04-16.43.37:313][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2020.01.04-16.43.37:410][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2020.01.04-16.43.37:450][  0]LogSlate: Took 0.000244 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.01.04-16.43.37:524][  2]LogAssetRegistry: Asset discovery search completed in 6.5318 seconds
+[2020.01.04-16.43.37:545][  2]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000006 seconds (found 0 objects)
+[2020.01.04-16.43.37:545][  2]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000099 seconds (updated 0 objects)
+[2020.01.04-16.43.40:179][158]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.04-16.43.43:775][359]LogSlate: Took 0.000179 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.01.04-16.43.44:078][359]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2020.01.04-16.43.44:097][359]LogAssetEditorManager: Opening Asset editor for World /Game/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2020.01.04-16.43.44:126][359]LogUObjectHash: Compacting FUObjectHashTables data took   3.00ms
+[2020.01.04-16.43.44:127][359]Cmd: MAP LOAD FILE="C:/Users/victo/OneDrive/Documents/GitHub/The-Last/The Last/GameAlpha/TheLast/Content/Maps/ThirdPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.01.04-16.43.44:127][359]LightingResults: New page: Lighting Build
+[2020.01.04-16.43.44:128][359]LoadErrors: New page: Loading map: ThirdPersonExampleMap.umap
+[2020.01.04-16.43.44:128][359]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2020.01.04-16.43.44:128][359]MapCheck: New page: Map Check
+[2020.01.04-16.43.44:128][359]LightingResults: New page: Lighting Build
+[2020.01.04-16.43.44:155][359]LogUObjectHash: Compacting FUObjectHashTables data took   2.17ms
+[2020.01.04-16.43.44:188][359]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.01.04-16.43.44:215][359]LogUObjectHash: Compacting FUObjectHashTables data took   1.66ms
+[2020.01.04-16.43.44:237][359]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.01.04-16.43.44:237][359]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.196ms to complete.
+[2020.01.04-16.43.44:237][359]LogFileHelpers: Loading map 'ThirdPersonExampleMap' took 0.110
+[2020.01.04-16.43.50:188][692]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.04-16.43.50:288][698]LogTemp: Repeating last play command: Selected Viewport
+[2020.01.04-16.43.50:399][698]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.01.04-16.43.50:425][698]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.01.04-16.43.50:442][698]PIE: New page: PIE session: ThirdPersonExampleMap (Jan 4, 2020, 6:43:50 PM)
+[2020.01.04-16.43.50:449][698]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2020.01.04-16.43.50:476][698]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2020.01.04-16.43.50:543][698]LogPlayLevel: PIE: StaticDuplicateObject took: (0.066568s)
+[2020.01.04-16.43.50:559][698]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2020.01.04-16.43.50:585][698]LogPlayLevel: PIE: World Init took: (0.040871s)
+[2020.01.04-16.43.50:585][698]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.108788s)
+[2020.01.04-16.43.50:610][698]LogUObjectHash: Compacting FUObjectHashTables data took   1.51ms
+[2020.01.04-16.43.50:653][698]LogInit: XAudio2 using 'Audífono de los auriculares con micrófono (4- CORSAIR VOID RGB Wireless Gaming Headset)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.01.04-16.43.50:874][698]LogInit: FAudioDevice initialized.
+[2020.01.04-16.43.51:159][698]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2020.01.04-16.43.51:238][698]LogWorld: Bringing World /Game/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 60) at 2020.01.04-17.43.51
+[2020.01.04-16.43.51:273][698]LogWorld: Bringing up level for play took: 0.057480
+[2020.01.04-16.43.51:273][698]LogOnline: OSS: Creating online subsystem instance for: :Context_1
+[2020.01.04-16.43.51:375][698]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0033 seconds. Added 20 classes and 0 folders.
+[2020.01.04-16.43.51:402][698]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_ThirdPersonExampleMap 1.756
+[2020.01.04-16.43.51:402][698]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.01.04-16.43.56:123][963]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.01.04-16.43.56:163][963]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.04-16.43.56:163][963]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2020.01.04-16.43.56:163][963]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2020.01.04-16.43.56:178][963]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.01.04-16.43.56:178][963]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.01.04-16.43.56:239][963]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.04-16.43.56:246][963]LogUObjectHash: Compacting FUObjectHashTables data took   3.26ms
+[2020.01.04-16.43.56:271][964]LogPlayLevel: Display: Destroying online subsystem :Context_1
+[2020.01.04-16.43.57:702][ 29]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2020.01.04-16.43.59:516][137]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2020.01.04-16.44.02:104][137]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2020.01.04-16.44.41:166][431]LogSlate: Window 'Project Settings' being destroyed
+[2020.01.04-16.44.41:173][431]LogSlate: Window 'Project Settings' being destroyed
+[2020.01.04-16.44.42:217][474]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2020.01.04-16.44.46:852][751]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2020.01.04-16.44.47:929][751]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2020.01.04-16.45.05:026][755]LogSlate: Window 'Project Settings' being destroyed
+[2020.01.04-16.45.05:034][755]LogSlate: Window 'Project Settings' being destroyed
+[2020.01.04-16.45.08:482][958]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.04-16.45.13:401][227]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2020.01.04-16.45.13:418][227]LogAssetEditorManager: Opening Asset editor for World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2020.01.04-16.45.13:444][227]LogUObjectHash: Compacting FUObjectHashTables data took   2.73ms
+[2020.01.04-16.45.13:446][227]Cmd: MAP LOAD FILE="C:/Users/victo/OneDrive/Documents/GitHub/The-Last/The Last/GameAlpha/TheLast/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.01.04-16.45.13:446][227]LightingResults: New page: Lighting Build
+[2020.01.04-16.45.13:446][227]LoadErrors: New page: Loading map: ThirdPersonExampleMap.umap
+[2020.01.04-16.45.13:448][227]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2020.01.04-16.45.13:449][227]MapCheck: New page: Map Check
+[2020.01.04-16.45.13:449][227]LightingResults: New page: Lighting Build
+[2020.01.04-16.45.13:478][227]LogUObjectHash: Compacting FUObjectHashTables data took   2.53ms
+[2020.01.04-16.45.13:482][227]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.01.04-16.45.13:510][227]LogUObjectHash: Compacting FUObjectHashTables data took   1.88ms
+[2020.01.04-16.45.13:537][227]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.01.04-16.45.13:538][227]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.203ms to complete.
+[2020.01.04-16.45.13:538][227]LogFileHelpers: Loading map 'ThirdPersonExampleMap' took 0.094
+[2020.01.04-16.45.15:331][324]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.04-16.45.15:380][327]LogTemp: Repeating last play command: Selected Viewport
+[2020.01.04-16.45.15:395][327]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.01.04-16.45.15:395][327]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.01.04-16.45.15:395][327]PIE: New page: PIE session: ThirdPersonExampleMap (Jan 4, 2020, 6:45:15 PM)
+[2020.01.04-16.45.15:395][327]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2020.01.04-16.45.15:411][327]LogPlayLevel: PIE: StaticDuplicateObject took: (0.015887s)
+[2020.01.04-16.45.15:413][327]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2020.01.04-16.45.15:414][327]LogPlayLevel: PIE: World Init took: (0.002461s)
+[2020.01.04-16.45.15:414][327]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.018826s)
+[2020.01.04-16.45.15:438][327]LogUObjectHash: Compacting FUObjectHashTables data took   2.06ms
+[2020.01.04-16.45.15:469][327]LogInit: XAudio2 using 'Audífono de los auriculares con micrófono (4- CORSAIR VOID RGB Wireless Gaming Headset)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.01.04-16.45.15:744][327]LogInit: FAudioDevice initialized.
+[2020.01.04-16.45.15:754][327]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2020.01.04-16.45.15:756][327]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 60) at 2020.01.04-17.45.15
+[2020.01.04-16.45.15:756][327]LogWorld: Bringing up level for play took: 0.001160
+[2020.01.04-16.45.15:757][327]LogOnline: OSS: Creating online subsystem instance for: :Context_3
+[2020.01.04-16.45.15:860][327]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 0.215
+[2020.01.04-16.45.15:861][327]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.01.04-16.45.22:928][739]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.01.04-16.45.22:928][739]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.04-16.45.22:928][739]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2020.01.04-16.45.22:928][739]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2020.01.04-16.45.22:938][739]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.01.04-16.45.22:938][739]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.01.04-16.45.22:968][739]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.04-16.45.22:971][739]LogUObjectHash: Compacting FUObjectHashTables data took   1.65ms
+[2020.01.04-16.45.23:034][742]LogPlayLevel: Display: Destroying online subsystem :Context_3
+[2020.01.04-16.45.24:169][805]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.04-16.45.24:302][812]LogAssetEditorManager: Opening Asset editor for World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2020.01.04-16.45.24:324][812]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2020.01.04-16.45.24:325][812]Cmd: MAP LOAD FILE="C:/Users/victo/OneDrive/Documents/GitHub/The-Last/The Last/GameAlpha/TheLast/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.01.04-16.45.24:325][812]LightingResults: New page: Lighting Build
+[2020.01.04-16.45.24:326][812]LoadErrors: New page: Loading map: ThirdPersonExampleMap.umap
+[2020.01.04-16.45.24:326][812]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2020.01.04-16.45.24:327][812]MapCheck: New page: Map Check
+[2020.01.04-16.45.24:327][812]LightingResults: New page: Lighting Build
+[2020.01.04-16.45.24:351][812]LogUObjectHash: Compacting FUObjectHashTables data took   1.73ms
+[2020.01.04-16.45.24:369][812]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2020.01.04-16.45.24:378][812]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.01.04-16.45.24:404][812]LogUObjectHash: Compacting FUObjectHashTables data took   2.10ms
+[2020.01.04-16.45.24:426][812]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.01.04-16.45.24:426][812]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.19ms to complete.
+[2020.01.04-16.45.24:427][812]LogFileHelpers: Loading map 'ThirdPersonExampleMap' took 0.102
+[2020.01.04-16.45.25:530][872]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.04-16.45.34:184][313]LogAssetEditorManager: Opening Asset editor for LevelScriptBlueprint /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap
+[2020.01.04-16.45.34:947][313]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0032 seconds. Added 121 classes and 0 folders.
+[2020.01.04-16.45.36:577][313]LogSlate: Took 0.011144 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2020.01.04-16.45.45:030][751]LogSlate: Window 'ThirdPersonExampleMap' being destroyed
+[2020.01.04-16.45.45:036][751]LogSlate: Window 'ThirdPersonExampleMap' being destroyed
+[2020.01.04-16.45.45:036][751]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2020.01.04-16.46.12:869][120]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2020.01.04-16.46.53:419][ 92]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2020.01.04-16.46.59:939][423]LogUObjectHash: Compacting FUObjectHashTables data took   5.21ms
+[2020.01.04-16.46.59:940][423]LogMetaData: Removing '/Game/Maps/Pantano.Pantano_C' ref from Metadata '/Game/Maps/ThirdPersonExampleMap.PackageMetaData'
+[2020.01.04-16.46.59:940][423]LogMetaData: Removing '/Game/Maps/Pantano.SKEL_Pantano_C' ref from Metadata '/Game/Maps/ThirdPersonExampleMap.PackageMetaData'
+[2020.01.04-16.46.59:990][423]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Pantano_BuiltData" FILE="C:/Users/victo/OneDrive/Documents/GitHub/The-Last/The Last/GameAlpha/TheLast/Content/Maps/Pantano_BuiltData.uasset" SILENT=true
+[2020.01.04-16.47.00:216][423]LogSavePackage: Moving 'C:/Users/victo/OneDrive/Documents/GitHub/The-Last/The Last/GameAlpha/TheLast/Saved/Pantano_BuiltDataDB5FC505472D807291C4BBADE5A4E7A7.tmp' to 'C:/Users/victo/OneDrive/Documents/GitHub/The-Last/The Last/GameAlpha/TheLast/Content/Maps/Pantano_BuiltData.uasset'
+[2020.01.04-16.47.00:261][423]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Pantano" FILE="C:/Users/victo/OneDrive/Documents/GitHub/The-Last/The Last/GameAlpha/TheLast/Content/Maps/Pantano.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.01.04-16.47.00:366][423]LogUObjectHash: Compacting FUObjectHashTables data took   4.02ms
+[2020.01.04-16.47.00:784][423]LogSavePackage: Moving 'C:/Users/victo/OneDrive/Documents/GitHub/The-Last/The Last/GameAlpha/TheLast/Saved/Pantano0F8F77CD4F14B534511D02A87AAF7CFC.tmp' to 'C:/Users/victo/OneDrive/Documents/GitHub/The-Last/The Last/GameAlpha/TheLast/Content/Maps/Pantano.umap'
+[2020.01.04-16.47.00:805][423]LogFileHelpers: Saving map 'Pantano' took 0.546
+[2020.01.04-16.47.01:224][423]LogUObjectHash: Compacting FUObjectHashTables data took   4.31ms
+[2020.01.04-16.47.01:263][423]LogUObjectHash: Compacting FUObjectHashTables data took   1.14ms
+[2020.01.04-16.47.01:302][423]LogUObjectHash: Compacting FUObjectHashTables data took   3.12ms
+[2020.01.04-16.47.01:334][423]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2020.01.04-16.48.14:387][ 26]LogAssetEditorManager: Opening Asset editor for World /Game/Maps/Pantano.Pantano
+[2020.01.04-16.48.14:468][ 26]LogUObjectHash: Compacting FUObjectHashTables data took   4.11ms
+[2020.01.04-16.48.15:806][ 26]LogSlate: Window 'Save Content' being destroyed
+[2020.01.04-16.48.15:847][ 26]LogSavePackage: Moving 'C:/Users/victo/OneDrive/Documents/GitHub/The-Last/The Last/GameAlpha/TheLast/Saved/ThirdPersonGameModeE629C2C54159243542E75085A49E50FA.tmp' to 'C:/Users/victo/OneDrive/Documents/GitHub/The-Last/The Last/GameAlpha/TheLast/Content/ThirdPersonBP/Blueprints/ThirdPersonGameMode.uasset'
+[2020.01.04-16.48.15:854][ 26]Cmd: MAP LOAD FILE="C:/Users/victo/OneDrive/Documents/GitHub/The-Last/The Last/GameAlpha/TheLast/Content/Maps/Pantano.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.01.04-16.48.15:854][ 26]LightingResults: New page: Lighting Build
+[2020.01.04-16.48.15:855][ 26]LoadErrors: New page: Loading map: Pantano.umap
+[2020.01.04-16.48.15:855][ 26]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2020.01.04-16.48.15:856][ 26]MapCheck: New page: Map Check
+[2020.01.04-16.48.15:856][ 26]LightingResults: New page: Lighting Build
+[2020.01.04-16.48.15:913][ 26]LogUObjectHash: Compacting FUObjectHashTables data took   3.35ms
+[2020.01.04-16.48.15:926][ 26]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.01.04-16.48.15:963][ 26]LogUObjectHash: Compacting FUObjectHashTables data took   2.59ms
+[2020.01.04-16.48.15:990][ 26]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.01.04-16.48.15:991][ 26]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.25ms to complete.
+[2020.01.04-16.48.15:993][ 26]LogFileHelpers: Loading map 'Pantano' took 0.141
+[2020.01.04-16.48.17:379][104]LogSlate: Window 'Project Settings' being destroyed
+[2020.01.04-16.48.17:386][104]LogSlate: Window 'Project Settings' being destroyed
+[2020.01.04-16.48.18:764][171]LogTemp: Repeating last play command: Selected Viewport
+[2020.01.04-16.48.18:784][171]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Pantano.Pantano:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Pantano.Pantano:PersistentLevel.Pantano' with GeneratedClass '/Game/Maps/Pantano.Pantano_C' with ClassGeneratedBy '/Game/Maps/Pantano.Pantano:PersistentLevel.Pantano'
+[2020.01.04-16.48.18:784][171]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.01.04-16.48.18:784][171]PIE: New page: PIE session: Pantano (Jan 4, 2020, 6:48:18 PM)
+[2020.01.04-16.48.18:784][171]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Pantano
+[2020.01.04-16.48.18:815][171]LogPlayLevel: PIE: StaticDuplicateObject took: (0.031093s)
+[2020.01.04-16.48.18:817][171]LogAIModule: Creating AISystem for world Pantano
+[2020.01.04-16.48.18:817][171]LogPlayLevel: PIE: World Init took: (0.001518s)
+[2020.01.04-16.48.18:817][171]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Pantano.Pantano to /Game/Maps/UEDPIE_0_Pantano.Pantano (0.032973s)
+[2020.01.04-16.48.18:853][171]LogUObjectHash: Compacting FUObjectHashTables data took   2.79ms
+[2020.01.04-16.48.18:883][171]LogInit: XAudio2 using 'Audífono de los auriculares con micrófono (4- CORSAIR VOID RGB Wireless Gaming Headset)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.01.04-16.48.19:166][171]LogInit: FAudioDevice initialized.
+[2020.01.04-16.48.19:174][171]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2020.01.04-16.48.19:183][171]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Pantano.Pantano up for play (max tick rate 60) at 2020.01.04-17.48.19
+[2020.01.04-16.48.19:184][171]LogWorld: Bringing up level for play took: 0.008526
+[2020.01.04-16.48.19:184][171]LogOnline: OSS: Creating online subsystem instance for: :Context_9
+[2020.01.04-16.48.19:186][171]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Pantano -0.459
+[2020.01.04-16.48.19:186][171]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Pantano.Pantano:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Pantano.Pantano:PersistentLevel.Pantano' with GeneratedClass '/Game/Maps/Pantano.Pantano_C' with ClassGeneratedBy '/Game/Maps/Pantano.Pantano:PersistentLevel.Pantano'
+[2020.01.04-16.48.21:360][300]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Pantano.Pantano:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Pantano.Pantano:PersistentLevel.Pantano' with GeneratedClass '/Game/Maps/Pantano.Pantano_C' with ClassGeneratedBy '/Game/Maps/Pantano.Pantano:PersistentLevel.Pantano'
+[2020.01.04-16.48.21:360][300]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.04-16.48.21:360][300]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Pantano
+[2020.01.04-16.48.21:361][300]LogWorld: UWorld::CleanupWorld for Pantano, bSessionEnded=true, bCleanupResources=true
+[2020.01.04-16.48.21:371][300]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.01.04-16.48.21:371][300]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Pantano.Pantano:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Pantano.Pantano:PersistentLevel.Pantano' with GeneratedClass '/Game/Maps/Pantano.Pantano_C' with ClassGeneratedBy '/Game/Maps/Pantano.Pantano:PersistentLevel.Pantano'
+[2020.01.04-16.48.21:426][300]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.04-16.48.21:439][300]LogUObjectHash: Compacting FUObjectHashTables data took   7.98ms
+[2020.01.04-16.48.21:468][301]LogPlayLevel: Display: Destroying online subsystem :Context_9
+[2020.01.04-16.48.22:472][360]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube2)
+[2020.01.04-16.48.23:708][403]LogEditorViewport: Clicking on Actor (LMB): ThirdPersonCharacter_C (ThirdPersonCharacter)
+[2020.01.04-16.48.25:283][475]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.04-16.48.25:893][512]Cmd: DELETE
+[2020.01.04-16.48.25:893][512]Cmd: ACTOR DELETE
+[2020.01.04-16.48.26:062][512]LogEditorActor: Deleted Actor: ThirdPersonCharacter_C
+[2020.01.04-16.48.26:100][512]LogUObjectHash: Compacting FUObjectHashTables data took   2.16ms
+[2020.01.04-16.48.26:101][512]LogEditorActor: Deleted 1 Actors (0.044 secs)
+[2020.01.04-16.48.27:825][612]LogTemp: Repeating last play command: Selected Viewport
+[2020.01.04-16.48.27:842][612]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Pantano.Pantano:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Pantano.Pantano:PersistentLevel.Pantano' with GeneratedClass '/Game/Maps/Pantano.Pantano_C' with ClassGeneratedBy '/Game/Maps/Pantano.Pantano:PersistentLevel.Pantano'
+[2020.01.04-16.48.27:842][612]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.01.04-16.48.27:842][612]PIE: New page: PIE session: Pantano (Jan 4, 2020, 6:48:27 PM)
+[2020.01.04-16.48.27:842][612]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Pantano
+[2020.01.04-16.48.27:868][612]LogPlayLevel: PIE: StaticDuplicateObject took: (0.026436s)
+[2020.01.04-16.48.27:869][612]LogAIModule: Creating AISystem for world Pantano
+[2020.01.04-16.48.27:869][612]LogPlayLevel: PIE: World Init took: (0.001220s)
+[2020.01.04-16.48.27:869][612]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Pantano.Pantano to /Game/Maps/UEDPIE_0_Pantano.Pantano (0.027903s)
+[2020.01.04-16.48.27:901][612]LogUObjectHash: Compacting FUObjectHashTables data took   2.44ms
+[2020.01.04-16.48.27:929][612]LogInit: XAudio2 using 'Audífono de los auriculares con micrófono (4- CORSAIR VOID RGB Wireless Gaming Headset)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.01.04-16.48.28:171][612]LogInit: FAudioDevice initialized.
+[2020.01.04-16.48.28:181][612]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2020.01.04-16.48.28:187][612]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Pantano.Pantano up for play (max tick rate 60) at 2020.01.04-17.48.28
+[2020.01.04-16.48.28:187][612]LogWorld: Bringing up level for play took: 0.005690
+[2020.01.04-16.48.28:187][612]LogOnline: OSS: Creating online subsystem instance for: :Context_11
+[2020.01.04-16.48.28:191][612]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Pantano 0.545
+[2020.01.04-16.48.28:191][612]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Pantano.Pantano:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Pantano.Pantano:PersistentLevel.Pantano' with GeneratedClass '/Game/Maps/Pantano.Pantano_C' with ClassGeneratedBy '/Game/Maps/Pantano.Pantano:PersistentLevel.Pantano'
+[2020.01.04-16.48.29:572][693]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Pantano.Pantano:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Pantano.Pantano:PersistentLevel.Pantano' with GeneratedClass '/Game/Maps/Pantano.Pantano_C' with ClassGeneratedBy '/Game/Maps/Pantano.Pantano:PersistentLevel.Pantano'
+[2020.01.04-16.48.29:572][693]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.04-16.48.29:572][693]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Pantano
+[2020.01.04-16.48.29:573][693]LogWorld: UWorld::CleanupWorld for Pantano, bSessionEnded=true, bCleanupResources=true
+[2020.01.04-16.48.29:585][693]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.01.04-16.48.29:586][693]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Pantano.Pantano:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Pantano.Pantano:PersistentLevel.Pantano' with GeneratedClass '/Game/Maps/Pantano.Pantano_C' with ClassGeneratedBy '/Game/Maps/Pantano.Pantano:PersistentLevel.Pantano'
+[2020.01.04-16.48.29:621][693]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.04-16.48.29:628][693]LogUObjectHash: Compacting FUObjectHashTables data took   3.37ms
+[2020.01.04-16.48.29:686][695]LogPlayLevel: Display: Destroying online subsystem :Context_11
+[2020.01.04-16.48.38:894][242]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2020.01.04-16.48.42:560][455]LogEditorViewport: Clicking on Actor (LMB): LightmassImportanceVolume (LightmassImportanceVolume)
+[2020.01.04-16.48.43:354][500]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2020.01.04-16.48.47:084][719]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2020.01.04-16.48.47:655][752]LogEditorViewport: Clicking on Actor (LMB): PostProcessVolume (PostProcessVolume)
+[2020.01.04-16.48.50:639][901]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.04-16.49.12:136][154]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2020.01.04-16.49.12:632][159]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2020.01.04-16.49.13:994][233]Cmd: TRANSACTION UNDO
+[2020.01.04-16.49.13:994][233]LogEditorTransaction: Undo Move Actors
+[2020.01.04-16.49.31:974][198]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2020.01.04-16.49.35:420][398]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.04-16.49.35:503][403]LogTemp: Repeating last play command: Selected Viewport
+[2020.01.04-16.49.35:517][403]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Pantano.Pantano:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Pantano.Pantano:PersistentLevel.Pantano' with GeneratedClass '/Game/Maps/Pantano.Pantano_C' with ClassGeneratedBy '/Game/Maps/Pantano.Pantano:PersistentLevel.Pantano'
+[2020.01.04-16.49.35:517][403]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.01.04-16.49.35:518][403]PIE: New page: PIE session: Pantano (Jan 4, 2020, 6:49:35 PM)
+[2020.01.04-16.49.35:518][403]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Pantano
+[2020.01.04-16.49.35:542][403]LogPlayLevel: PIE: StaticDuplicateObject took: (0.024214s)
+[2020.01.04-16.49.35:543][403]LogAIModule: Creating AISystem for world Pantano
+[2020.01.04-16.49.35:543][403]LogPlayLevel: PIE: World Init took: (0.001047s)
+[2020.01.04-16.49.35:543][403]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Pantano.Pantano to /Game/Maps/UEDPIE_0_Pantano.Pantano (0.025442s)
+[2020.01.04-16.49.35:577][403]LogUObjectHash: Compacting FUObjectHashTables data took   2.73ms
+[2020.01.04-16.49.35:603][403]LogInit: XAudio2 using 'Audífono de los auriculares con micrófono (4- CORSAIR VOID RGB Wireless Gaming Headset)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.01.04-16.49.35:838][403]LogInit: FAudioDevice initialized.
+[2020.01.04-16.49.35:848][403]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2020.01.04-16.49.35:855][403]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Pantano.Pantano up for play (max tick rate 60) at 2020.01.04-17.49.35
+[2020.01.04-16.49.35:855][403]LogWorld: Bringing up level for play took: 0.005463
+[2020.01.04-16.49.35:855][403]LogOnline: OSS: Creating online subsystem instance for: :Context_12
+[2020.01.04-16.49.35:858][403]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Pantano 0.213
+[2020.01.04-16.49.35:859][403]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Pantano.Pantano:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Pantano.Pantano:PersistentLevel.Pantano' with GeneratedClass '/Game/Maps/Pantano.Pantano_C' with ClassGeneratedBy '/Game/Maps/Pantano.Pantano:PersistentLevel.Pantano'
+[2020.01.04-16.49.36:901][464]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Pantano.Pantano:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Pantano.Pantano:PersistentLevel.Pantano' with GeneratedClass '/Game/Maps/Pantano.Pantano_C' with ClassGeneratedBy '/Game/Maps/Pantano.Pantano:PersistentLevel.Pantano'
+[2020.01.04-16.49.36:902][464]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.04-16.49.36:902][464]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Pantano
+[2020.01.04-16.49.36:903][464]LogWorld: UWorld::CleanupWorld for Pantano, bSessionEnded=true, bCleanupResources=true
+[2020.01.04-16.49.36:914][464]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.01.04-16.49.36:914][464]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Pantano.Pantano:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Pantano.Pantano:PersistentLevel.Pantano' with GeneratedClass '/Game/Maps/Pantano.Pantano_C' with ClassGeneratedBy '/Game/Maps/Pantano.Pantano:PersistentLevel.Pantano'
+[2020.01.04-16.49.36:954][464]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.04-16.49.36:959][464]LogUObjectHash: Compacting FUObjectHashTables data took   3.55ms
+[2020.01.04-16.49.37:004][466]LogPlayLevel: Display: Destroying online subsystem :Context_12
+[2020.01.04-16.49.41:135][711]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.04-16.49.41:218][716]LogTemp: Repeating last play command: Selected Viewport
+[2020.01.04-16.49.41:231][716]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Pantano.Pantano:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Pantano.Pantano:PersistentLevel.Pantano' with GeneratedClass '/Game/Maps/Pantano.Pantano_C' with ClassGeneratedBy '/Game/Maps/Pantano.Pantano:PersistentLevel.Pantano'
+[2020.01.04-16.49.41:232][716]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.01.04-16.49.41:232][716]PIE: New page: PIE session: Pantano (Jan 4, 2020, 6:49:41 PM)
+[2020.01.04-16.49.41:232][716]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Pantano
+[2020.01.04-16.49.41:258][716]LogPlayLevel: PIE: StaticDuplicateObject took: (0.026102s)
+[2020.01.04-16.49.41:259][716]LogAIModule: Creating AISystem for world Pantano
+[2020.01.04-16.49.41:259][716]LogPlayLevel: PIE: World Init took: (0.001398s)
+[2020.01.04-16.49.41:260][716]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Pantano.Pantano to /Game/Maps/UEDPIE_0_Pantano.Pantano (0.027753s)
+[2020.01.04-16.49.41:290][716]LogUObjectHash: Compacting FUObjectHashTables data took   2.85ms
+[2020.01.04-16.49.41:317][716]LogInit: XAudio2 using 'Audífono de los auriculares con micrófono (4- CORSAIR VOID RGB Wireless Gaming Headset)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.01.04-16.49.41:602][716]LogInit: FAudioDevice initialized.
+[2020.01.04-16.49.41:612][716]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2020.01.04-16.49.41:621][716]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Pantano.Pantano up for play (max tick rate 60) at 2020.01.04-17.49.41
+[2020.01.04-16.49.41:621][716]LogWorld: Bringing up level for play took: 0.008756
+[2020.01.04-16.49.41:622][716]LogOnline: OSS: Creating online subsystem instance for: :Context_13
+[2020.01.04-16.49.41:626][716]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Pantano -0.019
+[2020.01.04-16.49.41:626][716]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Pantano.Pantano:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Pantano.Pantano:PersistentLevel.Pantano' with GeneratedClass '/Game/Maps/Pantano.Pantano_C' with ClassGeneratedBy '/Game/Maps/Pantano.Pantano:PersistentLevel.Pantano'
+[2020.01.04-16.50.18:864][934]LogCharacter: ProvisionalCharacter_C_0 is trying to crouch, but crouching is disabled on this character! (check CharacterMovement NavAgentSettings)
+[2020.01.04-16.51.09:839][981]LogCharacter: ProvisionalCharacter_C_0 is trying to crouch, but crouching is disabled on this character! (check CharacterMovement NavAgentSettings)
+[2020.01.04-16.51.44:666][ 68]LogCharacter: ProvisionalCharacter_C_0 is trying to crouch, but crouching is disabled on this character! (check CharacterMovement NavAgentSettings)
+[2020.01.04-16.51.50:584][423]LogCharacter: ProvisionalCharacter_C_0 is trying to crouch, but crouching is disabled on this character! (check CharacterMovement NavAgentSettings)
+[2020.01.04-16.51.54:252][641]LogCharacter: ProvisionalCharacter_C_0 is trying to crouch, but crouching is disabled on this character! (check CharacterMovement NavAgentSettings)
+[2020.01.04-16.51.55:923][741]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Pantano.Pantano:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Pantano.Pantano:PersistentLevel.Pantano' with GeneratedClass '/Game/Maps/Pantano.Pantano_C' with ClassGeneratedBy '/Game/Maps/Pantano.Pantano:PersistentLevel.Pantano'
+[2020.01.04-16.51.55:923][741]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.04-16.51.55:923][741]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Pantano
+[2020.01.04-16.51.55:923][741]LogWorld: UWorld::CleanupWorld for Pantano, bSessionEnded=true, bCleanupResources=true
+[2020.01.04-16.51.55:932][741]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.01.04-16.51.55:933][741]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Pantano.Pantano:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Pantano.Pantano:PersistentLevel.Pantano' with GeneratedClass '/Game/Maps/Pantano.Pantano_C' with ClassGeneratedBy '/Game/Maps/Pantano.Pantano:PersistentLevel.Pantano'
+[2020.01.04-16.51.55:970][741]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.04-16.51.55:976][741]LogUObjectHash: Compacting FUObjectHashTables data took   2.88ms
+[2020.01.04-16.51.56:023][743]LogPlayLevel: Display: Destroying online subsystem :Context_13
+[2020.01.04-16.52.02:380][100]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.04-16.52.02:446][104]LogTemp: Repeating last play command: Selected Viewport
+[2020.01.04-16.52.02:459][104]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Pantano.Pantano:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Pantano.Pantano:PersistentLevel.Pantano' with GeneratedClass '/Game/Maps/Pantano.Pantano_C' with ClassGeneratedBy '/Game/Maps/Pantano.Pantano:PersistentLevel.Pantano'
+[2020.01.04-16.52.02:459][104]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.01.04-16.52.02:460][104]PIE: New page: PIE session: Pantano (Jan 4, 2020, 6:52:02 PM)
+[2020.01.04-16.52.02:460][104]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Pantano
+[2020.01.04-16.52.02:485][104]LogPlayLevel: PIE: StaticDuplicateObject took: (0.024718s)
+[2020.01.04-16.52.02:486][104]LogAIModule: Creating AISystem for world Pantano
+[2020.01.04-16.52.02:486][104]LogPlayLevel: PIE: World Init took: (0.001374s)
+[2020.01.04-16.52.02:486][104]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Pantano.Pantano to /Game/Maps/UEDPIE_0_Pantano.Pantano (0.026342s)
+[2020.01.04-16.52.02:519][104]LogUObjectHash: Compacting FUObjectHashTables data took   2.93ms
+[2020.01.04-16.52.02:546][104]LogInit: XAudio2 using 'Audífono de los auriculares con micrófono (4- CORSAIR VOID RGB Wireless Gaming Headset)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.01.04-16.52.02:790][104]LogInit: FAudioDevice initialized.
+[2020.01.04-16.52.02:801][104]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2020.01.04-16.52.02:810][104]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Pantano.Pantano up for play (max tick rate 60) at 2020.01.04-17.52.02
+[2020.01.04-16.52.02:810][104]LogWorld: Bringing up level for play took: 0.008074
+[2020.01.04-16.52.02:811][104]LogOnline: OSS: Creating online subsystem instance for: :Context_14
+[2020.01.04-16.52.02:814][104]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Pantano 1.169
+[2020.01.04-16.52.02:814][104]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Pantano.Pantano:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Pantano.Pantano:PersistentLevel.Pantano' with GeneratedClass '/Game/Maps/Pantano.Pantano_C' with ClassGeneratedBy '/Game/Maps/Pantano.Pantano:PersistentLevel.Pantano'
+[2020.01.04-16.52.11:671][632]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Pantano.Pantano:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Pantano.Pantano:PersistentLevel.Pantano' with GeneratedClass '/Game/Maps/Pantano.Pantano_C' with ClassGeneratedBy '/Game/Maps/Pantano.Pantano:PersistentLevel.Pantano'
+[2020.01.04-16.52.11:671][632]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.04-16.52.11:671][632]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Pantano
+[2020.01.04-16.52.11:671][632]LogWorld: UWorld::CleanupWorld for Pantano, bSessionEnded=true, bCleanupResources=true
+[2020.01.04-16.52.11:683][632]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.01.04-16.52.11:684][632]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Pantano.Pantano:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Pantano.Pantano:PersistentLevel.Pantano' with GeneratedClass '/Game/Maps/Pantano.Pantano_C' with ClassGeneratedBy '/Game/Maps/Pantano.Pantano:PersistentLevel.Pantano'
+[2020.01.04-16.52.11:721][632]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.04-16.52.11:725][632]LogUObjectHash: Compacting FUObjectHashTables data took   2.72ms
+[2020.01.04-16.52.11:775][635]LogPlayLevel: Display: Destroying online subsystem :Context_14
+[2020.01.04-16.52.15:313][831]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.04-16.52.15:417][836]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Pantano" FILE="C:/Users/victo/OneDrive/Documents/GitHub/The-Last/The Last/GameAlpha/TheLast/Content/Maps/Pantano.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.01.04-16.52.15:448][836]LogUObjectHash: Compacting FUObjectHashTables data took   1.13ms
+[2020.01.04-16.52.15:946][836]LogSavePackage: Moving 'C:/Users/victo/OneDrive/Documents/GitHub/The-Last/The Last/GameAlpha/TheLast/Saved/Pantano558E8DB441017176ADFF0E91F6FB8634.tmp' to 'C:/Users/victo/OneDrive/Documents/GitHub/The-Last/The Last/GameAlpha/TheLast/Content/Maps/Pantano.umap'
+[2020.01.04-16.52.15:988][836]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Pantano_BuiltData" FILE="C:/Users/victo/OneDrive/Documents/GitHub/The-Last/The Last/GameAlpha/TheLast/Content/Maps/Pantano_BuiltData.uasset" SILENT=true
+[2020.01.04-16.52.16:173][836]LogSavePackage: Moving 'C:/Users/victo/OneDrive/Documents/GitHub/The-Last/The Last/GameAlpha/TheLast/Saved/Pantano_BuiltDataC1783B3B45D8EDEB7C37C9B855B30700.tmp' to 'C:/Users/victo/OneDrive/Documents/GitHub/The-Last/The Last/GameAlpha/TheLast/Content/Maps/Pantano_BuiltData.uasset'
+[2020.01.04-16.52.19:120][  5]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2020.01.04-16.52.31:565][693]LogAssetEditorManager: Opening Asset editor for World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2020.01.04-16.52.31:603][693]LogUObjectHash: Compacting FUObjectHashTables data took   4.39ms
+[2020.01.04-16.52.31:605][693]Cmd: MAP LOAD FILE="C:/Users/victo/OneDrive/Documents/GitHub/The-Last/The Last/GameAlpha/TheLast/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.01.04-16.52.31:605][693]LightingResults: New page: Lighting Build
+[2020.01.04-16.52.31:606][693]LoadErrors: New page: Loading map: ThirdPersonExampleMap.umap
+[2020.01.04-16.52.31:608][693]LogWorld: UWorld::CleanupWorld for Pantano, bSessionEnded=true, bCleanupResources=true
+[2020.01.04-16.52.31:609][693]MapCheck: New page: Map Check
+[2020.01.04-16.52.31:609][693]LightingResults: New page: Lighting Build
+[2020.01.04-16.52.31:652][693]LogUObjectHash: Compacting FUObjectHashTables data took   5.01ms
+[2020.01.04-16.52.31:659][693]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.01.04-16.52.31:701][693]LogUObjectHash: Compacting FUObjectHashTables data took   3.93ms
+[2020.01.04-16.52.31:742][693]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.01.04-16.52.31:742][693]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.214ms to complete.
+[2020.01.04-16.52.31:744][693]LogFileHelpers: Loading map 'ThirdPersonExampleMap' took 0.140
+[2020.01.04-16.52.36:564][959]LogAssetEditorManager: Opening Asset editor for LevelScriptBlueprint /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap
+[2020.01.04-16.52.37:605][987]LogEditorSessionSummary: EditorSessionSummary sent report. Type=Shutdown, SessionId={D02CEFEC-443F-4E1D-5F99-ED944E763327}
+[2020.01.04-16.52.43:605][319]LogAIModule: Creating AISystem for world Pantano
+[2020.01.04-16.52.44:280][356]LogAssetEditorManager: Opening Asset editor for World /Game/Maps/Pantano.Pantano
+[2020.01.04-16.52.44:320][356]LogUObjectHash: Compacting FUObjectHashTables data took   2.90ms
+[2020.01.04-16.52.44:320][356]Cmd: MAP LOAD FILE="C:/Users/victo/OneDrive/Documents/GitHub/The-Last/The Last/GameAlpha/TheLast/Content/Maps/Pantano.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.01.04-16.52.44:321][356]LightingResults: New page: Lighting Build
+[2020.01.04-16.52.44:321][356]LoadErrors: New page: Loading map: Pantano.umap
+[2020.01.04-16.52.44:322][356]LogSlate: Window 'ThirdPersonExampleMap' being destroyed
+[2020.01.04-16.52.44:430][356]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2020.01.04-16.52.44:476][356]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2020.01.04-16.52.44:477][356]MapCheck: New page: Map Check
+[2020.01.04-16.52.44:477][356]LightingResults: New page: Lighting Build
+[2020.01.04-16.52.44:508][356]LogUObjectHash: Compacting FUObjectHashTables data took   3.21ms
+[2020.01.04-16.52.44:521][356]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.01.04-16.52.44:557][356]LogUObjectHash: Compacting FUObjectHashTables data took   3.92ms
+[2020.01.04-16.52.44:585][356]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.01.04-16.52.44:585][356]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.286ms to complete.
+[2020.01.04-16.52.44:587][356]LogFileHelpers: Loading map 'Pantano' took 0.268
+[2020.01.04-16.52.48:559][578]LogAssetEditorManager: Opening Asset editor for LevelScriptBlueprint /Game/Maps/Pantano.Pantano:PersistentLevel.Pantano
+[2020.01.04-16.53.12:059][835]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2020.01.04-16.53.22:938][452]LogAssetEditorManager: Opening Asset editor for World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2020.01.04-16.53.22:970][452]LogUObjectHash: Compacting FUObjectHashTables data took   3.08ms
+[2020.01.04-16.53.22:971][452]Cmd: MAP LOAD FILE="C:/Users/victo/OneDrive/Documents/GitHub/The-Last/The Last/GameAlpha/TheLast/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.01.04-16.53.22:972][452]LightingResults: New page: Lighting Build
+[2020.01.04-16.53.22:973][452]LoadErrors: New page: Loading map: ThirdPersonExampleMap.umap
+[2020.01.04-16.53.22:975][452]LogSlate: Window 'Pantano' being destroyed
+[2020.01.04-16.53.22:989][452]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2020.01.04-16.53.23:031][452]LogWorld: UWorld::CleanupWorld for Pantano, bSessionEnded=true, bCleanupResources=true
+[2020.01.04-16.53.23:031][452]MapCheck: New page: Map Check
+[2020.01.04-16.53.23:031][452]LightingResults: New page: Lighting Build
+[2020.01.04-16.53.23:070][452]LogUObjectHash: Compacting FUObjectHashTables data took   2.78ms
+[2020.01.04-16.53.23:073][452]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.01.04-16.53.23:112][452]LogUObjectHash: Compacting FUObjectHashTables data took   3.37ms
+[2020.01.04-16.53.23:137][452]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.01.04-16.53.23:137][452]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.188ms to complete.
+[2020.01.04-16.53.23:139][452]LogFileHelpers: Loading map 'ThirdPersonExampleMap' took 0.168
+[2020.01.04-16.53.27:154][686]LogAssetEditorManager: Opening Asset editor for LevelScriptBlueprint /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap
+[2020.01.04-16.53.37:594][269]LogEditorSessionSummary: EditorSessionSummary sent report. Type=Shutdown, SessionId={22BAF80B-47E7-E2C4-E12D-D7BD77BE9D46}
+[2020.01.04-16.53.58:003][907]LogSlate: Window 'ThirdPersonExampleMap' being destroyed
+[2020.01.04-16.53.58:010][907]LogSlate: Window 'ThirdPersonExampleMap' being destroyed
+[2020.01.04-16.53.58:010][907]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
+[2020.01.04-16.54.01:090][ 79]LogAIModule: Creating AISystem for world Pantano
+[2020.01.04-16.54.01:147][ 79]LogAssetEditorManager: Opening Asset editor for World /Game/Maps/Pantano.Pantano
+[2020.01.04-16.54.01:181][ 79]LogUObjectHash: Compacting FUObjectHashTables data took   2.61ms
+[2020.01.04-16.54.01:182][ 79]Cmd: MAP LOAD FILE="C:/Users/victo/OneDrive/Documents/GitHub/The-Last/The Last/GameAlpha/TheLast/Content/Maps/Pantano.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.01.04-16.54.01:182][ 79]LightingResults: New page: Lighting Build
+[2020.01.04-16.54.01:182][ 79]LoadErrors: New page: Loading map: Pantano.umap
+[2020.01.04-16.54.01:183][ 79]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2020.01.04-16.54.01:183][ 79]MapCheck: New page: Map Check
+[2020.01.04-16.54.01:183][ 79]LightingResults: New page: Lighting Build
+[2020.01.04-16.54.01:213][ 79]LogUObjectHash: Compacting FUObjectHashTables data took   2.78ms
+[2020.01.04-16.54.01:222][ 79]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.01.04-16.54.01:258][ 79]LogUObjectHash: Compacting FUObjectHashTables data took   3.52ms
+[2020.01.04-16.54.01:280][ 79]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.01.04-16.54.01:281][ 79]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.19ms to complete.
+[2020.01.04-16.54.01:281][ 79]LogFileHelpers: Loading map 'Pantano' took 0.101
+[2020.01.04-16.54.06:692][383]LogAssetEditorManager: Opening Asset editor for LevelScriptBlueprint /Game/Maps/Pantano.Pantano:PersistentLevel.Pantano
+[2020.01.04-16.55.18:861][206]BlueprintLog: New page: Compile Pantano
+[2020.01.04-16.55.19:079][206]LogUObjectHash: Compacting FUObjectHashTables data took   3.62ms
+[2020.01.04-16.55.19:397][218]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Pantano" FILE="C:/Users/victo/OneDrive/Documents/GitHub/The-Last/The Last/GameAlpha/TheLast/Content/Maps/Pantano.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.01.04-16.55.19:430][218]LogUObjectHash: Compacting FUObjectHashTables data took   2.27ms
+[2020.01.04-16.55.19:810][218]LogSavePackage: Moving 'C:/Users/victo/OneDrive/Documents/GitHub/The-Last/The Last/GameAlpha/TheLast/Saved/Pantano840FBD6B4F189B70B104BE8A497F8CD3.tmp' to 'C:/Users/victo/OneDrive/Documents/GitHub/The-Last/The Last/GameAlpha/TheLast/Content/Maps/Pantano.umap'
+[2020.01.04-16.55.19:842][218]LogFileHelpers: Saving map 'Pantano' took 0.446
+[2020.01.04-16.55.20:193][238]LogSlate: Window 'Pantano' being destroyed
+[2020.01.04-16.55.20:203][238]LogSlate: Window 'Pantano' being destroyed
+[2020.01.04-16.55.20:214][238]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2020.01.04-16.55.21:069][283]LogTemp: Repeating last play command: Selected Viewport
+[2020.01.04-16.55.21:103][283]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Pantano.Pantano:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Pantano.Pantano:PersistentLevel.Pantano' with GeneratedClass '/Game/Maps/Pantano.Pantano_C' with ClassGeneratedBy '/Game/Maps/Pantano.Pantano:PersistentLevel.Pantano'
+[2020.01.04-16.55.21:103][283]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.01.04-16.55.21:103][283]PIE: New page: PIE session: Pantano (Jan 4, 2020, 6:55:21 PM)
+[2020.01.04-16.55.21:103][283]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Pantano
+[2020.01.04-16.55.21:149][283]LogPlayLevel: PIE: StaticDuplicateObject took: (0.045518s)
+[2020.01.04-16.55.21:150][283]LogAIModule: Creating AISystem for world Pantano
+[2020.01.04-16.55.21:151][283]LogPlayLevel: PIE: World Init took: (0.001687s)
+[2020.01.04-16.55.21:151][283]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Pantano.Pantano to /Game/Maps/UEDPIE_0_Pantano.Pantano (0.047493s)
+[2020.01.04-16.55.21:224][283]LogUObjectHash: Compacting FUObjectHashTables data took   5.65ms
+[2020.01.04-16.55.21:282][283]LogInit: XAudio2 using 'Audífono de los auriculares con micrófono (4- CORSAIR VOID RGB Wireless Gaming Headset)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.01.04-16.55.21:598][283]LogInit: FAudioDevice initialized.
+[2020.01.04-16.55.21:606][283]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2020.01.04-16.55.21:613][283]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Pantano.Pantano up for play (max tick rate 60) at 2020.01.04-17.55.21
+[2020.01.04-16.55.21:614][283]LogWorld: Bringing up level for play took: 0.006697
+[2020.01.04-16.55.21:614][283]LogOnline: OSS: Creating online subsystem instance for: :Context_20
+[2020.01.04-16.55.21:618][283]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Pantano -0.028
+[2020.01.04-16.55.21:618][283]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Pantano.Pantano:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Pantano.Pantano:PersistentLevel.Pantano' with GeneratedClass '/Game/Maps/Pantano.Pantano_C' with ClassGeneratedBy '/Game/Maps/Pantano.Pantano:PersistentLevel.Pantano'
+[2020.01.04-16.55.46:885][788]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Pantano.Pantano:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Pantano.Pantano:PersistentLevel.Pantano' with GeneratedClass '/Game/Maps/Pantano.Pantano_C' with ClassGeneratedBy '/Game/Maps/Pantano.Pantano:PersistentLevel.Pantano'
+[2020.01.04-16.55.46:886][788]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.04-16.55.46:886][788]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Pantano
+[2020.01.04-16.55.46:886][788]LogWorld: UWorld::CleanupWorld for Pantano, bSessionEnded=true, bCleanupResources=true
+[2020.01.04-16.55.46:897][788]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.01.04-16.55.46:897][788]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Pantano.Pantano:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Pantano.Pantano:PersistentLevel.Pantano' with GeneratedClass '/Game/Maps/Pantano.Pantano_C' with ClassGeneratedBy '/Game/Maps/Pantano.Pantano:PersistentLevel.Pantano'
+[2020.01.04-16.55.46:935][788]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.04-16.55.46:943][788]LogUObjectHash: Compacting FUObjectHashTables data took   4.29ms
+[2020.01.04-16.55.47:003][790]LogPlayLevel: Display: Destroying online subsystem :Context_20
+[2020.01.04-16.55.48:391][873]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2020.01.04-16.55.49:334][925]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2020.01.04-16.55.49:704][945]LogEditorViewport: Clicking on Actor (LMB): PlayerStart (NetworkPlayerStart)
+[2020.01.04-16.55.55:446][285]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2020.01.04-16.55.58:562][464]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2020.01.04-16.55.59:573][524]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.04-16.55.59:639][528]LogTemp: Repeating last play command: Selected Viewport
+[2020.01.04-16.55.59:655][528]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Pantano.Pantano:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Pantano.Pantano:PersistentLevel.Pantano' with GeneratedClass '/Game/Maps/Pantano.Pantano_C' with ClassGeneratedBy '/Game/Maps/Pantano.Pantano:PersistentLevel.Pantano'
+[2020.01.04-16.55.59:655][528]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.01.04-16.55.59:655][528]PIE: New page: PIE session: Pantano (Jan 4, 2020, 6:55:59 PM)
+[2020.01.04-16.55.59:655][528]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Pantano
+[2020.01.04-16.55.59:678][528]LogPlayLevel: PIE: StaticDuplicateObject took: (0.022682s)
+[2020.01.04-16.55.59:679][528]LogAIModule: Creating AISystem for world Pantano
+[2020.01.04-16.55.59:679][528]LogPlayLevel: PIE: World Init took: (0.001396s)
+[2020.01.04-16.55.59:679][528]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Pantano.Pantano to /Game/Maps/UEDPIE_0_Pantano.Pantano (0.024316s)
+[2020.01.04-16.55.59:714][528]LogUObjectHash: Compacting FUObjectHashTables data took   3.15ms
+[2020.01.04-16.55.59:742][528]LogInit: XAudio2 using 'Audífono de los auriculares con micrófono (4- CORSAIR VOID RGB Wireless Gaming Headset)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.01.04-16.55.59:994][528]LogInit: FAudioDevice initialized.
+[2020.01.04-16.56.00:006][528]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2020.01.04-16.56.00:012][528]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Pantano.Pantano up for play (max tick rate 60) at 2020.01.04-17.56.00
+[2020.01.04-16.56.00:013][528]LogWorld: Bringing up level for play took: 0.006287
+[2020.01.04-16.56.00:013][528]LogOnline: OSS: Creating online subsystem instance for: :Context_21
+[2020.01.04-16.56.00:017][528]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Pantano 0.372
+[2020.01.04-16.56.00:017][528]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Pantano.Pantano:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Pantano.Pantano:PersistentLevel.Pantano' with GeneratedClass '/Game/Maps/Pantano.Pantano_C' with ClassGeneratedBy '/Game/Maps/Pantano.Pantano:PersistentLevel.Pantano'
+[2020.01.04-16.56.03:040][706]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Pantano.Pantano:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Pantano.Pantano:PersistentLevel.Pantano' with GeneratedClass '/Game/Maps/Pantano.Pantano_C' with ClassGeneratedBy '/Game/Maps/Pantano.Pantano:PersistentLevel.Pantano'
+[2020.01.04-16.56.03:040][706]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.04-16.56.03:040][706]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Pantano
+[2020.01.04-16.56.03:041][706]LogWorld: UWorld::CleanupWorld for Pantano, bSessionEnded=true, bCleanupResources=true
+[2020.01.04-16.56.03:055][706]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.01.04-16.56.03:056][706]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Pantano.Pantano:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Pantano.Pantano:PersistentLevel.Pantano' with GeneratedClass '/Game/Maps/Pantano.Pantano_C' with ClassGeneratedBy '/Game/Maps/Pantano.Pantano:PersistentLevel.Pantano'
+[2020.01.04-16.56.03:099][706]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.04-16.56.03:105][706]LogUObjectHash: Compacting FUObjectHashTables data took   3.24ms
+[2020.01.04-16.56.03:161][708]LogPlayLevel: Display: Destroying online subsystem :Context_21
+[2020.01.04-16.56.04:046][759]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2020.01.04-16.56.04:056][759]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Pantano" FILE="C:/Users/victo/OneDrive/Documents/GitHub/The-Last/The Last/GameAlpha/TheLast/Content/Maps/Pantano.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.01.04-16.56.04:091][759]LogUObjectHash: Compacting FUObjectHashTables data took   0.97ms
+[2020.01.04-16.56.04:460][759]LogSavePackage: Moving 'C:/Users/victo/OneDrive/Documents/GitHub/The-Last/The Last/GameAlpha/TheLast/Saved/PantanoB50F549F452D1C393573A4A74C043F1A.tmp' to 'C:/Users/victo/OneDrive/Documents/GitHub/The-Last/The Last/GameAlpha/TheLast/Content/Maps/Pantano.umap'
+[2020.01.04-16.56.04:493][759]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Pantano_BuiltData" FILE="C:/Users/victo/OneDrive/Documents/GitHub/The-Last/The Last/GameAlpha/TheLast/Content/Maps/Pantano_BuiltData.uasset" SILENT=true
+[2020.01.04-16.56.04:725][759]LogSavePackage: Moving 'C:/Users/victo/OneDrive/Documents/GitHub/The-Last/The Last/GameAlpha/TheLast/Saved/Pantano_BuiltData446CC75A4F3C545E4156B2A4E620608C.tmp' to 'C:/Users/victo/OneDrive/Documents/GitHub/The-Last/The Last/GameAlpha/TheLast/Content/Maps/Pantano_BuiltData.uasset'
+[2020.01.04-16.56.49:396][ 34]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2020.01.04-16.57.01:085][699]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/NewAnimations/ProvisionalCharacter.ProvisionalCharacter
+[2020.01.04-16.57.01:891][700]LogSlate: Took 0.001340 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2020.01.04-16.58.15:036][807]BlueprintLog: New page: Compile ProvisionalCharacter
+[2020.01.04-16.58.15:287][807]LogUObjectHash: Compacting FUObjectHashTables data took   4.41ms
+[2020.01.04-16.58.15:965][834]LogSavePackage: Moving 'C:/Users/victo/OneDrive/Documents/GitHub/The-Last/The Last/GameAlpha/TheLast/Saved/ProvisionalCharacter9F10ED814C366072AD7429BADE472F5A.tmp' to 'C:/Users/victo/OneDrive/Documents/GitHub/The-Last/The Last/GameAlpha/TheLast/Content/NewAnimations/ProvisionalCharacter.uasset'
+[2020.01.04-16.58.16:933][882]LogTemp: Repeating last play command: Selected Viewport
+[2020.01.04-16.58.16:954][882]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Pantano.Pantano:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Pantano.Pantano:PersistentLevel.Pantano' with GeneratedClass '/Game/Maps/Pantano.Pantano_C' with ClassGeneratedBy '/Game/Maps/Pantano.Pantano:PersistentLevel.Pantano'
+[2020.01.04-16.58.16:954][882]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.01.04-16.58.16:954][882]PIE: New page: PIE session: Pantano (Jan 4, 2020, 6:58:16 PM)
+[2020.01.04-16.58.16:954][882]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Pantano
+[2020.01.04-16.58.16:982][882]LogPlayLevel: PIE: StaticDuplicateObject took: (0.027045s)
+[2020.01.04-16.58.16:983][882]LogAIModule: Creating AISystem for world Pantano
+[2020.01.04-16.58.16:983][882]LogPlayLevel: PIE: World Init took: (0.001746s)
+[2020.01.04-16.58.16:984][882]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Pantano.Pantano to /Game/Maps/UEDPIE_0_Pantano.Pantano (0.029044s)
+[2020.01.04-16.58.17:023][882]LogUObjectHash: Compacting FUObjectHashTables data took   5.03ms
+[2020.01.04-16.58.17:054][882]LogInit: XAudio2 using 'Audífono de los auriculares con micrófono (4- CORSAIR VOID RGB Wireless Gaming Headset)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.01.04-16.58.17:331][882]LogInit: FAudioDevice initialized.
+[2020.01.04-16.58.17:346][882]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2020.01.04-16.58.17:353][882]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Pantano.Pantano up for play (max tick rate 60) at 2020.01.04-17.58.17
+[2020.01.04-16.58.17:353][882]LogWorld: Bringing up level for play took: 0.006304
+[2020.01.04-16.58.17:353][882]LogOnline: OSS: Creating online subsystem instance for: :Context_23
+[2020.01.04-16.58.17:357][882]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Pantano -0.289
+[2020.01.04-16.58.17:357][882]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Pantano.Pantano:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Pantano.Pantano:PersistentLevel.Pantano' with GeneratedClass '/Game/Maps/Pantano.Pantano_C' with ClassGeneratedBy '/Game/Maps/Pantano.Pantano:PersistentLevel.Pantano'
+[2020.01.04-16.58.18:757][957]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Pantano.Pantano:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Pantano.Pantano:PersistentLevel.Pantano' with GeneratedClass '/Game/Maps/Pantano.Pantano_C' with ClassGeneratedBy '/Game/Maps/Pantano.Pantano:PersistentLevel.Pantano'
+[2020.01.04-16.58.18:757][957]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.04-16.58.18:757][957]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Pantano
+[2020.01.04-16.58.18:758][957]LogWorld: UWorld::CleanupWorld for Pantano, bSessionEnded=true, bCleanupResources=true
+[2020.01.04-16.58.18:770][957]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.01.04-16.58.18:770][957]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Pantano.Pantano:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Pantano.Pantano:PersistentLevel.Pantano' with GeneratedClass '/Game/Maps/Pantano.Pantano_C' with ClassGeneratedBy '/Game/Maps/Pantano.Pantano:PersistentLevel.Pantano'
+[2020.01.04-16.58.18:812][957]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.04-16.58.18:817][957]LogUObjectHash: Compacting FUObjectHashTables data took   3.06ms
+[2020.01.04-16.58.18:865][959]LogPlayLevel: Display: Destroying online subsystem :Context_23
+[2020.01.04-16.58.19:646][  3]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.04-16.58.19:728][  8]LogSlate: Window 'ProvisionalCharacter' being destroyed
+[2020.01.04-16.58.19:734][  8]LogSlate: Window 'ProvisionalCharacter' being destroyed
+[2020.01.04-16.58.19:735][  8]LogWorld: UWorld::CleanupWorld for World_12, bSessionEnded=true, bCleanupResources=true
+[2020.01.04-16.58.20:610][ 56]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube8)
+[2020.01.04-16.58.21:213][ 89]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.04-16.58.21:261][ 92]LogTemp: Repeating last play command: Selected Viewport
+[2020.01.04-16.58.21:274][ 92]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Pantano.Pantano:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Pantano.Pantano:PersistentLevel.Pantano' with GeneratedClass '/Game/Maps/Pantano.Pantano_C' with ClassGeneratedBy '/Game/Maps/Pantano.Pantano:PersistentLevel.Pantano'
+[2020.01.04-16.58.21:275][ 92]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.01.04-16.58.21:275][ 92]PIE: New page: PIE session: Pantano (Jan 4, 2020, 6:58:21 PM)
+[2020.01.04-16.58.21:275][ 92]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Pantano
+[2020.01.04-16.58.21:306][ 92]LogPlayLevel: PIE: StaticDuplicateObject took: (0.030726s)
+[2020.01.04-16.58.21:307][ 92]LogAIModule: Creating AISystem for world Pantano
+[2020.01.04-16.58.21:307][ 92]LogPlayLevel: PIE: World Init took: (0.001509s)
+[2020.01.04-16.58.21:307][ 92]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Pantano.Pantano to /Game/Maps/UEDPIE_0_Pantano.Pantano (0.032506s)
+[2020.01.04-16.58.21:347][ 92]LogUObjectHash: Compacting FUObjectHashTables data took   3.81ms
+[2020.01.04-16.58.21:405][ 92]LogInit: XAudio2 using 'Audífono de los auriculares con micrófono (4- CORSAIR VOID RGB Wireless Gaming Headset)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.01.04-16.58.21:767][ 92]LogInit: FAudioDevice initialized.
+[2020.01.04-16.58.21:774][ 92]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2020.01.04-16.58.21:783][ 92]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Pantano.Pantano up for play (max tick rate 60) at 2020.01.04-17.58.21
+[2020.01.04-16.58.21:783][ 92]LogWorld: Bringing up level for play took: 0.008811
+[2020.01.04-16.58.21:783][ 92]LogOnline: OSS: Creating online subsystem instance for: :Context_24
+[2020.01.04-16.58.21:788][ 92]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Pantano 0.142
+[2020.01.04-16.58.21:788][ 92]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Pantano.Pantano:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Pantano.Pantano:PersistentLevel.Pantano' with GeneratedClass '/Game/Maps/Pantano.Pantano_C' with ClassGeneratedBy '/Game/Maps/Pantano.Pantano:PersistentLevel.Pantano'
+[2020.01.04-16.58.25:506][289]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Pantano.Pantano:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Pantano.Pantano:PersistentLevel.Pantano' with GeneratedClass '/Game/Maps/Pantano.Pantano_C' with ClassGeneratedBy '/Game/Maps/Pantano.Pantano:PersistentLevel.Pantano'
+[2020.01.04-16.58.25:506][289]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.04-16.58.25:506][289]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Pantano
+[2020.01.04-16.58.25:507][289]LogWorld: UWorld::CleanupWorld for Pantano, bSessionEnded=true, bCleanupResources=true
+[2020.01.04-16.58.25:519][289]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.01.04-16.58.25:519][289]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Pantano.Pantano:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Pantano.Pantano:PersistentLevel.Pantano' with GeneratedClass '/Game/Maps/Pantano.Pantano_C' with ClassGeneratedBy '/Game/Maps/Pantano.Pantano:PersistentLevel.Pantano'
+[2020.01.04-16.58.25:571][289]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.04-16.58.25:580][289]LogUObjectHash: Compacting FUObjectHashTables data took   3.92ms
+[2020.01.04-16.58.25:616][290]LogPlayLevel: Display: Destroying online subsystem :Context_24
+[2020.01.04-16.58.27:136][356]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.04-16.58.27:259][363]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/NewAnimations/ProvisionalCharacter.ProvisionalCharacter
+[2020.01.04-16.58.34:824][715]BlueprintLog: New page: Compile ProvisionalCharacter
+[2020.01.04-16.58.35:192][715]LogUObjectHash: Compacting FUObjectHashTables data took   4.29ms
+[2020.01.04-16.58.35:984][747]LogSavePackage: Moving 'C:/Users/victo/OneDrive/Documents/GitHub/The-Last/The Last/GameAlpha/TheLast/Saved/ProvisionalCharacterC99E08584934DBB5BBE5519F0D1D741E.tmp' to 'C:/Users/victo/OneDrive/Documents/GitHub/The-Last/The Last/GameAlpha/TheLast/Content/NewAnimations/ProvisionalCharacter.uasset'
+[2020.01.04-16.58.36:558][777]LogSlate: Window 'ProvisionalCharacter' being destroyed
+[2020.01.04-16.58.36:564][777]LogSlate: Window 'ProvisionalCharacter' being destroyed
+[2020.01.04-16.58.36:565][777]LogWorld: UWorld::CleanupWorld for World_13, bSessionEnded=true, bCleanupResources=true
+[2020.01.04-16.58.37:185][810]LogTemp: Repeating last play command: Selected Viewport
+[2020.01.04-16.58.37:201][810]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Pantano.Pantano:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Pantano.Pantano:PersistentLevel.Pantano' with GeneratedClass '/Game/Maps/Pantano.Pantano_C' with ClassGeneratedBy '/Game/Maps/Pantano.Pantano:PersistentLevel.Pantano'
+[2020.01.04-16.58.37:201][810]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.01.04-16.58.37:201][810]PIE: New page: PIE session: Pantano (Jan 4, 2020, 6:58:37 PM)
+[2020.01.04-16.58.37:202][810]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Pantano
+[2020.01.04-16.58.37:232][810]LogPlayLevel: PIE: StaticDuplicateObject took: (0.030575s)
+[2020.01.04-16.58.37:234][810]LogAIModule: Creating AISystem for world Pantano
+[2020.01.04-16.58.37:234][810]LogPlayLevel: PIE: World Init took: (0.001544s)
+[2020.01.04-16.58.37:234][810]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Pantano.Pantano to /Game/Maps/UEDPIE_0_Pantano.Pantano (0.032389s)
+[2020.01.04-16.58.37:300][810]LogUObjectHash: Compacting FUObjectHashTables data took   4.44ms
+[2020.01.04-16.58.37:327][810]LogInit: XAudio2 using 'Audífono de los auriculares con micrófono (4- CORSAIR VOID RGB Wireless Gaming Headset)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.01.04-16.58.37:587][810]LogInit: FAudioDevice initialized.
+[2020.01.04-16.58.37:597][810]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2020.01.04-16.58.37:602][810]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Pantano.Pantano up for play (max tick rate 60) at 2020.01.04-17.58.37
+[2020.01.04-16.58.37:603][810]LogWorld: Bringing up level for play took: 0.005084
+[2020.01.04-16.58.37:603][810]LogOnline: OSS: Creating online subsystem instance for: :Context_26
+[2020.01.04-16.58.37:606][810]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Pantano -0.039
+[2020.01.04-16.58.37:607][810]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Pantano.Pantano:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Pantano.Pantano:PersistentLevel.Pantano' with GeneratedClass '/Game/Maps/Pantano.Pantano_C' with ClassGeneratedBy '/Game/Maps/Pantano.Pantano:PersistentLevel.Pantano'
+[2020.01.04-16.59.28:010][829]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Pantano.Pantano:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Pantano.Pantano:PersistentLevel.Pantano' with GeneratedClass '/Game/Maps/Pantano.Pantano_C' with ClassGeneratedBy '/Game/Maps/Pantano.Pantano:PersistentLevel.Pantano'
+[2020.01.04-16.59.28:010][829]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.04-16.59.28:011][829]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Pantano
+[2020.01.04-16.59.28:011][829]LogWorld: UWorld::CleanupWorld for Pantano, bSessionEnded=true, bCleanupResources=true
+[2020.01.04-16.59.28:023][829]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.01.04-16.59.28:023][829]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Pantano.Pantano:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Pantano.Pantano:PersistentLevel.Pantano' with GeneratedClass '/Game/Maps/Pantano.Pantano_C' with ClassGeneratedBy '/Game/Maps/Pantano.Pantano:PersistentLevel.Pantano'
+[2020.01.04-16.59.28:063][829]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.04-16.59.28:070][829]LogUObjectHash: Compacting FUObjectHashTables data took   3.16ms
+[2020.01.04-16.59.28:127][831]LogPlayLevel: Display: Destroying online subsystem :Context_26
+[2020.01.04-16.59.32:338][915]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2020.01.04-17.00.01:824][102]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2020.01.04-17.00.06:148][211]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Pantano" FILE="C:/Users/victo/OneDrive/Documents/GitHub/The-Last/The Last/GameAlpha/TheLast/Content/Maps/Pantano.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.01.04-17.00.06:182][211]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2020.01.04-17.00.06:536][211]LogSavePackage: Moving 'C:/Users/victo/OneDrive/Documents/GitHub/The-Last/The Last/GameAlpha/TheLast/Saved/PantanoF0E233374ADFDA35614079A67A85505C.tmp' to 'C:/Users/victo/OneDrive/Documents/GitHub/The-Last/The Last/GameAlpha/TheLast/Content/Maps/Pantano.umap'
+[2020.01.04-17.00.06:572][211]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Pantano_BuiltData" FILE="C:/Users/victo/OneDrive/Documents/GitHub/The-Last/The Last/GameAlpha/TheLast/Content/Maps/Pantano_BuiltData.uasset" SILENT=true
+[2020.01.04-17.00.06:799][211]LogSavePackage: Moving 'C:/Users/victo/OneDrive/Documents/GitHub/The-Last/The Last/GameAlpha/TheLast/Saved/Pantano_BuiltData6BD41BD34AFBB5544C33DF93781138A8.tmp' to 'C:/Users/victo/OneDrive/Documents/GitHub/The-Last/The Last/GameAlpha/TheLast/Content/Maps/Pantano_BuiltData.uasset'
+[2020.01.04-17.00.07:920][271]LogUObjectHash: Compacting FUObjectHashTables data took   4.49ms
+[2020.01.04-17.00.07:999][271]LogSlate: Window 'TheLast - Unreal Editor' being destroyed
+[2020.01.04-17.00.08:159][272]Cmd: QUIT_EDITOR
+[2020.01.04-17.00.08:475][272]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2020.01.04-17.00.08:506][272]LogExit: Preparing to exit.
+[2020.01.04-17.00.08:973][272]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2020.01.04-17.00.08:978][272]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2020.01.04-17.00.08:983][272]LogActorComponent: UnregisterComponent: (/Engine/Transient.None) Not registered. Aborting.
+[2020.01.04-17.00.08:983][272]LogActorComponent: UnregisterComponent: (/Engine/Transient.None) Not registered. Aborting.
+[2020.01.04-17.00.08:983][272]LogActorComponent: UnregisterComponent: (/Engine/Transient.None) Not registered. Aborting.
+[2020.01.04-17.00.08:983][272]LogActorComponent: UnregisterComponent: (/Engine/Transient.None) Not registered. Aborting.
+[2020.01.04-17.00.08:983][272]LogActorComponent: UnregisterComponent: (/Engine/Transient.None) Not registered. Aborting.
+[2020.01.04-17.00.08:983][272]LogActorComponent: UnregisterComponent: (/Engine/Transient.None) Not registered. Aborting.
+[2020.01.04-17.00.08:983][272]LogActorComponent: UnregisterComponent: (/Engine/Transient.None) Not registered. Aborting.
+[2020.01.04-17.00.08:983][272]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2020.01.04-17.00.08:988][272]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2020.01.04-17.00.08:991][272]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2020.01.04-17.00.08:995][272]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2020.01.04-17.00.09:000][272]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2020.01.04-17.00.09:036][272]LogDemo: Cleaned up 0 splitscreen connections with owner deletion
+[2020.01.04-17.00.09:067][272]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2020.01.04-17.00.09:067][272]LogExit: Editor shut down
+[2020.01.04-17.00.09:073][272]LogExit: Transaction tracking system shut down
+[2020.01.04-17.00.09:427][272]LogExit: Object subsystem successfully closed.
+[2020.01.04-17.00.09:449][272]LogShaderCompilers: Display: Shaders left to compile 0
+[2020.01.04-17.00.09:466][272]LogModuleManager: Shutting down and abandoning module HierarchicalLODUtilities (678)
+[2020.01.04-17.00.09:466][272]LogModuleManager: Shutting down and abandoning module BlueprintGraph (676)
+[2020.01.04-17.00.09:466][272]LogModuleManager: Shutting down and abandoning module ExternalImagePicker (674)
+[2020.01.04-17.00.09:466][272]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (672)
+[2020.01.04-17.00.09:466][272]LogModuleManager: Shutting down and abandoning module Voice (670)
+[2020.01.04-17.00.09:571][272]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (668)
+[2020.01.04-17.00.09:571][272]LogModuleManager: Shutting down and abandoning module SceneOutliner (666)
+[2020.01.04-17.00.09:571][272]LogModuleManager: Shutting down and abandoning module AddContentDialog (664)
+[2020.01.04-17.00.09:571][272]LogModuleManager: Shutting down and abandoning module WidgetCarousel (663)
+[2020.01.04-17.00.09:571][272]LogModuleManager: Shutting down and abandoning module EditorWidgets (660)
+[2020.01.04-17.00.09:571][272]LogModuleManager: Shutting down and abandoning module CollectionManager (658)
+[2020.01.04-17.00.09:571][272]LogModuleManager: Shutting down and abandoning module StatsViewer (656)
+[2020.01.04-17.00.09:571][272]LogModuleManager: Shutting down and abandoning module VirtualTexturingEditor (654)
+[2020.01.04-17.00.09:571][272]LogModuleManager: Shutting down and abandoning module FoliageEdit (652)
+[2020.01.04-17.00.09:571][272]LogModuleManager: Shutting down and abandoning module LandscapeEditor (650)
+[2020.01.04-17.00.09:572][272]LogModuleManager: Shutting down and abandoning module MeshPaintMode (648)
+[2020.01.04-17.00.09:572][272]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (646)
+[2020.01.04-17.00.09:572][272]LogModuleManager: Shutting down and abandoning module ActorPickerMode (644)
+[2020.01.04-17.00.09:572][272]LogModuleManager: Shutting down and abandoning module GeometryMode (642)
+[2020.01.04-17.00.09:572][272]LogModuleManager: Shutting down and abandoning module TextureAlignMode (640)
+[2020.01.04-17.00.09:572][272]LogModuleManager: Shutting down and abandoning module BspMode (638)
+[2020.01.04-17.00.09:572][272]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (636)
+[2020.01.04-17.00.09:572][272]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (634)
+[2020.01.04-17.00.09:572][272]LogModuleManager: Shutting down and abandoning module AutomationWorker (632)
+[2020.01.04-17.00.09:572][272]LogModuleManager: Shutting down and abandoning module OculusMR (630)
+[2020.01.04-17.00.09:572][272]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (628)
+[2020.01.04-17.00.09:572][272]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (626)
+[2020.01.04-17.00.09:572][272]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (624)
+[2020.01.04-17.00.09:572][272]LogModuleManager: Shutting down and abandoning module PlacementMode (623)
+[2020.01.04-17.00.09:572][272]LogModuleManager: Shutting down and abandoning module MaterialEditor (622)
+[2020.01.04-17.00.09:572][272]LogModuleManager: Shutting down and abandoning module ActorSequenceEditor (618)
+[2020.01.04-17.00.09:572][272]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (616)
+[2020.01.04-17.00.09:572][272]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (614)
+[2020.01.04-17.00.09:572][272]LogModuleManager: Shutting down and abandoning module WebMMediaFactory (612)
+[2020.01.04-17.00.09:572][272]LogModuleManager: Shutting down and abandoning module WebMMediaEditor (610)
+[2020.01.04-17.00.09:572][272]LogModuleManager: Shutting down and abandoning module WebMMedia (608)
+[2020.01.04-17.00.09:572][272]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (606)
+[2020.01.04-17.00.09:572][272]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (604)
+[2020.01.04-17.00.09:572][272]LogModuleManager: Shutting down and abandoning module SequenceRecorder (603)
+[2020.01.04-17.00.09:572][272]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (600)
+[2020.01.04-17.00.09:572][272]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (598)
+[2020.01.04-17.00.09:572][272]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (596)
+[2020.01.04-17.00.09:572][272]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (594)
+[2020.01.04-17.00.09:572][272]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (592)
+[2020.01.04-17.00.09:572][272]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (590)
+[2020.01.04-17.00.09:572][272]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (588)
+[2020.01.04-17.00.09:572][272]LogModuleManager: Shutting down and abandoning module MagicLeapCameraPreviewFactory (586)
+[2020.01.04-17.00.09:572][272]LogModuleManager: Shutting down and abandoning module MagicLeapMediaCodecFactory (584)
+[2020.01.04-17.00.09:572][272]LogModuleManager: Shutting down and abandoning module MagicLeapMediaFactory (582)
+[2020.01.04-17.00.09:572][272]LogModuleManager: Shutting down and abandoning module MagicLeapMediaEditor (580)
+[2020.01.04-17.00.09:572][272]LogModuleManager: Shutting down and abandoning module CharacterAI (578)
+[2020.01.04-17.00.09:572][272]LogModuleManager: Shutting down and abandoning module SmartSnapping (576)
+[2020.01.04-17.00.09:572][272]LogModuleManager: Shutting down and abandoning module SessionServices (574)
+[2020.01.04-17.00.09:572][272]LogModuleManager: Shutting down and abandoning module MeshPaint (572)
+[2020.01.04-17.00.09:573][272]LogModuleManager: Shutting down and abandoning module ViewportSnapping (570)
+[2020.01.04-17.00.09:573][272]LogModuleManager: Shutting down and abandoning module ViewportInteraction (568)
+[2020.01.04-17.00.09:573][272]LogModuleManager: Shutting down and abandoning module ClothPainter (566)
+[2020.01.04-17.00.09:573][272]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (565)
+[2020.01.04-17.00.09:573][272]LogModuleManager: Shutting down and abandoning module LogVisualizer (562)
+[2020.01.04-17.00.09:573][272]LogModuleManager: Shutting down and abandoning module IntroTutorials (560)
+[2020.01.04-17.00.09:573][272]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (559)
+[2020.01.04-17.00.09:573][272]LogModuleManager: Shutting down and abandoning module LuminPlatformEditor (556)
+[2020.01.04-17.00.09:573][272]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (554)
+[2020.01.04-17.00.09:573][272]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (552)
+[2020.01.04-17.00.09:573][272]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (550)
+[2020.01.04-17.00.09:573][272]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (549)
+[2020.01.04-17.00.10:105][272]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (546)
+[2020.01.04-17.00.10:106][272]LogModuleManager: Shutting down and abandoning module LuminRuntimeSettings (544)
+[2020.01.04-17.00.10:106][272]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (542)
+[2020.01.04-17.00.10:106][272]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (540)
+[2020.01.04-17.00.10:106][272]LogModuleManager: Shutting down and abandoning module TimeManagementEditor (538)
+[2020.01.04-17.00.10:106][272]LogModuleManager: Shutting down and abandoning module InputBindingEditor (536)
+[2020.01.04-17.00.10:106][272]LogModuleManager: Shutting down and abandoning module MergeActors (534)
+[2020.01.04-17.00.10:106][272]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (532)
+[2020.01.04-17.00.10:107][272]LogModuleManager: Shutting down and abandoning module LocalizationService (531)
+[2020.01.04-17.00.10:107][272]LogModuleManager: Shutting down and abandoning module HardwareTargeting (528)
+[2020.01.04-17.00.10:107][272]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (526)
+[2020.01.04-17.00.10:107][272]LogModuleManager: Shutting down and abandoning module UndoHistory (524)
+[2020.01.04-17.00.10:107][272]LogModuleManager: Shutting down and abandoning module XmlParser (522)
+[2020.01.04-17.00.10:107][272]LogModuleManager: Shutting down and abandoning module Blutility (520)
+[2020.01.04-17.00.10:107][272]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (518)
+[2020.01.04-17.00.10:107][272]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (517)
+[2020.01.04-17.00.10:107][272]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (514)
+[2020.01.04-17.00.10:107][272]LogModuleManager: Shutting down and abandoning module SettingsEditor (512)
+[2020.01.04-17.00.10:107][272]LogModuleManager: Shutting down and abandoning module ProjectLauncher (510)
+[2020.01.04-17.00.10:107][272]LogModuleManager: Shutting down and abandoning module SessionFrontend (508)
+[2020.01.04-17.00.10:107][272]LogModuleManager: Shutting down and abandoning module ProfilerClient (506)
+[2020.01.04-17.00.10:108][272]LogModuleManager: Shutting down and abandoning module DeviceManager (504)
+[2020.01.04-17.00.10:108][272]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (503)
+[2020.01.04-17.00.10:163][272]LogModuleManager: Shutting down and abandoning module AutomationController (500)
+[2020.01.04-17.00.10:163][272]LogModuleManager: Shutting down and abandoning module AutomationWindow (498)
+[2020.01.04-17.00.10:163][272]LogModuleManager: Shutting down and abandoning module Layers (496)
+[2020.01.04-17.00.10:163][272]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (494)
+[2020.01.04-17.00.10:163][272]LogModuleManager: Shutting down and abandoning module DetailCustomizations (492)
+[2020.01.04-17.00.10:163][272]LogModuleManager: Shutting down and abandoning module PackagesDialog (490)
+[2020.01.04-17.00.10:163][272]LogModuleManager: Shutting down and abandoning module AnimationBlueprintEditor (488)
+[2020.01.04-17.00.10:163][272]LogModuleManager: Shutting down and abandoning module Persona (486)
+[2020.01.04-17.00.10:163][272]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (485)
+[2020.01.04-17.00.10:164][272]LogModuleManager: Shutting down and abandoning module AnimGraph (483)
+[2020.01.04-17.00.10:164][272]LogModuleManager: Shutting down and abandoning module Kismet (480)
+[2020.01.04-17.00.10:173][272]LogModuleManager: Shutting down and abandoning module KismetWidgets (479)
+[2020.01.04-17.00.10:174][272]LogModuleManager: Shutting down and abandoning module GraphEditor (476)
+[2020.01.04-17.00.10:174][272]LogModuleManager: Shutting down and abandoning module StructViewer (474)
+[2020.01.04-17.00.10:174][272]LogModuleManager: Shutting down and abandoning module ClassViewer (472)
+[2020.01.04-17.00.10:175][272]LogModuleManager: Shutting down and abandoning module Toolbox (470)
+[2020.01.04-17.00.10:175][272]LogModuleManager: Shutting down and abandoning module ModuleUI (468)
+[2020.01.04-17.00.10:175][272]LogModuleManager: Shutting down and abandoning module MovieSceneTools (466)
+[2020.01.04-17.00.10:175][272]LogModuleManager: Shutting down and abandoning module OutputLog (464)
+[2020.01.04-17.00.10:175][272]LogModuleManager: Shutting down and abandoning module GammaUI (462)
+[2020.01.04-17.00.10:175][272]LogModuleManager: Shutting down and abandoning module Documentation (460)
+[2020.01.04-17.00.10:175][272]LogModuleManager: Shutting down and abandoning module LiveCoding (458)
+[2020.01.04-17.00.10:176][272]LogModuleManager: Shutting down and abandoning module LevelSequence (456)
+[2020.01.04-17.00.10:176][272]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (454)
+[2020.01.04-17.00.10:176][272]LogModuleManager: Shutting down and abandoning module MovieScene (452)
+[2020.01.04-17.00.10:176][272]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (450)
+[2020.01.04-17.00.10:176][272]LogModuleManager: Shutting down and abandoning module LauncherPlatform (448)
+[2020.01.04-17.00.10:176][272]LogModuleManager: Shutting down and abandoning module AnalyticsET (446)
+[2020.01.04-17.00.10:176][272]LogModuleManager: Shutting down and abandoning module PortalServices (444)
+[2020.01.04-17.00.10:176][272]LogModuleManager: Shutting down and abandoning module PortalRpc (442)
+[2020.01.04-17.00.10:176][272]LogModuleManager: Shutting down and abandoning module MessagingRpc (440)
+[2020.01.04-17.00.10:176][272]LogModuleManager: Shutting down and abandoning module AIModule (438)
+[2020.01.04-17.00.10:176][272]LogModuleManager: Shutting down and abandoning module GameplayDebugger (437)
+[2020.01.04-17.00.10:176][272]LogModuleManager: Shutting down and abandoning module AITestSuite (435)
+[2020.01.04-17.00.10:176][272]LogModuleManager: Shutting down and abandoning module NavigationSystem (433)
+[2020.01.04-17.00.10:176][272]LogModuleManager: Shutting down and abandoning module DesktopPlatform (430)
+[2020.01.04-17.00.10:176][272]LogModuleManager: Shutting down and abandoning module ImageWriteQueue (428)
+[2020.01.04-17.00.10:186][272]LogModuleManager: Shutting down and abandoning module ProfilerService (426)
+[2020.01.04-17.00.10:382][272]LogModuleManager: Shutting down and abandoning module TaskGraph (424)
+[2020.01.04-17.00.10:382][272]LogModuleManager: Shutting down and abandoning module ScreenshotTools (422)
+[2020.01.04-17.00.10:382][272]LogModuleManager: Shutting down and abandoning module SteamVRController (420)
+[2020.01.04-17.00.10:382][272]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (418)
+[2020.01.04-17.00.10:382][272]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (416)
+[2020.01.04-17.00.10:382][272]LogModuleManager: Shutting down and abandoning module OculusEditor (414)
+[2020.01.04-17.00.10:382][272]LogModuleManager: Shutting down and abandoning module OculusInput (412)
+[2020.01.04-17.00.10:382][272]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (410)
+[2020.01.04-17.00.10:382][272]LogModuleManager: Shutting down and abandoning module EditableMesh (408)
+[2020.01.04-17.00.10:382][272]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (406)
+[2020.01.04-17.00.10:382][272]LogModuleManager: Shutting down and abandoning module CableComponent (404)
+[2020.01.04-17.00.10:382][272]LogModuleManager: Shutting down and abandoning module AudioCapture (402)
+[2020.01.04-17.00.10:382][272]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (400)
+[2020.01.04-17.00.10:382][272]LogModuleManager: Shutting down and abandoning module AppleImageUtilsBlueprintSupport (398)
+[2020.01.04-17.00.10:382][272]LogModuleManager: Shutting down and abandoning module AppleImageUtils (396)
+[2020.01.04-17.00.10:382][272]LogModuleManager: Shutting down and abandoning module AndroidPermission (394)
+[2020.01.04-17.00.10:382][272]LogModuleManager: Shutting down and abandoning module NUTUnrealEngine4 (392)
+[2020.01.04-17.00.10:382][272]LogModuleManager: Shutting down and abandoning module NetcodeUnitTest (390)
+[2020.01.04-17.00.10:382][272]LogModuleManager: Shutting down and abandoning module MediaCompositing (388)
+[2020.01.04-17.00.10:382][272]LogModuleManager: Shutting down and abandoning module ImgMedia (386)
+[2020.01.04-17.00.10:382][272]LogModuleManager: Shutting down and abandoning module MagicLeapHelperVulkan (384)
+[2020.01.04-17.00.10:382][272]LogModuleManager: Shutting down and abandoning module MagicLeapHelperOpenGL (382)
+[2020.01.04-17.00.10:382][272]LogModuleManager: Shutting down and abandoning module MagicLeapAudio (380)
+[2020.01.04-17.00.10:382][272]LogModuleManager: Shutting down and abandoning module HTML5Networking (378)
+[2020.01.04-17.00.10:382][272]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (376)
+[2020.01.04-17.00.10:382][272]LogModuleManager: Shutting down and abandoning module GeometryCacheSequencer (374)
+[2020.01.04-17.00.10:382][272]LogModuleManager: Shutting down and abandoning module BackChannel (372)
+[2020.01.04-17.00.10:382][272]LogModuleManager: Shutting down and abandoning module AutomationUtilsEditor (370)
+[2020.01.04-17.00.10:383][272]LogModuleManager: Shutting down and abandoning module AutomationUtils (368)
+[2020.01.04-17.00.10:383][272]LogModuleManager: Shutting down and abandoning module AlembicImporter (366)
+[2020.01.04-17.00.10:383][272]LogModuleManager: Shutting down and abandoning module AlembicLibrary (365)
+[2020.01.04-17.00.10:383][272]LogModuleManager: Shutting down and abandoning module GeometryCache (364)
+[2020.01.04-17.00.10:383][272]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (363)
+[2020.01.04-17.00.10:383][272]LogModuleManager: Shutting down and abandoning module VariantManagerContent (358)
+[2020.01.04-17.00.10:383][272]LogModuleManager: Shutting down and abandoning module DatasmithContentEditor (356)
+[2020.01.04-17.00.10:383][272]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (354)
+[2020.01.04-17.00.10:383][272]LogModuleManager: Shutting down and abandoning module PluginBrowser (352)
+[2020.01.04-17.00.10:383][272]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (350)
+[2020.01.04-17.00.10:383][272]LogModuleManager: Shutting down and abandoning module MaterialAnalyzer (348)
+[2020.01.04-17.00.10:383][272]LogModuleManager: Shutting down and abandoning module CurveEditorTools (346)
+[2020.01.04-17.00.10:383][272]LogModuleManager: Shutting down and abandoning module CurveEditor (345)
+[2020.01.04-17.00.10:383][272]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (342)
+[2020.01.04-17.00.10:383][272]LogModuleManager: Shutting down and abandoning module CryptoKeys (340)
+[2020.01.04-17.00.10:383][272]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (338)
+[2020.01.04-17.00.10:383][272]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (336)
+[2020.01.04-17.00.10:383][272]LogModuleManager: Shutting down and abandoning module UObjectPlugin (334)
+[2020.01.04-17.00.10:383][272]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (332)
+[2020.01.04-17.00.10:383][272]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (330)
+[2020.01.04-17.00.10:383][272]LogModuleManager: Shutting down and abandoning module GitSourceControl (328)
+[2020.01.04-17.00.10:384][272]LogModuleManager: Shutting down and abandoning module SourceControl (327)
+[2020.01.04-17.00.10:384][272]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (324)
+[2020.01.04-17.00.10:384][272]LogModuleManager: Shutting down and abandoning module AnimationSharingEd (322)
+[2020.01.04-17.00.10:384][272]LogModuleManager: Shutting down and abandoning module ActorLayerUtilitiesEditor (320)
+[2020.01.04-17.00.10:384][272]LogModuleManager: Shutting down and abandoning module ActorLayerUtilities (318)
+[2020.01.04-17.00.10:384][272]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (316)
+[2020.01.04-17.00.10:384][272]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (314)
+[2020.01.04-17.00.10:384][272]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (312)
+[2020.01.04-17.00.10:384][272]LogModuleManager: Shutting down and abandoning module Paper2DEditor (310)
+[2020.01.04-17.00.10:385][272]LogModuleManager: Shutting down and abandoning module SignificanceManager (308)
+[2020.01.04-17.00.10:385][272]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (306)
+[2020.01.04-17.00.10:385][272]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (304)
+[2020.01.04-17.00.10:385][272]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (300)
+[2020.01.04-17.00.10:385][272]LogModuleManager: Shutting down and abandoning module ActorSequence (298)
+[2020.01.04-17.00.10:385][272]LogModuleManager: Shutting down and abandoning module UdpMessaging (296)
+[2020.01.04-17.00.10:485][272]LogModuleManager: Shutting down and abandoning module TcpMessaging (294)
+[2020.01.04-17.00.10:586][272]LogModuleManager: Shutting down and abandoning module MagicLeapIdentity (292)
+[2020.01.04-17.00.10:586][272]LogModuleManager: Shutting down and abandoning module MagicLeapSecureStorage (290)
+[2020.01.04-17.00.10:586][272]LogModuleManager: Shutting down and abandoning module MagicLeapHandTracking (288)
+[2020.01.04-17.00.10:586][272]LogModuleManager: Shutting down and abandoning module MagicLeapEyeTracker (286)
+[2020.01.04-17.00.10:586][272]LogModuleManager: Shutting down and abandoning module MagicLeapController (284)
+[2020.01.04-17.00.10:586][272]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2020.01.04-17.00.10:586][272]LogModuleManager: Shutting down and abandoning module MagicLeapAR (282)
+[2020.01.04-17.00.10:586][272]LogModuleManager: Shutting down and abandoning module AugmentedReality (281)
+[2020.01.04-17.00.10:586][272]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (278)
+[2020.01.04-17.00.10:586][272]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (276)
+[2020.01.04-17.00.10:586][272]LogModuleManager: Shutting down and abandoning module FacialAnimation (274)
+[2020.01.04-17.00.10:586][272]LogModuleManager: Shutting down and abandoning module DataValidation (272)
+[2020.01.04-17.00.10:586][272]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (270)
+[2020.01.04-17.00.10:586][272]LogModuleManager: Shutting down and abandoning module LevelEditor (269)
+[2020.01.04-17.00.10:587][272]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (268)
+[2020.01.04-17.00.10:587][272]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (266)
+[2020.01.04-17.00.10:588][272]LogModuleManager: Shutting down and abandoning module MainFrame (264)
+[2020.01.04-17.00.10:588][272]LogModuleManager: Shutting down and abandoning module HotReload (263)
+[2020.01.04-17.00.10:588][272]LogModuleManager: Shutting down and abandoning module ContentBrowser (259)
+[2020.01.04-17.00.10:589][272]LogModuleManager: Shutting down and abandoning module TreeMap (257)
+[2020.01.04-17.00.10:589][272]LogModuleManager: Shutting down and abandoning module AnimationSharing (254)
+[2020.01.04-17.00.10:589][272]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (252)
+[2020.01.04-17.00.10:589][272]LogModuleManager: Shutting down and abandoning module Paper2D (250)
+[2020.01.04-17.00.10:589][272]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (248)
+[2020.01.04-17.00.10:591][272]LogModuleManager: Shutting down and abandoning module WebMMoviePlayer (246)
+[2020.01.04-17.00.10:591][272]LogModuleManager: Shutting down and abandoning module NetworkReplayStreaming (244)
+[2020.01.04-17.00.10:591][272]LogModuleManager: Shutting down and abandoning module PacketHandler (242)
+[2020.01.04-17.00.10:591][272]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (240)
+[2020.01.04-17.00.10:591][272]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (238)
+[2020.01.04-17.00.10:591][272]LogModuleManager: Shutting down and abandoning module MediaAssets (236)
+[2020.01.04-17.00.10:591][272]LogModuleManager: Shutting down and abandoning module Overlay (234)
+[2020.01.04-17.00.10:591][272]LogModuleManager: Shutting down and abandoning module OverlayEditor (233)
+[2020.01.04-17.00.10:592][272]LogModuleManager: Shutting down and abandoning module VREditor (230)
+[2020.01.04-17.00.10:592][272]LogModuleManager: Shutting down and abandoning module StringTableEditor (228)
+[2020.01.04-17.00.10:592][272]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (226)
+[2020.01.04-17.00.10:592][272]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (224)
+[2020.01.04-17.00.10:592][272]LogModuleManager: Shutting down and abandoning module FunctionalTesting (222)
+[2020.01.04-17.00.10:592][272]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (220)
+[2020.01.04-17.00.10:592][272]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (219)
+[2020.01.04-17.00.10:592][272]LogModuleManager: Shutting down and abandoning module UMG (216)
+[2020.01.04-17.00.10:592][272]LogModuleManager: Shutting down and abandoning module UMGEditor (215)
+[2020.01.04-17.00.10:592][272]LogModuleManager: Shutting down and abandoning module Sequencer (214)
+[2020.01.04-17.00.10:592][272]LogModuleManager: Shutting down and abandoning module MessageLog (211)
+[2020.01.04-17.00.10:592][272]LogModuleManager: Shutting down and abandoning module SlateReflector (206)
+[2020.01.04-17.00.10:592][272]LogModuleManager: Shutting down and abandoning module Slate (204)
+[2020.01.04-17.00.10:592][272]LogModuleManager: Shutting down and abandoning module LandscapeEditorUtilities (202)
+[2020.01.04-17.00.10:592][272]LogModuleManager: Shutting down and abandoning module EditorStyle (200)
+[2020.01.04-17.00.10:593][272]LogModuleManager: Shutting down and abandoning module UnrealEd (198)
+[2020.01.04-17.00.10:593][272]LogModuleManager: Shutting down and abandoning module MRMesh (196)
+[2020.01.04-17.00.10:593][272]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (194)
+[2020.01.04-17.00.10:593][272]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (192)
+[2020.01.04-17.00.10:593][272]LogModuleManager: Shutting down and abandoning module XAudio2 (190)
+[2020.01.04-17.00.10:593][272]LogModuleManager: Shutting down and abandoning module Networking (188)
+[2020.01.04-17.00.10:593][272]LogModuleManager: Shutting down and abandoning module Core (186)
+[2020.01.04-17.00.10:593][272]LogModuleManager: Shutting down and abandoning module KismetCompiler (184)
+[2020.01.04-17.00.10:593][272]LogModuleManager: Shutting down and abandoning module MeshUtilities (182)
+[2020.01.04-17.00.10:593][272]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (181)
+[2020.01.04-17.00.10:593][272]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (180)
+[2020.01.04-17.00.10:593][272]LogModuleManager: Shutting down and abandoning module SkeletalMeshReduction (179)
+[2020.01.04-17.00.10:593][272]LogModuleManager: Shutting down and abandoning module ProxyLODMeshReduction (177)
+[2020.01.04-17.00.10:594][272]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (175)
+[2020.01.04-17.00.10:594][272]LogModuleManager: Shutting down and abandoning module MaterialBaking (171)
+[2020.01.04-17.00.10:594][272]LogModuleManager: Shutting down and abandoning module NullInstallBundleManager (166)
+[2020.01.04-17.00.10:594][272]LogModuleManager: Shutting down and abandoning module DerivedDataCache (164)
+[2020.01.04-17.00.10:603][272]LogDerivedDataCache: Shutdown
+[2020.01.04-17.00.10:603][272]LogModuleManager: Shutting down and abandoning module XGEController (162)
+[2020.01.04-17.00.10:603][272]LogModuleManager: Shutting down and abandoning module TargetPlatform (160)
+[2020.01.04-17.00.10:604][272]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (159)
+[2020.01.04-17.00.10:604][272]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (157)
+[2020.01.04-17.00.10:604][272]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (155)
+[2020.01.04-17.00.10:604][272]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (153)
+[2020.01.04-17.00.10:604][272]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (151)
+[2020.01.04-17.00.10:604][272]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (149)
+[2020.01.04-17.00.10:604][272]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (147)
+[2020.01.04-17.00.10:604][272]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (145)
+[2020.01.04-17.00.10:604][272]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (143)
+[2020.01.04-17.00.10:604][272]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (141)
+[2020.01.04-17.00.10:604][272]LogModuleManager: Shutting down and abandoning module ImageWrapper (140)
+[2020.01.04-17.00.10:604][272]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (137)
+[2020.01.04-17.00.10:604][272]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (135)
+[2020.01.04-17.00.10:604][272]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (133)
+[2020.01.04-17.00.10:604][272]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (131)
+[2020.01.04-17.00.10:604][272]LogModuleManager: Shutting down and abandoning module LuminTargetPlatform (129)
+[2020.01.04-17.00.10:605][272]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (127)
+[2020.01.04-17.00.10:605][272]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (125)
+[2020.01.04-17.00.10:605][272]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (123)
+[2020.01.04-17.00.10:605][272]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (121)
+[2020.01.04-17.00.10:605][272]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (119)
+[2020.01.04-17.00.10:606][272]LogModuleManager: Shutting down and abandoning module Messaging (117)
+[2020.01.04-17.00.10:606][272]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (115)
+[2020.01.04-17.00.10:607][272]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (113)
+[2020.01.04-17.00.10:607][272]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (111)
+[2020.01.04-17.00.10:615][272]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (109)
+[2020.01.04-17.00.10:615][272]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (107)
+[2020.01.04-17.00.10:615][272]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (105)
+[2020.01.04-17.00.10:615][272]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (103)
+[2020.01.04-17.00.10:615][272]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (101)
+[2020.01.04-17.00.10:615][272]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (99)
+[2020.01.04-17.00.10:615][272]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (97)
+[2020.01.04-17.00.10:615][272]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (95)
+[2020.01.04-17.00.10:615][272]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (93)
+[2020.01.04-17.00.10:615][272]LogModuleManager: Shutting down and abandoning module InputCore (90)
+[2020.01.04-17.00.10:615][272]LogModuleManager: Shutting down and abandoning module Settings (88)
+[2020.01.04-17.00.10:615][272]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (86)
+[2020.01.04-17.00.10:616][272]LogModuleManager: Shutting down and abandoning module PhysXCooking (84)
+[2020.01.04-17.00.10:616][272]LogModuleManager: Shutting down and abandoning module WindowsPlatformFeatures (82)
+[2020.01.04-17.00.10:616][272]LogModuleManager: Shutting down and abandoning module GameplayMediaEncoder (81)
+[2020.01.04-17.00.10:616][272]LogModuleManager: Shutting down and abandoning module SteamVR (78)
+[2020.01.04-17.00.10:616][272]LogHMD: Freeing OpenVRDLLHandle.
+[2020.01.04-17.00.10:616][272]LogModuleManager: Shutting down and abandoning module OculusHMD (76)
+[2020.01.04-17.00.10:616][272]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (74)
+[2020.01.04-17.00.10:616][272]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (72)
+[2020.01.04-17.00.10:616][272]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (70)
+[2020.01.04-17.00.10:616][272]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (66)
+[2020.01.04-17.00.10:617][272]LogModuleManager: Shutting down and abandoning module XMPP (61)
+[2020.01.04-17.00.10:617][272]LogModuleManager: Shutting down and abandoning module WebSockets (60)
+[2020.01.04-17.00.10:645][272]LogModuleManager: Shutting down and abandoning module HTTP (57)
+[2020.01.04-17.00.10:646][272]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2020.01.04-17.00.10:646][272]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B22D5A2E7-4BA0-0C00-C7AC-7EA7B91620CC%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.1-9631420%2B%2B%2BUE4%2BRelease-4.23&UserID=45f3b50f4e38139972a88385d93b9e84%7C91c59a34eb29440fb7a3f57cca11bef8%7C9d3d983a-ac2b-4b68-8efc-e790603c5062&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2020.01.04-17.00.10:672][272]LogModuleManager: Shutting down and abandoning module SSL (56)
+[2020.01.04-17.00.10:673][272]LogModuleManager: Shutting down and abandoning module WmfMedia (52)
+[2020.01.04-17.00.10:675][272]LogModuleManager: Shutting down and abandoning module Media (51)
+[2020.01.04-17.00.10:676][272]LogModuleManager: Shutting down and abandoning module MagicLeap (48)
+[2020.01.04-17.00.10:677][272]LogModuleManager: Shutting down and abandoning module DatasmithContent (46)
+[2020.01.04-17.00.10:678][272]LogModuleManager: Shutting down and abandoning module AISupportModule (44)
+[2020.01.04-17.00.10:678][272]LogModuleManager: Shutting down and abandoning module PlatformCryptoOpenSSL (42)
+[2020.01.04-17.00.10:678][272]LogModuleManager: Shutting down and abandoning module PlatformCrypto (40)
+[2020.01.04-17.00.10:678][272]LogModuleManager: Shutting down and abandoning module AnimationModifiers (38)
+[2020.01.04-17.00.10:678][272]LogModuleManager: Shutting down and abandoning module PropertyEditor (37)
+[2020.01.04-17.00.10:678][272]LogModuleManager: Shutting down and abandoning module AudioEditor (34)
+[2020.01.04-17.00.10:678][272]LogModuleManager: Shutting down and abandoning module TextureCompressor (32)
+[2020.01.04-17.00.10:678][272]LogModuleManager: Shutting down and abandoning module RenderCore (30)
+[2020.01.04-17.00.10:679][272]LogModuleManager: Shutting down and abandoning module Landscape (28)
+[2020.01.04-17.00.10:679][272]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (26)
+[2020.01.04-17.00.10:680][272]LogModuleManager: Shutting down and abandoning module OpenGLDrv (24)
+[2020.01.04-17.00.10:681][272]LogModuleManager: Shutting down and abandoning module D3D11RHI (22)
+[2020.01.04-17.00.10:681][272]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (20)
+[2020.01.04-17.00.10:681][272]LogModuleManager: Shutting down and abandoning module Renderer (18)
+[2020.01.04-17.00.10:681][272]LogModuleManager: Shutting down and abandoning module Engine (16)
+[2020.01.04-17.00.10:681][272]LogModuleManager: Shutting down and abandoning module CoreUObject (14)
+[2020.01.04-17.00.10:681][272]LogModuleManager: Shutting down and abandoning module NetworkFile (12)
+[2020.01.04-17.00.10:681][272]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (10)
+[2020.01.04-17.00.10:681][272]LogModuleManager: Shutting down and abandoning module StreamingFile (8)
+[2020.01.04-17.00.10:681][272]LogModuleManager: Shutting down and abandoning module SandboxFile (6)
+[2020.01.04-17.00.10:681][272]LogModuleManager: Shutting down and abandoning module PakFile (4)
+[2020.01.04-17.00.10:681][272]LogModuleManager: Shutting down and abandoning module RSA (3)
+[2020.01.04-17.00.10:683][272]LogD3D11RHI: Shutdown
+[2020.01.04-17.00.10:683][272]LogD3D11RHI: CleanupD3DDevice
+[2020.01.04-17.00.10:684][272]LogRendererCore: FGlobalDynamicReadBuffer::Cleanup()
+[2020.01.04-17.00.10:684][272]LogRendererCore: FGlobalDynamicReadBuffer::Cleanup()
+[2020.01.04-17.00.10:685][272]LogRendererCore: FGlobalDynamicReadBuffer::Cleanup()
+[2020.01.04-17.00.10:812][272]LogD3D11RHI: ~FD3D11DynamicRHI
+[2020.01.04-17.00.10:828][272]LogExit: Exiting.
+[2020.01.04-17.00.10:873][272]Log file closed, 01/04/20 18:00:10
