@@ -1,0 +1,1001 @@
+﻿Log file open, 06/17/20 11:27:11
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: TheLast
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.098101
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +1:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin HoudiniEngine
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin ScreenshotTools
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogHMD: Failed initializing OVRPlugin 1.37.0
+LogInit: Build: ++UE4+Release-4.23-CL-9631420
+LogInit: Engine Version: 4.23.1-9631420+++UE4+Release-4.23
+LogInit: Compatible Engine Version: 4.23.0-8386587+++UE4+Release-4.23
+LogInit: Net CL: 8386587
+LogInit: OS: Windows 10 (Release 1903) (), CPU: Intel(R) Core(TM) i7-7700HQ CPU @ 2.80GHz, GPU: NVIDIA GeForce GTX 1070
+LogInit: Compiled (64-bit): Oct 18 2019 02:07:44
+LogInit: Compiled with Visual C++: 19.16.27030.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.23
+LogInit: Command Line: 
+LogInit: Base Directory: D:/Epic Games/UE_4.23/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 23
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 3
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 34
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 35
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 31
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 11
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 27
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 6
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 9
+LogInit: Presizing for max 16777216 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2020.06.17-09.27.12:429][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2020.06.17-09.27.12:429][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2020.06.17-09.27.12:429][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/victo/OneDrive/Documents/GitHub/The-Last/The Last/GameAlpha/TheLast/Saved/Config/Windows/Engine.ini]
+[2020.06.17-09.27.12:429][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2020.06.17-09.27.12:429][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/victo/OneDrive/Documents/GitHub/The-Last/The Last/GameAlpha/TheLast/Saved/Config/Windows/Engine.ini]
+[2020.06.17-09.27.12:429][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/victo/OneDrive/Documents/GitHub/The-Last/The Last/GameAlpha/TheLast/Saved/Config/Windows/Engine.ini]
+[2020.06.17-09.27.12:430][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2020.06.17-09.27.12:430][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2020.06.17-09.27.12:430][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2020.06.17-09.27.12:430][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2020.06.17-09.27.12:430][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2020.06.17-09.27.12:430][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2020.06.17-09.27.12:430][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2020.06.17-09.27.12:430][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2020.06.17-09.27.12:430][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2020.06.17-09.27.12:430][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2020.06.17-09.27.12:430][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2020.06.17-09.27.12:430][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2020.06.17-09.27.12:430][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2020.06.17-09.27.12:430][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/victo/OneDrive/Documents/GitHub/The-Last/The Last/GameAlpha/TheLast/Saved/Config/Windows/Engine.ini]
+[2020.06.17-09.27.12:430][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2020.06.17-09.27.12:430][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2020.06.17-09.27.12:430][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2020.06.17-09.27.12:430][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2020.06.17-09.27.12:430][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2020.06.17-09.27.12:430][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2020.06.17-09.27.12:430][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:16777216]]
+[2020.06.17-09.27.12:430][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2020.06.17-09.27.12:430][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2020.06.17-09.27.12:430][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2020.06.17-09.27.12:431][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2020.06.17-09.27.12:431][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2020.06.17-09.27.12:431][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2020.06.17-09.27.12:431][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/victo/OneDrive/Documents/GitHub/The-Last/The Last/GameAlpha/TheLast/Saved/Config/Windows/Engine.ini]
+[2020.06.17-09.27.12:431][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/victo/OneDrive/Documents/GitHub/The-Last/The Last/GameAlpha/TheLast/Saved/Config/Windows/Engine.ini]
+[2020.06.17-09.27.12:442][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/victo/OneDrive/Documents/GitHub/The-Last/The Last/GameAlpha/TheLast/Saved/Config/Windows/Scalability.ini]
+[2020.06.17-09.27.12:442][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.06.17-09.27.12:442][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.06.17-09.27.12:442][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/victo/OneDrive/Documents/GitHub/The-Last/The Last/GameAlpha/TheLast/Saved/Config/Windows/Scalability.ini]
+[2020.06.17-09.27.12:442][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.06.17-09.27.12:442][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/victo/OneDrive/Documents/GitHub/The-Last/The Last/GameAlpha/TheLast/Saved/Config/Windows/Scalability.ini]
+[2020.06.17-09.27.12:442][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.06.17-09.27.12:442][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.06.17-09.27.12:442][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.06.17-09.27.12:442][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.06.17-09.27.12:442][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.06.17-09.27.12:442][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.06.17-09.27.12:442][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.06.17-09.27.12:442][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.06.17-09.27.12:442][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.06.17-09.27.12:442][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.06.17-09.27.12:442][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.06.17-09.27.12:442][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.06.17-09.27.12:442][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.06.17-09.27.12:442][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.06.17-09.27.12:442][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.06.17-09.27.12:442][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.06.17-09.27.12:442][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.06.17-09.27.12:442][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.06.17-09.27.12:442][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/victo/OneDrive/Documents/GitHub/The-Last/The Last/GameAlpha/TheLast/Saved/Config/Windows/Scalability.ini]
+[2020.06.17-09.27.12:442][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.06.17-09.27.12:442][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.06.17-09.27.12:443][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.06.17-09.27.12:443][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.06.17-09.27.12:443][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.06.17-09.27.12:443][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.06.17-09.27.12:443][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.06.17-09.27.12:443][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.06.17-09.27.12:443][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.06.17-09.27.12:443][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.06.17-09.27.12:443][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.06.17-09.27.12:443][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.06.17-09.27.12:443][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.06.17-09.27.12:443][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.06.17-09.27.12:443][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.06.17-09.27.12:443][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.06.17-09.27.12:443][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.06.17-09.27.12:443][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.06.17-09.27.12:443][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.06.17-09.27.12:443][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.06.17-09.27.12:443][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.06.17-09.27.12:443][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.06.17-09.27.12:443][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.06.17-09.27.12:443][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.06.17-09.27.12:443][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.06.17-09.27.12:443][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.06.17-09.27.12:443][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.06.17-09.27.12:443][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.06.17-09.27.12:443][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.06.17-09.27.12:443][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.06.17-09.27.12:443][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/victo/OneDrive/Documents/GitHub/The-Last/The Last/GameAlpha/TheLast/Saved/Config/Windows/Scalability.ini]
+[2020.06.17-09.27.12:443][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.06.17-09.27.12:443][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.06.17-09.27.12:443][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.06.17-09.27.12:443][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.06.17-09.27.12:443][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.06.17-09.27.12:443][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.06.17-09.27.12:443][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.06.17-09.27.12:443][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.06.17-09.27.12:443][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/victo/OneDrive/Documents/GitHub/The-Last/The Last/GameAlpha/TheLast/Saved/Config/Windows/Scalability.ini]
+[2020.06.17-09.27.12:443][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.06.17-09.27.12:443][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.06.17-09.27.12:443][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.06.17-09.27.12:443][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.06.17-09.27.12:444][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.06.17-09.27.12:444][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.06.17-09.27.12:444][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.06.17-09.27.12:444][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.06.17-09.27.12:444][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.06.17-09.27.12:444][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.06.17-09.27.12:444][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2020.06.17-09.27.12:444][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.06.17-09.27.12:444][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.06.17-09.27.12:444][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/victo/OneDrive/Documents/GitHub/The-Last/The Last/GameAlpha/TheLast/Saved/Config/Windows/Scalability.ini]
+[2020.06.17-09.27.12:444][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.06.17-09.27.12:444][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.06.17-09.27.12:444][  0]LogInit: Selected Device Profile: [Windows]
+[2020.06.17-09.27.12:444][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2020.06.17-09.27.12:448][  0]LogHAL: Display: Platform has ~ 16 GB [17136562176 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2020.06.17-09.27.12:448][  0]LogInit: Going up to parent DeviceProfile []
+[2020.06.17-09.27.12:448][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/victo/OneDrive/Documents/GitHub/The-Last/The Last/GameAlpha/TheLast/Saved/Config/Windows/Scalability.ini]
+[2020.06.17-09.27.12:448][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.06.17-09.27.12:448][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.06.17-09.27.12:448][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/victo/OneDrive/Documents/GitHub/The-Last/The Last/GameAlpha/TheLast/Saved/Config/Windows/Scalability.ini]
+[2020.06.17-09.27.12:448][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.06.17-09.27.12:448][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/victo/OneDrive/Documents/GitHub/The-Last/The Last/GameAlpha/TheLast/Saved/Config/Windows/Scalability.ini]
+[2020.06.17-09.27.12:448][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.06.17-09.27.12:448][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.06.17-09.27.12:448][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.06.17-09.27.12:448][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.06.17-09.27.12:448][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.06.17-09.27.12:448][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.06.17-09.27.12:448][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.06.17-09.27.12:448][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.06.17-09.27.12:449][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.06.17-09.27.12:449][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.06.17-09.27.12:449][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.06.17-09.27.12:449][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.06.17-09.27.12:449][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.06.17-09.27.12:449][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.06.17-09.27.12:449][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.06.17-09.27.12:449][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.06.17-09.27.12:449][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.06.17-09.27.12:449][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.06.17-09.27.12:449][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/victo/OneDrive/Documents/GitHub/The-Last/The Last/GameAlpha/TheLast/Saved/Config/Windows/Scalability.ini]
+[2020.06.17-09.27.12:449][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.06.17-09.27.12:449][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.06.17-09.27.12:449][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.06.17-09.27.12:449][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.06.17-09.27.12:449][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.06.17-09.27.12:449][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.06.17-09.27.12:449][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.06.17-09.27.12:449][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.06.17-09.27.12:449][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.06.17-09.27.12:449][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.06.17-09.27.12:449][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.06.17-09.27.12:449][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.06.17-09.27.12:449][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.06.17-09.27.12:449][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.06.17-09.27.12:449][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.06.17-09.27.12:449][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.06.17-09.27.12:449][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.06.17-09.27.12:449][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.06.17-09.27.12:449][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.06.17-09.27.12:449][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.06.17-09.27.12:449][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.06.17-09.27.12:449][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.06.17-09.27.12:449][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.06.17-09.27.12:449][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.06.17-09.27.12:449][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.06.17-09.27.12:450][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.06.17-09.27.12:450][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.06.17-09.27.12:450][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.06.17-09.27.12:450][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.06.17-09.27.12:450][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.06.17-09.27.12:450][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/victo/OneDrive/Documents/GitHub/The-Last/The Last/GameAlpha/TheLast/Saved/Config/Windows/Scalability.ini]
+[2020.06.17-09.27.12:450][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.06.17-09.27.12:450][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.06.17-09.27.12:450][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.06.17-09.27.12:450][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.06.17-09.27.12:450][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.06.17-09.27.12:450][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.06.17-09.27.12:450][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.06.17-09.27.12:450][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.06.17-09.27.12:450][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/victo/OneDrive/Documents/GitHub/The-Last/The Last/GameAlpha/TheLast/Saved/Config/Windows/Scalability.ini]
+[2020.06.17-09.27.12:450][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.06.17-09.27.12:450][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.06.17-09.27.12:450][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.06.17-09.27.12:450][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.06.17-09.27.12:450][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.06.17-09.27.12:450][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.06.17-09.27.12:450][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.06.17-09.27.12:450][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.06.17-09.27.12:450][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.06.17-09.27.12:450][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.06.17-09.27.12:450][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2020.06.17-09.27.12:450][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.06.17-09.27.12:450][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.06.17-09.27.12:450][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/victo/OneDrive/Documents/GitHub/The-Last/The Last/GameAlpha/TheLast/Saved/Config/Windows/Scalability.ini]
+[2020.06.17-09.27.12:450][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.06.17-09.27.12:450][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.06.17-09.27.12:450][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2020.06.17-09.27.12:451][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2020.06.17-09.27.12:451][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2020.06.17-09.27.12:451][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/victo/OneDrive/Documents/GitHub/The-Last/The Last/GameAlpha/TheLast/Saved/Config/Windows/Engine.ini]
+[2020.06.17-09.27.12:451][  0]LogInit: Computer: LAPTOP-BOFI2E2T
+[2020.06.17-09.27.12:451][  0]LogInit: User: victo
+[2020.06.17-09.27.12:451][  0]LogInit: CPU Page size=4096, Cores=4
+[2020.06.17-09.27.12:451][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2020.06.17-09.27.12:451][  0]LogMemory: Memory total: Physical=16.0GB (16GB approx)
+[2020.06.17-09.27.12:451][  0]LogMemory: Platform Memory Stats for Windows
+[2020.06.17-09.27.12:451][  0]LogMemory: Process Physical Memory: 106.04 MB used, 106.05 MB peak
+[2020.06.17-09.27.12:451][  0]LogMemory: Process Virtual Memory: 106.04 MB used, 106.04 MB peak
+[2020.06.17-09.27.12:451][  0]LogMemory: Physical Memory: 8137.12 MB used,  8205.58 MB free, 16342.70 MB total
+[2020.06.17-09.27.12:451][  0]LogMemory: Virtual Memory: 4677.98 MB used,  134213048.00 MB free, 134217728.00 MB total
+[2020.06.17-09.27.12:456][  0]LogWindows: WindowsPlatformFeatures enabled
+[2020.06.17-09.27.12:496][  0]LogInit: Overriding language with editor language configuration option (en).
+[2020.06.17-09.27.12:496][  0]LogInit: Overriding locale with editor locale configuration option (en).
+[2020.06.17-09.27.12:697][  0]LogInit: Setting process to per monitor DPI aware
+[2020.06.17-09.27.12:747][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2020.06.17-09.27.12:747][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2020.06.17-09.27.12:996][  0]LogHMD: Failed to initialize OpenVR with code 126
+[2020.06.17-09.27.12:996][  0]LogD3D11RHI: D3D11 adapters:
+[2020.06.17-09.27.13:067][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1070' (Feature Level 11_0)
+[2020.06.17-09.27.13:067][  0]LogD3D11RHI:       8081/0/8171 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2020.06.17-09.27.13:072][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2020.06.17-09.27.13:072][  0]LogD3D11RHI:       0/0/8171 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2020.06.17-09.27.13:072][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2020.06.17-09.27.13:082][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2020.06.17-09.27.13:082][  0]LogD3D11RHI:     GPU DeviceId: 0x1be1 (for the marketing name, search the web for "GPU Device Id")
+[2020.06.17-09.27.13:082][  0]LogWindows: EnumDisplayDevices:
+[2020.06.17-09.27.13:083][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1070' (P:0 D:0)
+[2020.06.17-09.27.13:083][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1070' (P:1 D:1)
+[2020.06.17-09.27.13:083][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1070' (P:0 D:1)
+[2020.06.17-09.27.13:084][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1070' (P:0 D:0)
+[2020.06.17-09.27.13:084][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2020.06.17-09.27.13:084][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1070
+[2020.06.17-09.27.13:084][  0]LogD3D11RHI:   Driver Version: 445.87 (internal:26.21.14.4587, unified:445.87)
+[2020.06.17-09.27.13:084][  0]LogD3D11RHI:      Driver Date: 4-3-2020
+[2020.06.17-09.27.13:084][  0]LogRHI: Texture pool is 5656 MB (70% of 8081 MB)
+[2020.06.17-09.27.13:143][  0]LogD3D11RHI: Async texture creation enabled
+[2020.06.17-09.27.13:175][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2020.06.17-09.27.13:679][  0]LogTemp: Display: Module 'AllDesktopTargetPlatform' loaded TargetPlatform 'AllDesktop'
+[2020.06.17-09.27.13:688][  0]LogTemp: Display: Module 'MacClientTargetPlatform' loaded TargetPlatform 'MacClient'
+[2020.06.17-09.27.13:698][  0]LogTemp: Display: Module 'MacNoEditorTargetPlatform' loaded TargetPlatform 'MacNoEditor'
+[2020.06.17-09.27.13:708][  0]LogTemp: Display: Module 'MacServerTargetPlatform' loaded TargetPlatform 'MacServer'
+[2020.06.17-09.27.13:725][  0]LogTemp: Display: Module 'MacTargetPlatform' loaded TargetPlatform 'Mac'
+[2020.06.17-09.27.13:736][  0]LogTemp: Display: Module 'WindowsClientTargetPlatform' loaded TargetPlatform 'WindowsClient'
+[2020.06.17-09.27.13:746][  0]LogTemp: Display: Module 'WindowsNoEditorTargetPlatform' loaded TargetPlatform 'WindowsNoEditor'
+[2020.06.17-09.27.13:756][  0]LogTemp: Display: Module 'WindowsServerTargetPlatform' loaded TargetPlatform 'WindowsServer'
+[2020.06.17-09.27.13:762][  0]LogTemp: Display: Module 'WindowsTargetPlatform' loaded TargetPlatform 'Windows'
+[2020.06.17-09.27.13:803][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android'
+[2020.06.17-09.27.13:803][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTC'
+[2020.06.17-09.27.13:803][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATC'
+[2020.06.17-09.27.13:803][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXT'
+[2020.06.17-09.27.13:804][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1'
+[2020.06.17-09.27.13:804][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1a'
+[2020.06.17-09.27.13:804][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2'
+[2020.06.17-09.27.13:804][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTC'
+[2020.06.17-09.27.13:804][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'AndroidClient'
+[2020.06.17-09.27.13:804][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTCClient'
+[2020.06.17-09.27.13:804][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATCClient'
+[2020.06.17-09.27.13:804][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXTClient'
+[2020.06.17-09.27.13:804][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1Client'
+[2020.06.17-09.27.13:804][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1aClient'
+[2020.06.17-09.27.13:804][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2Client'
+[2020.06.17-09.27.13:804][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTCClient'
+[2020.06.17-09.27.13:804][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_Multi'
+[2020.06.17-09.27.13:804][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_MultiClient'
+[2020.06.17-09.27.13:806][  0]LogTemp: Display: Module 'HTML5TargetPlatform' loaded TargetPlatform 'HTML5'
+[2020.06.17-09.27.13:828][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOSClient'
+[2020.06.17-09.27.13:828][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOS'
+[2020.06.17-09.27.13:847][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOSClient'
+[2020.06.17-09.27.13:847][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOS'
+[2020.06.17-09.27.13:857][  0]LogTemp: Display: Module 'LinuxClientTargetPlatform' loaded TargetPlatform 'LinuxClient'
+[2020.06.17-09.27.13:868][  0]LogTemp: Display: Module 'LinuxNoEditorTargetPlatform' loaded TargetPlatform 'LinuxNoEditor'
+[2020.06.17-09.27.13:882][  0]LogTemp: Display: Module 'LinuxServerTargetPlatform' loaded TargetPlatform 'LinuxServer'
+[2020.06.17-09.27.13:892][  0]LogTemp: Display: Module 'LinuxTargetPlatform' loaded TargetPlatform 'Linux'
+[2020.06.17-09.27.13:932][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'Lumin'
+[2020.06.17-09.27.13:932][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'LuminClient'
+[2020.06.17-09.27.13:932][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2020.06.17-09.27.13:946][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2020.06.17-09.27.14:024][  0]LogShaderCompilers: Guid format shader working directory is -31 characters bigger than the processId version (C:/Users/victo/OneDrive/Documents/GitHub/The-Last/The Last/GameAlpha/TheLast/Intermediate/Shaders/WorkingDirectory/15724/).
+[2020.06.17-09.27.14:024][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/victo/AppData/Local/Temp/UnrealShaderWorkingDir/46BE74CF4E3ECA3ED73546A94A882946/'.
+[2020.06.17-09.27.14:028][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2020.06.17-09.27.14:028][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2020.06.17-09.27.14:028][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2020.06.17-09.27.14:947][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2020.06.17-09.27.15:004][  0]LogDerivedDataCache: Loaded boot cache 0.06s 77MB C:/Users/victo/AppData/Local/UnrealEngine/4.23/DerivedDataCache/Boot.ddc.
+[2020.06.17-09.27.15:004][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/victo/AppData/Local/UnrealEngine/4.23/DerivedDataCache/Boot.ddc
+[2020.06.17-09.27.15:005][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file C:/Users/victo/OneDrive/Documents/GitHub/The-Last/The Last/GameAlpha/TheLast/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2020.06.17-09.27.15:005][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2020.06.17-09.27.15:005][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file C:/Users/victo/OneDrive/Documents/GitHub/The-Last/The Last/GameAlpha/TheLast/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.06.17-09.27.15:005][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2020.06.17-09.27.15:018][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2020.06.17-09.27.15:018][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.06.17-09.27.15:018][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2020.06.17-09.27.15:019][  0]LogDerivedDataCache: Using Local data cache path C:/Users/victo/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2020.06.17-09.27.15:019][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2020.06.17-09.27.15:019][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2020.06.17-09.27.15:043][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2020.06.17-09.27.15:047][  0]LogSlate: Using FreeType 2.6.0
+[2020.06.17-09.27.15:048][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2020.06.17-09.27.15:118][  0]LogAssetRegistry: FAssetRegistry took 0.0026 seconds to start up
+[2020.06.17-09.27.15:438][  0]LogInit: Selected Device Profile: [Windows]
+[2020.06.17-09.27.15:608][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2020.06.17-09.27.15:608][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2020.06.17-09.27.15:608][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2020.06.17-09.27.15:608][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2020.06.17-09.27.15:608][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2020.06.17-09.27.15:619][  0]LogNetVersion: TheLast 1.0.0, NetCL: 8386587, EngineNetVer: 11, GameNetVer: 0 (Checksum: 2690468633)
+[2020.06.17-09.27.16:128][  0]LogPackageLocalizationCache: Processed 13 localized package path(s) for 1 prioritized culture(s) in 0.065479 seconds
+[2020.06.17-09.27.16:142][  0]LogUObjectArray: 43444 objects as part of root set at end of initial load.
+[2020.06.17-09.27.16:142][  0]LogUObjectAllocator: 7548648 out of 0 bytes used by permanent object pool.
+[2020.06.17-09.27.16:142][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2020.06.17-09.27.17:343][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2020.06.17-09.27.17:346][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2020.06.17-09.27.17:411][  0]SourceControl: Source control is disabled
+[2020.06.17-09.27.17:411][  0]SourceControl: Source control is disabled
+[2020.06.17-09.27.17:413][  0]SourceControl: Source control is disabled
+[2020.06.17-09.27.17:414][  0]SourceControl: Source control is disabled
+[2020.06.17-09.27.17:531][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2020.06.17-09.27.17:924][  0]LogHoudiniEngine: Starting the Houdini Engine module.
+[2020.06.17-09.27.17:925][  0]LogHoudiniEngine: Loaded libHAPIL.dll from Registry path C:/Program Files/Side Effects Software/Houdini 18.0.416/bin
+[2020.06.17-09.27.17:926][  0]LogLinker: Warning: Asset '../../Plugins/Runtime/HoudiniEngine/Content/houdini_logo.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2020.06.17-09.27.17:928][  0]LogLinker: Warning: Asset '../../Plugins/Runtime/HoudiniEngine/Content/houdini_default_material.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2020.06.17-09.27.17:935][  0]LogLinker: Warning: Asset '../../Plugins/Runtime/HoudiniEngine/Content/houdini_bgeo_import.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2020.06.17-09.27.17:942][  0]LogOcInput: OculusInput pre-init called
+[2020.06.17-09.27.18:836][  0]LogEngine: Initializing Engine...
+[2020.06.17-09.27.18:912][  0]LogHMD: Failed to initialize OpenVR with code 108
+[2020.06.17-09.27.18:913][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2020.06.17-09.27.19:217][  0]LogInit: Initializing FReadOnlyCVARCache
+[2020.06.17-09.27.19:235][  0]LogAIModule: Creating AISystem for world Untitled
+[2020.06.17-09.27.19:329][  0]LogInit: XAudio2 using 'Audífono de los auriculares con micrófono (4- CORSAIR VOID RGB Wireless Gaming Headset)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.06.17-09.27.19:634][  0]LogInit: FAudioDevice initialized.
+[2020.06.17-09.27.19:635][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2020.06.17-09.27.19:689][  0]LogDerivedDataCache: Saved boot cache 0.05s 77MB C:/Users/victo/AppData/Local/UnrealEngine/4.23/DerivedDataCache/Boot.ddc.
+[2020.06.17-09.27.19:690][  0]LogInit: Texture streaming: Enabled
+[2020.06.17-09.27.19:714][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2020.06.17-09.27.19:715][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2020.06.17-09.27.19:720][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2020.06.17-09.27.19:783][  0]LogInit: Transaction tracking system initialized
+[2020.06.17-09.27.19:826][  0]BlueprintLog: New page: Editor Load
+[2020.06.17-09.27.19:920][  0]LocalizationService: Localization service is disabled
+[2020.06.17-09.27.20:231][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2020.06.17-09.27.20:231][  0]LogCook: Display: Mobile HDR setting 1
+[2020.06.17-09.27.20:356][  0]LogFileCache: Scanning file cache for directory 'C:/Users/victo/OneDrive/Documents/GitHub/The-Last/The Last/GameAlpha/TheLast/Content/' took 0.02s
+[2020.06.17-09.27.20:356][  0]LogHoudiniEngineEditor: Starting the Houdini Engine Editor module.
+[2020.06.17-09.27.20:358][  0]LogHoudiniEngineEditor: Houdini Engine Editor module startup complete.
+[2020.06.17-09.27.20:485][  0]SourceControl: Source control is disabled
+[2020.06.17-09.27.20:486][  0]Cmd: MAP LOAD FILE="C:/Users/victo/OneDrive/Documents/GitHub/The-Last/The Last/GameAlpha/TheLast/Content/Maps/Pantano.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.06.17-09.27.20:486][  0]LightingResults: New page: Lighting Build
+[2020.06.17-09.27.20:489][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2020.06.17-09.27.20:490][  0]MapCheck: New page: Map Check
+[2020.06.17-09.27.20:490][  0]LightingResults: New page: Lighting Build
+[2020.06.17-09.27.20:516][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.95ms
+[2020.06.17-09.27.21:685][  0]LogAIModule: Creating AISystem for world Pantano
+[2020.06.17-09.27.21:768][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.06.17-09.27.21:818][  0]LogUObjectHash: Compacting FUObjectHashTables data took   2.63ms
+[2020.06.17-09.27.21:818][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.06.17-09.27.21:818][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.196ms to complete.
+[2020.06.17-09.27.21:818][  0]LogFileHelpers: Loading map 'Pantano' took 1.332
+[2020.06.17-09.27.21:944][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.06.17-09.27.21:952][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.06.17-09.27.21:960][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.06.17-09.27.21:968][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.06.17-09.27.21:976][  0]LogCollectionManager: Loaded 0 collections in 0.001996 seconds
+[2020.06.17-09.27.21:983][  0]LogFileCache: Scanning file cache for directory 'C:/Users/victo/OneDrive/Documents/GitHub/The-Last/The Last/GameAlpha/TheLast/Saved/Collections/' took 0.00s
+[2020.06.17-09.27.21:983][  0]LogFileCache: Scanning file cache for directory 'C:/Users/victo/OneDrive/Documents/GitHub/The-Last/The Last/GameAlpha/TheLast/Content/Developers/victo/Collections/' took 0.00s
+[2020.06.17-09.27.21:983][  0]LogFileCache: Scanning file cache for directory 'C:/Users/victo/OneDrive/Documents/GitHub/The-Last/The Last/GameAlpha/TheLast/Content/Collections/' took 0.00s
+[2020.06.17-09.27.21:983][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000002 seconds
+[2020.06.17-09.27.21:997][  0]LogContentBrowser: Native class hierarchy populated in 0.0137 seconds. Added 2900 classes and 687 folders.
+[2020.06.17-09.27.22:006][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0026 seconds. Added 0 classes and 0 folders.
+[2020.06.17-09.27.22:075][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0026 seconds. Added 0 classes and 0 folders.
+[2020.06.17-09.27.22:084][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0029 seconds. Added 1 classes and 2 folders.
+[2020.06.17-09.27.22:103][  0]LogSlate: Took 0.000156 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2020.06.17-09.27.22:106][  0]LogSlate: Took 0.000261 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2020.06.17-09.27.22:113][  0]LogSlate: Took 0.000270 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2020.06.17-09.27.22:195][  0]LogRenderer: Reallocating scene render targets to support 512x512 Format 10 NumSamples 1 (Frame:1).
+[2020.06.17-09.27.22:221][  0]LogRenderer: Reallocating scene render targets to support 1188x668 Format 10 NumSamples 1 (Frame:1).
+[2020.06.17-09.27.22:322][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0024 seconds. Added 0 classes and 0 folders.
+[2020.06.17-09.27.22:322][  0]LogLoad: (Engine Initialization) Total time: 12.42 seconds
+[2020.06.17-09.27.22:322][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2020.06.17-09.27.22:392][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2020.06.17-09.27.22:405][  0]LogSlate: Took 0.000230 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.06.17-09.27.22:441][  1]LogAssetRegistry: Asset discovery search completed in 7.3237 seconds
+[2020.06.17-09.27.22:447][  1]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000006 seconds (found 0 objects)
+[2020.06.17-09.27.22:447][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000115 seconds (updated 0 objects)
+[2020.06.17-09.27.27:788][ 18]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.06.17-09.27.31:669][210]LogSlate: Took 0.000200 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.06.17-09.27.31:684][210]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/ProvisionalCharacter/ProvisionalCharacter.ProvisionalCharacter
+[2020.06.17-09.27.32:008][210]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0027 seconds. Added 121 classes and 0 folders.
+[2020.06.17-09.27.33:144][210]LogSlate: Took 0.000422 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2020.06.17-09.27.33:369][211]LogSlate: Took 0.000244 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2020.06.17-09.27.34:547][276]BlueprintLog: New page: Compile ProvisionalCharacter
+[2020.06.17-09.27.34:882][276]LogUObjectHash: Compacting FUObjectHashTables data took   3.78ms
+[2020.06.17-09.31.23:157][816]LogEditorSessionSummary: EditorSessionSummary sent report. Type=Shutdown, SessionId={C9D79C3B-4B48-3BED-72FE-FC981FFE8D74}
+[2020.06.17-09.35.23:981][563]LogEditorSessionSummary: EditorSessionSummary sent report. Type=Shutdown, SessionId={8212074B-4F29-D693-D9C5-1290492A58BD}
+[2020.06.17-09.36.31:271][317]LogSlate: Window 'ProvisionalCharacter' being destroyed
+[2020.06.17-09.36.31:280][317]LogSlate: Window 'ProvisionalCharacter' being destroyed
+[2020.06.17-09.36.31:301][317]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2020.06.17-09.36.37:738][695]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.06.17-09.36.46:061][123]LogSlate: Window 'Add C++ Class' being destroyed
+[2020.06.17-09.37.03:385][680]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\victo\Downloads\WOlf-20200616T141136Z-001\WOlf\ANIMWOLF_ATTACK.fbx)
+[2020.06.17-09.37.03:587][680]LogFbx: Loading FBX Scene from C:\Users\victo\Downloads\WOlf-20200616T141136Z-001\WOlf\ANIMWOLF_ATTACK.fbx
+[2020.06.17-09.37.03:643][680]LogFbx: FBX Scene Loaded Succesfully
+[2020.06.17-09.37.07:157][680]LogSlate: Window 'FBX Import Options' being destroyed
+[2020.06.17-09.37.07:226][680]LogFactory: FactoryCreateFile: SkeletalMesh with FbxFactory (0 0 C:\Users\victo\Downloads\WOlf-20200616T141136Z-001\WOlf\ANIMWOLF_DEATH.fbx)
+[2020.06.17-09.37.07:233][680]LogFactory: FactoryCreateFile: SkeletalMesh with FbxFactory (0 0 C:\Users\victo\Downloads\WOlf-20200616T141136Z-001\WOlf\ANIMWOLF_RUNNING.fbx)
+[2020.06.17-09.37.09:602][726]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\victo\Downloads\WOlf-20200616T141136Z-001\WOlf\ANIMWOLF_ATTACK.fbx)
+[2020.06.17-09.37.09:618][726]LogFbx: Loading FBX Scene from C:\Users\victo\Downloads\WOlf-20200616T141136Z-001\WOlf\ANIMWOLF_ATTACK.fbx
+[2020.06.17-09.37.09:658][726]LogFbx: FBX Scene Loaded Succesfully
+[2020.06.17-09.37.11:572][726]LogSlate: Window 'FBX Import Options' being destroyed
+[2020.06.17-09.37.11:625][726]LogFbx: Valid bind pose for Pose (skinCluster1) - ZBrush_defualt_group
+[2020.06.17-09.37.11:634][726]FBXImport: Error: Error, Could not import ZBrush_defualt_group.
+Duplicate bone name found ('Rodilla_pierna_izq'). Each bone must have a unique name. 
+[2020.06.17-09.37.11:634][726]FBXImport: Warning: Get Import Data has failed. 
+[2020.06.17-09.37.11:634][726]FBXImport: Error: Import failed. 
+[2020.06.17-09.37.12:491][726]LogSlate: Window 'Message' being destroyed
+[2020.06.17-09.37.12:498][726]LogAssetTools: Warning: Failed to import 'C:\Users\victo\Downloads\WOlf-20200616T141136Z-001\WOlf\ANIMWOLF_ATTACK.fbx'. Failed to create asset '/Game/Enemys/NuevosLobos/ANIMWOLF_ATTACK'.
+Please see Output Log for details.
+[2020.06.17-09.37.18:053][ 56]LogSlate: Window 'Message Log' being destroyed
+[2020.06.17-09.37.18:061][ 56]LogSlate: Window 'Message Log' being destroyed
+[2020.06.17-09.37.20:870][147]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\victo\Downloads\WOlf-20200616T141136Z-001\WOlf\ANIMWOLF_RUNNING.fbx)
+[2020.06.17-09.37.20:888][147]LogFbx: Loading FBX Scene from C:\Users\victo\Downloads\WOlf-20200616T141136Z-001\WOlf\ANIMWOLF_RUNNING.fbx
+[2020.06.17-09.37.20:937][147]LogFbx: FBX Scene Loaded Succesfully
+[2020.06.17-09.37.22:171][147]LogSlate: Window 'FBX Import Options' being destroyed
+[2020.06.17-09.37.22:215][147]LogFbx: Valid bind pose for Pose (skinCluster1) - ZBrush_defualt_group
+[2020.06.17-09.37.22:227][147]FBXImport: Error: Error, Could not import ZBrush_defualt_group.
+Duplicate bone name found ('Rodilla_pierna_izq'). Each bone must have a unique name. 
+[2020.06.17-09.37.22:227][147]FBXImport: Warning: Get Import Data has failed. 
+[2020.06.17-09.37.22:227][147]FBXImport: Error: Import failed. 
+[2020.06.17-09.37.27:861][147]LogSlate: Window 'Message' being destroyed
+[2020.06.17-09.37.27:869][147]LogAssetTools: Warning: Failed to import 'C:\Users\victo\Downloads\WOlf-20200616T141136Z-001\WOlf\ANIMWOLF_RUNNING.fbx'. Failed to create asset '/Game/Enemys/NuevosLobos/ANIMWOLF_RUNNING'.
+Please see Output Log for details.
+[2020.06.17-09.37.27:895][148]LogEditorSessionSummary: EditorSessionSummary sent report. Type=Shutdown, SessionId={5C89AA0D-478C-118E-BB67-B7BDF7F3CD21}
+[2020.06.17-09.37.29:751][259]LogWindows: LaunchURL http://docs.unrealengine.com/latest/INT/Shared/Editor/FbxErrors/index.html?utm_source=editor&utm_medium=docs&utm_campaign=msg_log
+[2020.06.17-09.37.43:850][774]LogSlate: Window 'Message Log' being destroyed
+[2020.06.17-09.37.43:856][774]LogSlate: Window 'Message Log' being destroyed
+[2020.06.17-09.38.10:000][947]LogUObjectHash: Compacting FUObjectHashTables data took   5.38ms
+[2020.06.17-09.38.10:904][947]LogSavePackage: Moving 'C:/Users/victo/OneDrive/Documents/GitHub/The-Last/The Last/GameAlpha/TheLast/Saved/Pantano_Auto1B1F75D3F4D5FA77D6E2ED8A7C588470E.tmp' to 'C:/Users/victo/OneDrive/Documents/GitHub/The-Last/The Last/GameAlpha/TheLast/Saved/Autosaves/Game/Maps/Pantano_Auto1.umap'
+[2020.06.17-09.38.10:911][947]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Pantano' took 0.952
+[2020.06.17-09.38.10:911][947]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.952
+[2020.06.17-09.38.10:916][947]LogSavePackage: Moving 'C:/Users/victo/OneDrive/Documents/GitHub/The-Last/The Last/GameAlpha/TheLast/Saved/ANIMWOLF_ATTACK_Auto1C32FAF0A4C524D30287E4C814B51C32F.tmp' to 'C:/Users/victo/OneDrive/Documents/GitHub/The-Last/The Last/GameAlpha/TheLast/Saved/Autosaves/Game/Enemys/NuevosLobos/ANIMWOLF_ATTACK_Auto1.uasset'
+[2020.06.17-09.38.10:920][947]LogSavePackage: Moving 'C:/Users/victo/OneDrive/Documents/GitHub/The-Last/The Last/GameAlpha/TheLast/Saved/ANIMWOLF_RUNNING_Auto1B8BBDBAF4393018F9580A69C9832412C.tmp' to 'C:/Users/victo/OneDrive/Documents/GitHub/The-Last/The Last/GameAlpha/TheLast/Saved/Autosaves/Game/Enemys/NuevosLobos/ANIMWOLF_RUNNING_Auto1.uasset'
+[2020.06.17-09.38.10:925][947]LogFileHelpers: Auto-saving content packages took 0.012
+[2020.06.17-09.43.28:600][ 69]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\victo\Downloads\WOlf-20200616T141136Z-001\WOlf\ANIMWOLF_RUNNING.fbx)
+[2020.06.17-09.43.28:614][ 69]LogFbx: Loading FBX Scene from C:\Users\victo\Downloads\WOlf-20200616T141136Z-001\WOlf\ANIMWOLF_RUNNING.fbx
+[2020.06.17-09.43.28:656][ 69]LogFbx: FBX Scene Loaded Succesfully
+[2020.06.17-09.43.30:139][ 69]LogSlate: Window 'FBX Import Options' being destroyed
+[2020.06.17-09.43.30:184][ 69]LogFbx: Valid bind pose for Pose (skinCluster1) - ZBrush_defualt_group
+[2020.06.17-09.43.30:196][ 69]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2020.06.17-09.43.30:196][ 69]FBXImport: Error: Error, Could not import ZBrush_defualt_group.
+Duplicate bone name found ('muñeca_perina_izq'). Each bone must have a unique name. 
+[2020.06.17-09.43.30:196][ 69]FBXImport: Warning: Get Import Data has failed. 
+[2020.06.17-09.43.30:196][ 69]FBXImport: Error: Import failed. 
+[2020.06.17-09.43.31:526][ 69]LogSlate: Window 'Message' being destroyed
+[2020.06.17-09.43.31:533][ 69]LogAssetTools: Warning: Failed to import 'C:\Users\victo\Downloads\WOlf-20200616T141136Z-001\WOlf\ANIMWOLF_RUNNING.fbx'. Failed to create asset '/Game/Enemys/NuevosLobos/ANIMWOLF_RUNNING'.
+Please see Output Log for details.
+[2020.06.17-09.43.42:127][704]LogSlate: Window 'Message Log' being destroyed
+[2020.06.17-09.43.42:136][704]LogSlate: Window 'Message Log' being destroyed
+[2020.06.17-09.46.11:202][547]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\victo\Downloads\WOlf-20200616T141136Z-001\WOlf\ANIMWOLF_RUNNING.fbx)
+[2020.06.17-09.46.11:220][547]LogFbx: Loading FBX Scene from C:\Users\victo\Downloads\WOlf-20200616T141136Z-001\WOlf\ANIMWOLF_RUNNING.fbx
+[2020.06.17-09.46.11:267][547]LogFbx: FBX Scene Loaded Succesfully
+[2020.06.17-09.46.12:419][547]LogSlate: Window 'FBX Import Options' being destroyed
+[2020.06.17-09.46.12:463][547]LogFbx: Valid bind pose for Pose (skinCluster1) - ZBrush_defualt_group
+[2020.06.17-09.46.12:474][547]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2020.06.17-09.46.12:474][547]FBXImport: Error: Error, Could not import ZBrush_defualt_group.
+Duplicate bone name found ('muñeca_perina_izq'). Each bone must have a unique name. 
+[2020.06.17-09.46.12:474][547]FBXImport: Warning: Get Import Data has failed. 
+[2020.06.17-09.46.12:474][547]FBXImport: Error: Import failed. 
+[2020.06.17-09.46.14:139][547]LogSlate: Window 'Message' being destroyed
+[2020.06.17-09.46.14:146][547]LogAssetTools: Warning: Failed to import 'C:\Users\victo\Downloads\WOlf-20200616T141136Z-001\WOlf\ANIMWOLF_RUNNING.fbx'. Failed to create asset '/Game/Enemys/NuevosLobos/ANIMWOLF_RUNNING'.
+Please see Output Log for details.
+[2020.06.17-09.46.26:739][226]LogSlate: Window 'Message Log' being destroyed
+[2020.06.17-09.46.26:746][226]LogSlate: Window 'Message Log' being destroyed
+[2020.06.17-09.47.43:288][882]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\victo\Downloads\WOlf-20200616T141136Z-001\WOlf\ANIMWOLF_RUNNING.fbx)
+[2020.06.17-09.47.43:304][882]LogFbx: Loading FBX Scene from C:\Users\victo\Downloads\WOlf-20200616T141136Z-001\WOlf\ANIMWOLF_RUNNING.fbx
+[2020.06.17-09.47.43:346][882]LogFbx: FBX Scene Loaded Succesfully
+[2020.06.17-09.47.44:548][882]LogSlate: Window 'FBX Import Options' being destroyed
+[2020.06.17-09.47.44:587][882]LogFbx: Valid bind pose for Pose (skinCluster1) - ZBrush_defualt_group
+[2020.06.17-09.47.44:816][882]LogMaterial: Display: Material /Game/Enemys/NuevosLobos/lambert2.lambert2 needed to have new flag set bUsedWithSkeletalMesh !
+[2020.06.17-09.47.44:820][882]LogMaterial: Display: Missing cached shader map for material lambert2, compiling. 
+[2020.06.17-09.47.44:935][882]LogMaterial: Display: Missing cached shader map for material lambert2, compiling. 
+[2020.06.17-09.47.44:978][882]LogFbx: Triangulating skeletal mesh ZBrush_defualt_group
+[2020.06.17-09.47.45:535][882]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 60
+[2020.06.17-09.47.45:535][882]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 50
+[2020.06.17-09.47.45:536][882]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 40
+[2020.06.17-09.47.45:536][882]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 30
+[2020.06.17-09.47.45:536][882]LogFbx: Triangulating skeletal mesh Cone009
+[2020.06.17-09.47.45:597][882]LogFbx: Warning: Bones digested - 39  Depth of hierarchy - 10
+[2020.06.17-09.47.46:014][882]LogSkeletalMesh: Section 0: 8970 vertices, 39 active bones
+[2020.06.17-09.47.46:017][882]LogSkeletalMesh: Section 0: Material=0, 10256 triangles
+[2020.06.17-09.47.46:029][882]LogSkeletalMesh: Building Skeletal Mesh ANIMWOLF_RUNNING...
+[2020.06.17-09.47.46:079][882]LogSkeletalMesh: Built Skeletal Mesh [0.05s] /Game/Enemys/NuevosLobos/ANIMWOLF_RUNNING.ANIMWOLF_RUNNING
+[2020.06.17-09.47.46:110][882]LogLinker: Failed to load '/Game/Enemys/NuevosLobos/ANIMWOLF_RUNNING_Skeleton': Can't find file.
+[2020.06.17-09.47.46:110][882]LogLinker: Failed to load '/Game/Enemys/NuevosLobos/ANIMWOLF_RUNNING_Skeleton': Can't find file.
+[2020.06.17-09.47.46:139][882]LogLinker: Failed to load '/Game/Enemys/NuevosLobos/ANIMWOLF_RUNNING_PhysicsAsset': Can't find file.
+[2020.06.17-09.47.46:140][882]LogLinker: Failed to load '/Game/Enemys/NuevosLobos/ANIMWOLF_RUNNING_PhysicsAsset': Can't find file.
+[2020.06.17-09.47.46:170][882]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2020.06.17-09.47.46:192][882]LogFbx: SortedLinks :(0) Columna
+[2020.06.17-09.47.46:192][882]LogFbx: SortedLinks :(1) joint2
+[2020.06.17-09.47.46:192][882]LogFbx: SortedLinks :(2) joint3
+[2020.06.17-09.47.46:192][882]LogFbx: SortedLinks :(3) Clavicula_del
+[2020.06.17-09.47.46:192][882]LogFbx: SortedLinks :(4) joint5
+[2020.06.17-09.47.46:192][882]LogFbx: SortedLinks :(5) joint6
+[2020.06.17-09.47.46:192][882]LogFbx: SortedLinks :(6) joint7
+[2020.06.17-09.47.46:192][882]LogFbx: SortedLinks :(7) Cone009
+[2020.06.17-09.47.46:192][882]LogFbx: SortedLinks :(8) pata_delantera_drch
+[2020.06.17-09.47.46:192][882]LogFbx: SortedLinks :(9) Rodilla_pierna_drch_del
+[2020.06.17-09.47.46:192][882]LogFbx: SortedLinks :(10) Tobillo_pierna_drch_del
+[2020.06.17-09.47.46:192][882]LogFbx: SortedLinks :(11) muñeca_perina_drch_del
+[2020.06.17-09.47.46:192][882]LogFbx: SortedLinks :(12) pie2_pierna_drch_del
+[2020.06.17-09.47.46:192][882]LogFbx: SortedLinks :(13) uña_pierna_drch_del
+[2020.06.17-09.47.46:192][882]LogFbx: SortedLinks :(14) pata_delantera_izq
+[2020.06.17-09.47.46:192][882]LogFbx: SortedLinks :(15) Rodilla_pierna_izq_del
+[2020.06.17-09.47.46:192][882]LogFbx: SortedLinks :(16) Tobillo_pierna_izq_del
+[2020.06.17-09.47.46:192][882]LogFbx: SortedLinks :(17) muñeca_perina_izq_del
+[2020.06.17-09.47.46:192][882]LogFbx: SortedLinks :(18) pie2_pierna_izq_del
+[2020.06.17-09.47.46:193][882]LogFbx: SortedLinks :(19) uña_pierna_izq_del
+[2020.06.17-09.47.46:193][882]LogFbx: SortedLinks :(20) Cadera_pierna_izq
+[2020.06.17-09.47.46:193][882]LogFbx: SortedLinks :(21) Rodilla_pierna_izq
+[2020.06.17-09.47.46:193][882]LogFbx: SortedLinks :(22) Tobillo_pierna_izq
+[2020.06.17-09.47.46:193][882]LogFbx: SortedLinks :(23) muñeca_perina_izq
+[2020.06.17-09.47.46:193][882]LogFbx: SortedLinks :(24) pie2_pierna_izq
+[2020.06.17-09.47.46:193][882]LogFbx: SortedLinks :(25) uña_pierna_izq
+[2020.06.17-09.47.46:193][882]LogFbx: SortedLinks :(26) Rabito
+[2020.06.17-09.47.46:193][882]LogFbx: SortedLinks :(27) joint9
+[2020.06.17-09.47.46:193][882]LogFbx: SortedLinks :(28) joint10
+[2020.06.17-09.47.46:193][882]LogFbx: SortedLinks :(29) joint11
+[2020.06.17-09.47.46:193][882]LogFbx: SortedLinks :(30) joint12
+[2020.06.17-09.47.46:193][882]LogFbx: SortedLinks :(31) joint13
+[2020.06.17-09.47.46:193][882]LogFbx: SortedLinks :(32) joint14
+[2020.06.17-09.47.46:193][882]LogFbx: SortedLinks :(33) Cadera_pierna_drch
+[2020.06.17-09.47.46:193][882]LogFbx: SortedLinks :(34) Rodilla_pierna_drch
+[2020.06.17-09.47.46:193][882]LogFbx: SortedLinks :(35) Tobillo_pierna_drch
+[2020.06.17-09.47.46:193][882]LogFbx: SortedLinks :(36) muñeca_perina_drch
+[2020.06.17-09.47.46:193][882]LogFbx: SortedLinks :(37) pie2_pierna_drch
+[2020.06.17-09.47.46:193][882]LogFbx: SortedLinks :(38) uña_pierna_drch
+[2020.06.17-09.47.46:202][882]LogFbx: Parsing AnimStack Take 001
+[2020.06.17-09.47.46:203][882]LogLinker: Failed to load '/Game/Enemys/NuevosLobos/ANIMWOLF_RUNNING_Anim': Can't find file.
+[2020.06.17-09.47.46:203][882]LogLinker: Failed to load '/Game/Enemys/NuevosLobos/ANIMWOLF_RUNNING_Anim': Can't find file.
+[2020.06.17-09.47.46:845][882]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Enemys/NuevosLobos/ANIMWOLF_RUNNING_Anim.ANIMWOLF_RUNNING_Anim
+[2020.06.17-09.47.46:854][882]LogAnimationCompression: Recompressing (AnimSequence /Game/Enemys/NuevosLobos/ANIMWOLF_RUNNING_Anim.ANIMWOLF_RUNNING_Anim) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2020.06.17-09.47.46:865][882]LogSkeletalMesh: Building Skeletal Mesh ANIMWOLF_RUNNING...
+[2020.06.17-09.47.46:890][882]LogSkeletalMesh: Built Skeletal Mesh [0.02s] /Game/Enemys/NuevosLobos/ANIMWOLF_RUNNING.ANIMWOLF_RUNNING
+[2020.06.17-09.47.46:908][882]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2020.06.17-09.47.46:908][882]FBXImport: Warning: The following bones are missing from the bind pose:
+Cone009  
+
+This can happen for bones that are not vert weighted. If they are not in the correct orientation after importing,
+please set the "Use T0 as ref pose" option or add them to the bind pose and reimport the skeletal mesh. 
+[2020.06.17-09.47.46:931][882]LogSkeletalMesh: Building Skeletal Mesh ANIMWOLF_RUNNING...
+[2020.06.17-09.47.46:961][882]LogSkeletalMesh: Built Skeletal Mesh [0.03s] /Game/Enemys/NuevosLobos/ANIMWOLF_RUNNING.ANIMWOLF_RUNNING
+[2020.06.17-09.47.49:157][  6]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 20
+[2020.06.17-09.47.49:275][ 12]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 14
+[2020.06.17-09.47.49:905][ 48]LogSlate: Window 'Message Log' being destroyed
+[2020.06.17-09.47.49:912][ 48]LogSlate: Window 'Message Log' being destroyed
+[2020.06.17-09.47.50:358][ 74]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 10
+[2020.06.17-09.47.51:012][103]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 7
+[2020.06.17-09.47.51:112][108]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 5
+[2020.06.17-09.47.51:697][140]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 3
+[2020.06.17-09.47.51:905][152]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 2
+[2020.06.17-09.47.52:324][177]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 1
+[2020.06.17-09.48.20:615][692]LogUObjectHash: Compacting FUObjectHashTables data took   3.58ms
+[2020.06.17-09.48.20:615][692]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Pantano' took 0.039
+[2020.06.17-09.48.20:617][692]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Enemys/NuevosLobos/ANIMWOLF_RUNNING] ([1] browsable assets)...
+[2020.06.17-09.48.20:635][692]OBJ SavePackage:     Rendered thumbnail for [SkeletalMesh /Game/Enemys/NuevosLobos/ANIMWOLF_RUNNING.ANIMWOLF_RUNNING]
+[2020.06.17-09.48.20:635][692]OBJ SavePackage: Finished generating thumbnails for package [/Game/Enemys/NuevosLobos/ANIMWOLF_RUNNING]
+[2020.06.17-09.48.20:667][692]LogSavePackage: Moving 'C:/Users/victo/OneDrive/Documents/GitHub/The-Last/The Last/GameAlpha/TheLast/Saved/ANIMWOLF_RUNNING_Auto221F6DDCC495389FA5F785788AD153A4C.tmp' to 'C:/Users/victo/OneDrive/Documents/GitHub/The-Last/The Last/GameAlpha/TheLast/Saved/Autosaves/Game/Enemys/NuevosLobos/ANIMWOLF_RUNNING_Auto2.uasset'
+[2020.06.17-09.48.20:670][692]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Enemys/NuevosLobos/lambert2] ([1] browsable assets)...
+[2020.06.17-09.48.20:680][692]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Enemys/NuevosLobos/lambert2.lambert2]
+[2020.06.17-09.48.20:680][692]OBJ SavePackage: Finished generating thumbnails for package [/Game/Enemys/NuevosLobos/lambert2]
+[2020.06.17-09.48.20:691][692]LogSavePackage: Moving 'C:/Users/victo/OneDrive/Documents/GitHub/The-Last/The Last/GameAlpha/TheLast/Saved/lambert2_Auto220B1E0EF46B485ACD6DED9B890B17868.tmp' to 'C:/Users/victo/OneDrive/Documents/GitHub/The-Last/The Last/GameAlpha/TheLast/Saved/Autosaves/Game/Enemys/NuevosLobos/lambert2_Auto2.uasset'
+[2020.06.17-09.48.20:694][692]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Enemys/NuevosLobos/ANIMWOLF_RUNNING_Skeleton] ([1] browsable assets)...
+[2020.06.17-09.48.20:694][692]OBJ SavePackage: Finished generating thumbnails for package [/Game/Enemys/NuevosLobos/ANIMWOLF_RUNNING_Skeleton]
+[2020.06.17-09.48.20:697][692]LogSavePackage: Moving 'C:/Users/victo/OneDrive/Documents/GitHub/The-Last/The Last/GameAlpha/TheLast/Saved/ANIMWOLF_RUNNING_Skeleton_Auto25566B45A4F5BDE36008CB59196B1B05C.tmp' to 'C:/Users/victo/OneDrive/Documents/GitHub/The-Last/The Last/GameAlpha/TheLast/Saved/Autosaves/Game/Enemys/NuevosLobos/ANIMWOLF_RUNNING_Skeleton_Auto2.uasset'
+[2020.06.17-09.48.20:700][692]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Enemys/NuevosLobos/ANIMWOLF_RUNNING_PhysicsAsset] ([1] browsable assets)...
+[2020.06.17-09.48.20:712][692]OBJ SavePackage:     Rendered thumbnail for [PhysicsAsset /Game/Enemys/NuevosLobos/ANIMWOLF_RUNNING_PhysicsAsset.ANIMWOLF_RUNNING_PhysicsAsset]
+[2020.06.17-09.48.20:712][692]OBJ SavePackage: Finished generating thumbnails for package [/Game/Enemys/NuevosLobos/ANIMWOLF_RUNNING_PhysicsAsset]
+[2020.06.17-09.48.20:724][692]LogSavePackage: Moving 'C:/Users/victo/OneDrive/Documents/GitHub/The-Last/The Last/GameAlpha/TheLast/Saved/ANIMWOLF_RUNNING_PhysicsAsset_Au24AC9FF247E8DEE56D61D98EEB4A6A7D.tmp' to 'C:/Users/victo/OneDrive/Documents/GitHub/The-Last/The Last/GameAlpha/TheLast/Saved/Autosaves/Game/Enemys/NuevosLobos/ANIMWOLF_RUNNING_PhysicsAsset_Auto2.uasset'
+[2020.06.17-09.48.20:727][692]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Enemys/NuevosLobos/ANIMWOLF_RUNNING_Anim] ([1] browsable assets)...
+[2020.06.17-09.48.20:739][692]OBJ SavePackage:     Rendered thumbnail for [AnimSequence /Game/Enemys/NuevosLobos/ANIMWOLF_RUNNING_Anim.ANIMWOLF_RUNNING_Anim]
+[2020.06.17-09.48.20:740][692]OBJ SavePackage: Finished generating thumbnails for package [/Game/Enemys/NuevosLobos/ANIMWOLF_RUNNING_Anim]
+[2020.06.17-09.48.20:751][692]LogSavePackage: Moving 'C:/Users/victo/OneDrive/Documents/GitHub/The-Last/The Last/GameAlpha/TheLast/Saved/ANIMWOLF_RUNNING_Anim_Auto24A12187A4B3C8819741A2188D62FD98F.tmp' to 'C:/Users/victo/OneDrive/Documents/GitHub/The-Last/The Last/GameAlpha/TheLast/Saved/Autosaves/Game/Enemys/NuevosLobos/ANIMWOLF_RUNNING_Anim_Auto2.uasset'
+[2020.06.17-09.48.20:754][692]LogFileHelpers: Auto-saving content packages took 0.138
+[2020.06.17-09.51.20:199][311]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\victo\Downloads\WOlf-20200616T141136Z-001\WOlf\ANIMWOLF_ATTACK.fbx)
+[2020.06.17-09.51.20:214][311]LogFbx: Loading FBX Scene from C:\Users\victo\Downloads\WOlf-20200616T141136Z-001\WOlf\ANIMWOLF_ATTACK.fbx
+[2020.06.17-09.51.20:252][311]LogFbx: FBX Scene Loaded Succesfully
+[2020.06.17-09.51.22:636][311]LogSlate: Window 'FBX Import Options' being destroyed
+[2020.06.17-09.51.22:682][311]LogFbx: Valid bind pose for Pose (skinCluster1) - ZBrush_defualt_group
+[2020.06.17-09.51.22:684][311]LogFbx: Triangulating skeletal mesh ZBrush_defualt_group
+[2020.06.17-09.51.23:233][311]LogFbx: Triangulating skeletal mesh Cone009
+[2020.06.17-09.51.23:280][311]LogFbx: Warning: Bones digested - 39  Depth of hierarchy - 10
+[2020.06.17-09.51.23:559][311]LogSkeletalMesh: Section 0: 8970 vertices, 39 active bones
+[2020.06.17-09.51.23:561][311]LogSkeletalMesh: Section 0: Material=0, 10256 triangles
+[2020.06.17-09.51.23:565][311]LogSkeletalMesh: Building Skeletal Mesh ANIMWOLF_ATTACK...
+[2020.06.17-09.51.23:581][311]LogSkeletalMesh: Built Skeletal Mesh [0.02s] /Game/Enemys/NuevosLobos/ANIMWOLF_ATTACK.ANIMWOLF_ATTACK
+[2020.06.17-09.51.23:586][311]LogLinker: Failed to load '/Game/Enemys/NuevosLobos/ANIMWOLF_ATTACK_PhysicsAsset': Can't find file.
+[2020.06.17-09.51.23:588][311]LogLinker: Failed to load '/Game/Enemys/NuevosLobos/ANIMWOLF_ATTACK_PhysicsAsset': Can't find file.
+[2020.06.17-09.51.23:595][311]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2020.06.17-09.51.23:605][311]LogFbx: SortedLinks :(0) Columna
+[2020.06.17-09.51.23:605][311]LogFbx: SortedLinks :(1) joint2
+[2020.06.17-09.51.23:605][311]LogFbx: SortedLinks :(2) joint3
+[2020.06.17-09.51.23:605][311]LogFbx: SortedLinks :(3) Clavicula_del
+[2020.06.17-09.51.23:605][311]LogFbx: SortedLinks :(4) joint5
+[2020.06.17-09.51.23:605][311]LogFbx: SortedLinks :(5) joint6
+[2020.06.17-09.51.23:605][311]LogFbx: SortedLinks :(6) joint7
+[2020.06.17-09.51.23:605][311]LogFbx: SortedLinks :(7) Cone009
+[2020.06.17-09.51.23:605][311]LogFbx: SortedLinks :(8) pata_delantera_drch
+[2020.06.17-09.51.23:605][311]LogFbx: SortedLinks :(9) Rodilla_pierna_drch_del
+[2020.06.17-09.51.23:605][311]LogFbx: SortedLinks :(10) Tobillo_pierna_drch_del
+[2020.06.17-09.51.23:605][311]LogFbx: SortedLinks :(11) muñeca_perina_drch_del
+[2020.06.17-09.51.23:606][311]LogFbx: SortedLinks :(12) pie2_pierna_drch_del
+[2020.06.17-09.51.23:606][311]LogFbx: SortedLinks :(13) uña_pierna_drch_del
+[2020.06.17-09.51.23:606][311]LogFbx: SortedLinks :(14) pata_delantera_izq
+[2020.06.17-09.51.23:606][311]LogFbx: SortedLinks :(15) Rodilla_pierna_izq_del
+[2020.06.17-09.51.23:606][311]LogFbx: SortedLinks :(16) Tobillo_pierna_izq_del
+[2020.06.17-09.51.23:606][311]LogFbx: SortedLinks :(17) muñeca_perina_izq_del
+[2020.06.17-09.51.23:606][311]LogFbx: SortedLinks :(18) pie2_pierna_izq_del
+[2020.06.17-09.51.23:606][311]LogFbx: SortedLinks :(19) uña_pierna_izq_del
+[2020.06.17-09.51.23:606][311]LogFbx: SortedLinks :(20) Cadera_pierna_izq
+[2020.06.17-09.51.23:606][311]LogFbx: SortedLinks :(21) Rodilla_pierna_izq
+[2020.06.17-09.51.23:606][311]LogFbx: SortedLinks :(22) Tobillo_pierna_izq
+[2020.06.17-09.51.23:606][311]LogFbx: SortedLinks :(23) muñeca_perina_izq
+[2020.06.17-09.51.23:606][311]LogFbx: SortedLinks :(24) pie2_pierna_izq
+[2020.06.17-09.51.23:606][311]LogFbx: SortedLinks :(25) uña_pierna_izq
+[2020.06.17-09.51.23:606][311]LogFbx: SortedLinks :(26) Rabito
+[2020.06.17-09.51.23:606][311]LogFbx: SortedLinks :(27) joint9
+[2020.06.17-09.51.23:606][311]LogFbx: SortedLinks :(28) joint10
+[2020.06.17-09.51.23:606][311]LogFbx: SortedLinks :(29) joint11
+[2020.06.17-09.51.23:606][311]LogFbx: SortedLinks :(30) joint12
+[2020.06.17-09.51.23:606][311]LogFbx: SortedLinks :(31) joint13
+[2020.06.17-09.51.23:606][311]LogFbx: SortedLinks :(32) joint14
+[2020.06.17-09.51.23:606][311]LogFbx: SortedLinks :(33) Cadera_pierna_drch
+[2020.06.17-09.51.23:606][311]LogFbx: SortedLinks :(34) Rodilla_pierna_drch
+[2020.06.17-09.51.23:606][311]LogFbx: SortedLinks :(35) Tobillo_pierna_drch
+[2020.06.17-09.51.23:606][311]LogFbx: SortedLinks :(36) muñeca_perina_drch
+[2020.06.17-09.51.23:606][311]LogFbx: SortedLinks :(37) pie2_pierna_drch
+[2020.06.17-09.51.23:606][311]LogFbx: SortedLinks :(38) uña_pierna_drch
+[2020.06.17-09.51.23:610][311]LogFbx: Parsing AnimStack Take 001
+[2020.06.17-09.51.23:611][311]LogLinker: Failed to load '/Game/Enemys/NuevosLobos/ANIMWOLF_ATTACK_Anim': Can't find file.
+[2020.06.17-09.51.23:611][311]LogLinker: Failed to load '/Game/Enemys/NuevosLobos/ANIMWOLF_ATTACK_Anim': Can't find file.
+[2020.06.17-09.51.23:880][311]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Enemys/NuevosLobos/ANIMWOLF_ATTACK_Anim.ANIMWOLF_ATTACK_Anim
+[2020.06.17-09.51.23:880][311]LogAnimationCompression: Recompressing (AnimSequence /Game/Enemys/NuevosLobos/ANIMWOLF_ATTACK_Anim.ANIMWOLF_ATTACK_Anim) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2020.06.17-09.51.23:884][311]LogSkeletalMesh: Building Skeletal Mesh ANIMWOLF_ATTACK...
+[2020.06.17-09.51.23:895][311]LogSkeletalMesh: Built Skeletal Mesh [0.01s] /Game/Enemys/NuevosLobos/ANIMWOLF_ATTACK.ANIMWOLF_ATTACK
+[2020.06.17-09.51.23:904][311]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2020.06.17-09.51.23:904][311]FBXImport: Warning: The following bones are missing from the bind pose:
+Cone009  
+
+This can happen for bones that are not vert weighted. If they are not in the correct orientation after importing,
+please set the "Use T0 as ref pose" option or add them to the bind pose and reimport the skeletal mesh. 
+[2020.06.17-09.51.23:925][311]LogSkeletalMesh: Building Skeletal Mesh ANIMWOLF_ATTACK...
+[2020.06.17-09.51.23:942][311]LogSkeletalMesh: Built Skeletal Mesh [0.02s] /Game/Enemys/NuevosLobos/ANIMWOLF_ATTACK.ANIMWOLF_ATTACK
+[2020.06.17-09.51.37:319][ 74]LogSlate: Window 'Message Log' being destroyed
+[2020.06.17-09.51.37:326][ 74]LogSlate: Window 'Message Log' being destroyed
+[2020.06.17-09.54.04:075][ 77]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\victo\Downloads\WOlf-20200616T141136Z-001\WOlf\ANIMWOLF_DEATH.fbx)
+[2020.06.17-09.54.04:091][ 77]LogFbx: Loading FBX Scene from C:\Users\victo\Downloads\WOlf-20200616T141136Z-001\WOlf\ANIMWOLF_DEATH.fbx
+[2020.06.17-09.54.04:134][ 77]LogFbx: FBX Scene Loaded Succesfully
+[2020.06.17-09.54.05:597][ 77]LogSlate: Window 'FBX Import Options' being destroyed
+[2020.06.17-09.54.05:639][ 77]LogFbx: Valid bind pose for Pose (skinCluster1) - ZBrush_defualt_group
+[2020.06.17-09.54.05:652][ 77]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2020.06.17-09.54.05:652][ 77]FBXImport: Error: Error, Could not import ZBrush_defualt_group.
+Duplicate bone name found ('uña_pierna_izq'). Each bone must have a unique name. 
+[2020.06.17-09.54.05:652][ 77]FBXImport: Warning: Get Import Data has failed. 
+[2020.06.17-09.54.05:652][ 77]FBXImport: Error: Import failed. 
+[2020.06.17-09.54.09:145][ 77]LogSlate: Window 'Message' being destroyed
+[2020.06.17-09.54.09:153][ 77]LogAssetTools: Warning: Failed to import 'C:\Users\victo\Downloads\WOlf-20200616T141136Z-001\WOlf\ANIMWOLF_DEATH.fbx'. Failed to create asset '/Game/Enemys/NuevosLobos/ANIMWOLF_DEATH'.
+Please see Output Log for details.
+[2020.06.17-09.54.15:408][452]LogSlate: Window 'Message Log' being destroyed
+[2020.06.17-09.54.15:414][452]LogSlate: Window 'Message Log' being destroyed
+[2020.06.17-09.55.54:773][974]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\victo\Downloads\WOlf-20200616T141136Z-001\WOlf\ANIMWOLF_DEATH.fbx)
+[2020.06.17-09.55.54:787][974]LogFbx: Loading FBX Scene from C:\Users\victo\Downloads\WOlf-20200616T141136Z-001\WOlf\ANIMWOLF_DEATH.fbx
+[2020.06.17-09.55.54:826][974]LogFbx: FBX Scene Loaded Succesfully
+[2020.06.17-09.55.55:828][974]LogSlate: Window 'FBX Import Options' being destroyed
+[2020.06.17-09.55.55:868][974]LogFbx: Valid bind pose for Pose (skinCluster1) - ZBrush_defualt_group
+[2020.06.17-09.55.55:881][974]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2020.06.17-09.55.55:881][974]FBXImport: Error: Error, Could not import ZBrush_defualt_group.
+Duplicate bone name found ('uña_pierna_izq'). Each bone must have a unique name. 
+[2020.06.17-09.55.55:881][974]FBXImport: Warning: Get Import Data has failed. 
+[2020.06.17-09.55.55:881][974]FBXImport: Error: Import failed. 
+[2020.06.17-09.55.57:086][974]LogSlate: Window 'Message' being destroyed
+[2020.06.17-09.55.57:094][974]LogAssetTools: Warning: Failed to import 'C:\Users\victo\Downloads\WOlf-20200616T141136Z-001\WOlf\ANIMWOLF_DEATH.fbx'. Failed to create asset '/Game/Enemys/NuevosLobos/ANIMWOLF_DEATH'.
+Please see Output Log for details.
+[2020.06.17-09.56.04:120][330]LogSlate: Window 'Message Log' being destroyed
+[2020.06.17-09.56.04:127][330]LogSlate: Window 'Message Log' being destroyed
+[2020.06.17-09.56.40:434][604]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\victo\Downloads\WOlf-20200616T141136Z-001\WOlf\ANIMWOLF_DEATH.fbx)
+[2020.06.17-09.56.40:450][604]LogFbx: Loading FBX Scene from C:\Users\victo\Downloads\WOlf-20200616T141136Z-001\WOlf\ANIMWOLF_DEATH.fbx
+[2020.06.17-09.56.40:491][604]LogFbx: FBX Scene Loaded Succesfully
+[2020.06.17-09.56.41:420][604]LogSlate: Window 'FBX Import Options' being destroyed
+[2020.06.17-09.56.41:461][604]LogFbx: Valid bind pose for Pose (skinCluster1) - ZBrush_defualt_group
+[2020.06.17-09.56.41:464][604]LogFbx: Triangulating skeletal mesh ZBrush_defualt_group
+[2020.06.17-09.56.41:964][604]LogFbx: Triangulating skeletal mesh Cone009
+[2020.06.17-09.56.42:007][604]LogFbx: Warning: Bones digested - 39  Depth of hierarchy - 10
+[2020.06.17-09.56.42:274][604]LogSkeletalMesh: Section 0: 8970 vertices, 39 active bones
+[2020.06.17-09.56.42:276][604]LogSkeletalMesh: Section 0: Material=0, 10256 triangles
+[2020.06.17-09.56.42:280][604]LogSkeletalMesh: Building Skeletal Mesh ANIMWOLF_DEATH...
+[2020.06.17-09.56.42:293][604]LogSkeletalMesh: Built Skeletal Mesh [0.01s] /Game/Enemys/NuevosLobos/ANIMWOLF_DEATH.ANIMWOLF_DEATH
+[2020.06.17-09.56.53:013][604]LogSlate: Window 'Message' being destroyed
+[2020.06.17-09.56.53:035][604]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Enemys/NuevosLobos/ANIMWOLF_RUNNING_Anim.ANIMWOLF_RUNNING_Anim
+[2020.06.17-09.56.53:035][604]LogAnimationCompression: Recompressing (AnimSequence /Game/Enemys/NuevosLobos/ANIMWOLF_RUNNING_Anim.ANIMWOLF_RUNNING_Anim) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2020.06.17-09.56.53:039][604]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Enemys/NuevosLobos/ANIMWOLF_ATTACK_Anim.ANIMWOLF_ATTACK_Anim
+[2020.06.17-09.56.53:040][604]LogAnimationCompression: Recompressing (AnimSequence /Game/Enemys/NuevosLobos/ANIMWOLF_ATTACK_Anim.ANIMWOLF_ATTACK_Anim) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2020.06.17-09.56.58:092][604]LogSlate: Window 'Message' being destroyed
+[2020.06.17-09.56.59:809][604]LogSlate: Window 'Message' being destroyed
+[2020.06.17-09.57.00:603][604]LogSlate: Window 'Message' being destroyed
+[2020.06.17-09.57.00:624][604]LogLinker: Failed to load '/Game/Enemys/NuevosLobos/ANIMWOLF_DEATH_PhysicsAsset': Can't find file.
+[2020.06.17-09.57.00:624][604]LogLinker: Failed to load '/Game/Enemys/NuevosLobos/ANIMWOLF_DEATH_PhysicsAsset': Can't find file.
+[2020.06.17-09.57.00:635][604]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
+[2020.06.17-09.57.00:643][604]LogFbx: SortedLinks :(0) Columna
+[2020.06.17-09.57.00:643][604]LogFbx: SortedLinks :(1) joint2
+[2020.06.17-09.57.00:643][604]LogFbx: SortedLinks :(2) joint3
+[2020.06.17-09.57.00:643][604]LogFbx: SortedLinks :(3) Clavicula_del
+[2020.06.17-09.57.00:643][604]LogFbx: SortedLinks :(4) joint5
+[2020.06.17-09.57.00:643][604]LogFbx: SortedLinks :(5) joint6
+[2020.06.17-09.57.00:643][604]LogFbx: SortedLinks :(6) joint7
+[2020.06.17-09.57.00:643][604]LogFbx: SortedLinks :(7) pata_delantera_drch
+[2020.06.17-09.57.00:643][604]LogFbx: SortedLinks :(8) Rodilla_pierna_drch_del
+[2020.06.17-09.57.00:643][604]LogFbx: SortedLinks :(9) Tobillo_pierna_drch_del
+[2020.06.17-09.57.00:643][604]LogFbx: SortedLinks :(10) muñeca_perina_drch_del
+[2020.06.17-09.57.00:643][604]LogFbx: SortedLinks :(11) pie2_pierna_drch_del
+[2020.06.17-09.57.00:643][604]LogFbx: SortedLinks :(12) uña_pierna_drch_del
+[2020.06.17-09.57.00:643][604]LogFbx: SortedLinks :(13) pata_delantera_izq
+[2020.06.17-09.57.00:643][604]LogFbx: SortedLinks :(14) Rodilla_pierna_izq_del
+[2020.06.17-09.57.00:643][604]LogFbx: SortedLinks :(15) Tobillo_pierna_izq_del
+[2020.06.17-09.57.00:643][604]LogFbx: SortedLinks :(16) muñeca_perina_izq_del
+[2020.06.17-09.57.00:643][604]LogFbx: SortedLinks :(17) pie2_pierna_izq_del
+[2020.06.17-09.57.00:643][604]LogFbx: SortedLinks :(18) uña_pierna_izq_del
+[2020.06.17-09.57.00:643][604]LogFbx: SortedLinks :(19) Cone009
+[2020.06.17-09.57.00:643][604]LogFbx: SortedLinks :(20) Cadera_pierna_izq
+[2020.06.17-09.57.00:643][604]LogFbx: SortedLinks :(21) Rodilla_pierna_izq
+[2020.06.17-09.57.00:643][604]LogFbx: SortedLinks :(22) Tobillo_pierna_izq
+[2020.06.17-09.57.00:643][604]LogFbx: SortedLinks :(23) muñeca_perina_izq
+[2020.06.17-09.57.00:644][604]LogFbx: SortedLinks :(24) pie2_pierna_izq
+[2020.06.17-09.57.00:644][604]LogFbx: SortedLinks :(25) uña_pierna_izq
+[2020.06.17-09.57.00:644][604]LogFbx: SortedLinks :(26) Rabito
+[2020.06.17-09.57.00:644][604]LogFbx: SortedLinks :(27) joint9
+[2020.06.17-09.57.00:644][604]LogFbx: SortedLinks :(28) joint10
+[2020.06.17-09.57.00:644][604]LogFbx: SortedLinks :(29) joint11
+[2020.06.17-09.57.00:644][604]LogFbx: SortedLinks :(30) joint12
+[2020.06.17-09.57.00:644][604]LogFbx: SortedLinks :(31) joint13
+[2020.06.17-09.57.00:644][604]LogFbx: SortedLinks :(32) joint14
+[2020.06.17-09.57.00:644][604]LogFbx: SortedLinks :(33) Cadera_pierna_drch
+[2020.06.17-09.57.00:644][604]LogFbx: SortedLinks :(34) Rodilla_pierna_drch
+[2020.06.17-09.57.00:644][604]LogFbx: SortedLinks :(35) Tobillo_pierna_drch
+[2020.06.17-09.57.00:644][604]LogFbx: SortedLinks :(36) muñeca_perina_drch
+[2020.06.17-09.57.00:644][604]LogFbx: SortedLinks :(37) pie2_pierna_drch
+[2020.06.17-09.57.00:644][604]LogFbx: SortedLinks :(38) uña_pierna_drch
+[2020.06.17-09.57.00:647][604]LogFbx: Parsing AnimStack Take 001
+[2020.06.17-09.57.00:648][604]LogLinker: Failed to load '/Game/Enemys/NuevosLobos/ANIMWOLF_DEATH_Anim': Can't find file.
+[2020.06.17-09.57.00:648][604]LogLinker: Failed to load '/Game/Enemys/NuevosLobos/ANIMWOLF_DEATH_Anim': Can't find file.
+[2020.06.17-09.57.01:111][604]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Enemys/NuevosLobos/ANIMWOLF_DEATH_Anim.ANIMWOLF_DEATH_Anim
+[2020.06.17-09.57.01:111][604]LogAnimationCompression: Recompressing (AnimSequence /Game/Enemys/NuevosLobos/ANIMWOLF_DEATH_Anim.ANIMWOLF_DEATH_Anim) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2020.06.17-09.57.01:115][604]LogSkeletalMesh: Building Skeletal Mesh ANIMWOLF_DEATH...
+[2020.06.17-09.57.01:130][604]LogSkeletalMesh: Built Skeletal Mesh [0.02s] /Game/Enemys/NuevosLobos/ANIMWOLF_DEATH.ANIMWOLF_DEATH
+[2020.06.17-09.57.01:140][604]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2020.06.17-09.57.01:140][604]FBXImport: Warning: The following bones are missing from the bind pose:
+Cone009  
+
+This can happen for bones that are not vert weighted. If they are not in the correct orientation after importing,
+please set the "Use T0 as ref pose" option or add them to the bind pose and reimport the skeletal mesh. 
+[2020.06.17-09.57.01:160][604]LogSkeletalMesh: Building Skeletal Mesh ANIMWOLF_DEATH...
+[2020.06.17-09.57.01:174][604]LogSkeletalMesh: Built Skeletal Mesh [0.01s] /Game/Enemys/NuevosLobos/ANIMWOLF_DEATH.ANIMWOLF_DEATH
+[2020.06.17-09.57.04:242][786]LogSlate: Window 'Message Log' being destroyed
+[2020.06.17-09.57.04:250][786]LogSlate: Window 'Message Log' being destroyed
+[2020.06.17-09.57.09:613][ 96]LogAssetEditorManager: Opening Asset editor for AnimSequence /Game/Enemys/NuevosLobos/ANIMWOLF_ATTACK_Anim.ANIMWOLF_ATTACK_Anim
+[2020.06.17-09.57.09:627][ 96]LogContentBrowser: Native class hierarchy updated for 'SkeletonEditor' in 0.0050 seconds. Added 1 classes and 2 folders.
+[2020.06.17-09.57.12:027][ 96]LogSlate: Window 'Message' being destroyed
+[2020.06.17-09.57.12:038][ 96]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Enemys/NuevosLobos/ANIMWOLF_RUNNING_Anim.ANIMWOLF_RUNNING_Anim
+[2020.06.17-09.57.12:038][ 96]LogAnimationCompression: Recompressing (AnimSequence /Game/Enemys/NuevosLobos/ANIMWOLF_RUNNING_Anim.ANIMWOLF_RUNNING_Anim) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2020.06.17-09.57.12:045][ 96]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Enemys/NuevosLobos/ANIMWOLF_ATTACK_Anim.ANIMWOLF_ATTACK_Anim
+[2020.06.17-09.57.12:045][ 96]LogAnimationCompression: Recompressing (AnimSequence /Game/Enemys/NuevosLobos/ANIMWOLF_ATTACK_Anim.ANIMWOLF_ATTACK_Anim) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2020.06.17-09.57.12:048][ 96]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Enemys/NuevosLobos/ANIMWOLF_DEATH_Anim.ANIMWOLF_DEATH_Anim
+[2020.06.17-09.57.12:048][ 96]LogAnimationCompression: Recompressing (AnimSequence /Game/Enemys/NuevosLobos/ANIMWOLF_DEATH_Anim.ANIMWOLF_DEATH_Anim) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2020.06.17-09.57.12:060][ 96]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_11:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.06.17-09.57.12:067][ 96]LogContentBrowser: Native class hierarchy updated for 'PinnedCommandList' in 0.0036 seconds. Added 1 classes and 0 folders.
+[2020.06.17-09.57.12:108][ 96]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_11:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2020.06.17-09.57.13:221][ 96]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2020.06.17-09.57.18:535][372]LogAssetEditorManager: Opening Asset editor for AnimSequence /Game/Enemys/NuevosLobos/ANIMWOLF_DEATH_Anim.ANIMWOLF_DEATH_Anim
+[2020.06.17-09.57.18:621][372]LogWorld: UWorld::CleanupWorld for World_13, bSessionEnded=true, bCleanupResources=true
+[2020.06.17-09.57.23:425][654]LogAssetEditorManager: Opening Asset editor for AnimSequence /Game/Enemys/NuevosLobos/ANIMWOLF_RUNNING_Anim.ANIMWOLF_RUNNING_Anim
+[2020.06.17-09.57.23:547][654]LogWorld: UWorld::CleanupWorld for World_14, bSessionEnded=true, bCleanupResources=true
+[2020.06.17-09.57.53:894][370]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.06.17-09.58.16:585][700]LogSlate: Window 'ANIMWOLF_RUNNING_Anim' being destroyed
+[2020.06.17-09.58.16:594][700]LogSlate: Window 'ANIMWOLF_RUNNING_Anim' being destroyed
+[2020.06.17-09.58.16:594][700]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2020.06.17-09.58.16:639][700]LogWorld: UWorld::CleanupWorld for World_15, bSessionEnded=true, bCleanupResources=true
+[2020.06.17-09.58.16:716][700]LogWorld: UWorld::CleanupWorld for World_12, bSessionEnded=true, bCleanupResources=true
+[2020.06.17-09.58.22:894][926]LogAssetEditorManager: Opening Asset editor for Skeleton /Game/Enemys/NuevosLobos/ANIMWOLF_RUNNING_Skeleton.ANIMWOLF_RUNNING_Skeleton
+[2020.06.17-09.58.22:903][926]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_16:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.06.17-09.58.23:280][926]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_16:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2020.06.17-09.58.23:572][926]LogRenderer: Reallocating scene render targets to support 1188x884 Format 10 NumSamples 1 (Frame:1).
+[2020.06.17-09.58.37:199][718]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.06.17-09.58.37:233][720]LogSlate: Window 'ANIMWOLF_RUNNING_Skeleton' being destroyed
+[2020.06.17-09.58.37:240][720]LogSlate: Window 'ANIMWOLF_RUNNING_Skeleton' being destroyed
+[2020.06.17-09.58.37:241][720]LogWorld: UWorld::CleanupWorld for World_16, bSessionEnded=true, bCleanupResources=true
+[2020.06.17-09.58.43:826][100]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.06.17-09.58.43:956][107]LogAssetEditorManager: Opening Asset editor for SkeletalMesh /Game/Enemys/NuevosLobos/ANIMWOLF_RUNNING.ANIMWOLF_RUNNING
+[2020.06.17-09.58.44:291][107]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_17:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.06.17-09.58.44:382][107]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_17:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2020.06.17-09.58.55:420][727]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.06.17-09.58.55:470][730]LogSlate: Window 'ANIMWOLF_RUNNING' being destroyed
+[2020.06.17-09.58.55:477][730]LogSlate: Window 'ANIMWOLF_RUNNING' being destroyed
+[2020.06.17-09.58.55:477][730]LogWorld: UWorld::CleanupWorld for World_17, bSessionEnded=true, bCleanupResources=true
+[2020.06.17-09.59.00:577][ 22]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Enemys/Lobete.Lobete
+[2020.06.17-09.59.09:911][498]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.06.17-09.59.11:875][598]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2020.06.17-09.59.11:931][598]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.06.17-09.59.14:661][756]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.06.17-09.59.40:983][321]LogUnrealMath: Error: FMatrix::InverseFast(), trying to invert a NIL matrix, this results in NaNs! Use Inverse() instead.
+[2020.06.17-09.59.42:112][322]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.795 s
+[2020.06.17-09.59.42:112][322]LogOutputDevice: Error: === Handled ensure: ===
+[2020.06.17-09.59.42:112][322]LogOutputDevice: Error: 
+[2020.06.17-09.59.42:112][322]LogOutputDevice: Error: Ensure condition failed: false [File:D:/Build/++UE4/Sync/Engine/Source/Runtime/Core/Private/Math/Matrix.cpp] [Line: 8]
+[2020.06.17-09.59.42:112][322]LogOutputDevice: Error: FMatrix::InverseFast(), trying to invert a NIL matrix, this results in NaNs! Use Inverse() instead.
+[2020.06.17-09.59.42:112][322]LogOutputDevice: Error: Stack: 
+[2020.06.17-09.59.42:112][322]LogOutputDevice: Error: [Callstack] 0x00007ffa85d6fce6 UE4Editor-Core.dll!UnknownFunction []
+[2020.06.17-09.59.42:112][322]LogOutputDevice: Error: [Callstack] 0x00007ffa85961b28 UE4Editor-Core.dll!UnknownFunction []
+[2020.06.17-09.59.42:112][322]LogOutputDevice: Error: [Callstack] 0x00007ffa748854a3 UE4Editor-Engine.dll!UnknownFunction []
+[2020.06.17-09.59.42:112][322]LogOutputDevice: Error: [Callstack] 0x00007ffa7576db34 UE4Editor-Engine.dll!UnknownFunction []
+[2020.06.17-09.59.42:112][322]LogOutputDevice: Error: [Callstack] 0x00007ffa7574df3c UE4Editor-Engine.dll!UnknownFunction []
+[2020.06.17-09.59.42:112][322]LogOutputDevice: Error: [Callstack] 0x00007ffa75767019 UE4Editor-Engine.dll!UnknownFunction []
+[2020.06.17-09.59.42:112][322]LogOutputDevice: Error: [Callstack] 0x00007ffa7576540e UE4Editor-Engine.dll!UnknownFunction []
+[2020.06.17-09.59.42:112][322]LogOutputDevice: Error: [Callstack] 0x00007ffa6f27cef6 UE4Editor-Renderer.dll!UnknownFunction []
+[2020.06.17-09.59.42:112][322]LogOutputDevice: Error: [Callstack] 0x00007ffa6f26e6fe UE4Editor-Renderer.dll!UnknownFunction []
+[2020.06.17-09.59.42:112][322]LogOutputDevice: Error: [Callstack] 0x00007ffa6f282759 UE4Editor-Renderer.dll!UnknownFunction []
+[2020.06.17-09.59.42:112][322]LogOutputDevice: Error: [Callstack] 0x00007ffa6ed898ec UE4Editor-Renderer.dll!UnknownFunction []
+[2020.06.17-09.59.42:112][322]LogOutputDevice: Error: [Callstack] 0x00007ffa6f212449 UE4Editor-Renderer.dll!UnknownFunction []
+[2020.06.17-09.59.42:112][322]LogOutputDevice: Error: [Callstack] 0x00007ffa6f1ee4c1 UE4Editor-Renderer.dll!UnknownFunction []
+[2020.06.17-09.59.42:112][322]LogOutputDevice: Error: [Callstack] 0x00007ffa85814e4a UE4Editor-Core.dll!UnknownFunction []
+[2020.06.17-09.59.42:112][322]LogOutputDevice: Error: [Callstack] 0x00007ffa858151f3 UE4Editor-Core.dll!UnknownFunction []
+[2020.06.17-09.59.42:112][322]LogOutputDevice: Error: [Callstack] 0x00007ffaf1560021 UE4Editor-RenderCore.dll!UnknownFunction []
+[2020.06.17-09.59.42:112][322]LogOutputDevice: Error: [Callstack] 0x00007ffaf15685b4 UE4Editor-RenderCore.dll!UnknownFunction []
+[2020.06.17-09.59.42:112][322]LogOutputDevice: Error: [Callstack] 0x00007ffa85c69f5f UE4Editor-Core.dll!UnknownFunction []
+[2020.06.17-09.59.42:112][322]LogOutputDevice: Error: [Callstack] 0x00007ffa85c604b1 UE4Editor-Core.dll!UnknownFunction []
+[2020.06.17-09.59.42:112][322]LogOutputDevice: Error: [Callstack] 0x00007ffb32197bd4 KERNEL32.DLL!UnknownFunction []
+[2020.06.17-09.59.42:112][322]LogOutputDevice: Error: [Callstack] 0x00007ffb3238ce51 ntdll.dll!UnknownFunction []
+[2020.06.17-09.59.42:112][322]LogOutputDevice: Error: 
+[2020.06.17-09.59.42:112][322]LogStats:                SubmitErrorReport -  0.000 s
